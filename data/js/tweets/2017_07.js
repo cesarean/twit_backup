@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 09 15:04:26 +0000 2017",
+		"id": 884065717020000300,
+		"id_str": "884065717020000257",
+		"text": "RT @ENNEADevent: ♥RT♥ 7월 27일(목) 00시~ 7월 30일(일) 24시\n엔네아드 교류회 '누가 내 파피루스에 연성했어?' 의 1차 부스 모집을 합니다. 자세한 내용은 다음 폼을 참조해주세요.\nhttps://t.co/FKWlgqvB…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ENNEADevent",
+					"name": "엔네아드 교류회",
+					"id": 876057203437744100,
+					"id_str": "876057203437744128",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5895,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860535043587846144/tcO7awoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860535043587846144/tcO7awoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 09 15:03:02 +0000 2017",
+			"id": 884065365294055400,
+			"id_str": "884065365294055424",
+			"text": "♥RT♥ 7월 27일(목) 00시~ 7월 30일(일) 24시\n엔네아드 교류회 '누가 내 파피루스에 연성했어?' 의 1차 부스 모집을 합니다. 자세한 내용은 다음 폼을 참조해주세요.… https://t.co/R4IGgfyo14",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R4IGgfyo14",
+						"expanded_url": "https://twitter.com/i/web/status/884065365294055424",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 876057203437744100,
+				"id_str": "876057203437744128",
+				"name": "엔네아드 교류회",
+				"screen_name": "ENNEADevent",
+				"location": "2018년 2월 25일 용산구 북부 예정",
+				"description": "모히또(@mojito_ennead)님의 이집트신화 기반 BL 웹툰 엔네아드의 참관형 교류회 '누가 내 파피루스에 연성했어?' 의 안내용 계정입니다. 행사진행 여부는 작가님께 허락받았습니다. 문의사항은 DM으로 부탁드립니다. 공지글은 마음함에! 준비는 천천히 진행됩니다.",
+				"url": "https://t.co/EG3jCWoEs4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EG3jCWoEs4",
+								"expanded_url": "http://ennead-event.tistory.com/",
+								"display_url": "ennead-event.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 326,
+				"friends_count": 2,
+				"listed_count": 1,
+				"created_at": "Sat Jun 17 12:41:28 +0000 2017",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882924469735399425/E5Gph3cr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882924469735399425/E5Gph3cr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/876057203437744128/1499357484",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jul 09 15:04:21 +0000 2017",
+		"id": 884065695121555500,
+		"id_str": "884065695121555456",
+		"text": "모두모두 재육 후 페아노리안도 핀골피니안도 다들 핀골페아가 성립된 걸 이해 못 하는데 켈리만 이해했음 좋겠다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5895,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860535043587846144/tcO7awoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860535043587846144/tcO7awoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 08 15:08:16 +0000 2017",
 		"id": 883704292770586600,
 		"id_str": "883704292770586626",
