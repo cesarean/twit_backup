@@ -1,6 +1,605 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 08 13:46:12 +0000 2017",
+		"id": 906151686770573300,
+		"id_str": "906151686770573313",
+		"text": "RT @mojito_ennead: 신을 집사로 둔 고양이6 https://t.co/GO5eIvI1cb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mojito_ennead",
+					"name": "모히또 Mojito",
+					"id": 768067568577806300,
+					"id_str": "768067568577806336",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 906140835565015000,
+					"id_str": "906140835565015040",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+					"url": "https://t.co/GO5eIvI1cb",
+					"display_url": "pic.twitter.com/GO5eIvI1cb",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906140977106010100,
+					"source_status_id_str": "906140977106010112",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 906140835565015000,
+					"id_str": "906140835565015040",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+					"url": "https://t.co/GO5eIvI1cb",
+					"display_url": "pic.twitter.com/GO5eIvI1cb",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906140977106010100,
+					"source_status_id_str": "906140977106010112",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				},
+				{
+					"id": 906140835699413000,
+					"id_str": "906140835699412994",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DJNCSgRW0AIOJVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJNCSgRW0AIOJVE.jpg",
+					"url": "https://t.co/GO5eIvI1cb",
+					"display_url": "pic.twitter.com/GO5eIvI1cb",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 906140977106010100,
+					"source_status_id_str": "906140977106010112",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				},
+				{
+					"id": 906140887205466100,
+					"id_str": "906140887205466112",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DJNCVgJW0AApnYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJNCVgJW0AApnYo.jpg",
+					"url": "https://t.co/GO5eIvI1cb",
+					"display_url": "pic.twitter.com/GO5eIvI1cb",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 914,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 914,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 906140977106010100,
+					"source_status_id_str": "906140977106010112",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				}
+			]
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5914,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21800,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 08 13:03:38 +0000 2017",
+			"id": 906140977106010100,
+			"id_str": "906140977106010112",
+			"text": "신을 집사로 둔 고양이6 https://t.co/GO5eIvI1cb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 906140835565015000,
+						"id_str": "906140835565015040",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+						"url": "https://t.co/GO5eIvI1cb",
+						"display_url": "pic.twitter.com/GO5eIvI1cb",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 906140835565015000,
+						"id_str": "906140835565015040",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJNCSfxUEAA4koc.jpg",
+						"url": "https://t.co/GO5eIvI1cb",
+						"display_url": "pic.twitter.com/GO5eIvI1cb",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 906140835699413000,
+						"id_str": "906140835699412994",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DJNCSgRW0AIOJVE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJNCSgRW0AIOJVE.jpg",
+						"url": "https://t.co/GO5eIvI1cb",
+						"display_url": "pic.twitter.com/GO5eIvI1cb",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 906140887205466100,
+						"id_str": "906140887205466112",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DJNCVgJW0AApnYo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJNCVgJW0AApnYo.jpg",
+						"url": "https://t.co/GO5eIvI1cb",
+						"display_url": "pic.twitter.com/GO5eIvI1cb",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/906140977106010112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 914,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 914,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 891652935251144700,
+			"in_reply_to_status_id_str": "891652935251144708",
+			"in_reply_to_user_id": 768067568577806300,
+			"in_reply_to_user_id_str": "768067568577806336",
+			"in_reply_to_screen_name": "mojito_ennead",
+			"user": {
+				"id": 768067568577806300,
+				"id_str": "768067568577806336",
+				"name": "모히또 Mojito",
+				"screen_name": "mojito_ennead",
+				"location": "",
+				"description": "B&B삽화 / 이집트신화 BL 웹툰 엔네아드 그리는 사람 / 모든 2차창작, 팬아트는 리트윗에 한계가 있어 제 마음함에 모십니다. / 캡쳐는 3컷 이상 자제해주세요",
+				"url": "https://t.co/F50iBtGyxp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F50iBtGyxp",
+								"expanded_url": "http://d-mension.kr/index.php?mid=D_1cha_webtoon&category=23174",
+								"display_url": "d-mension.kr/index.php?mid=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13471,
+				"friends_count": 135,
+				"listed_count": 52,
+				"created_at": "Tue Aug 23 12:49:13 +0000 2016",
+				"favourites_count": 5749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3392,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872484225143808000/yj35aKpN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872484225143808000/yj35aKpN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768067568577806336/1496343012",
+				"profile_link_color": "452B1E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2052,
+			"favorite_count": 1507,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2052,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Sep 08 02:21:32 +0000 2017",
+		"id": 905979383768170500,
+		"id_str": "905979383768170497",
+		"text": "우리집 뚱새\n\n1. 팔 꽉 잡고 있었을 때는 가끔 내 피부에 새 발자국 남음 ㅋㅋㅋㅋ \n2. 일찍 재우는 것만으로 한달간 체중의 10퍼센트 감량\n3. 새장문 열어놔도 사람이 근처에 있거나 봐주지 않으면 안 나온다. 사람이 있어야 밖에 나와서 노는 관종",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5914,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21800,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Sep 07 14:09:30 +0000 2017",
 		"id": 905795162344898600,
 		"id_str": "905795162344898562",
