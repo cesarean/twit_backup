@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 10 10:23:59 +0000 2017",
+		"id": 917697210334068700,
+		"id_str": "917697210334068736",
+		"text": "@KimMIMT 고생하셨습니다!! 이 참에 재충전하세요 ㅠ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KimMIMT",
+					"name": "🌈김mint",
+					"id": 2164521656,
+					"id_str": "2164521656",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 917696913826242600,
+		"in_reply_to_status_id_str": "917696913826242560",
+		"in_reply_to_user_id": 2164521656,
+		"in_reply_to_user_id_str": "2164521656",
+		"in_reply_to_screen_name": "KimMIMT",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5925,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21911,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Oct 10 10:19:50 +0000 2017",
+		"id": 917696164316692500,
+		"id_str": "917696164316692480",
+		"text": "아니 옛날 하드 날 우롱하는 거냐...돈주고 달고 나니 이제 와서 뻑나려하는 거 뭔데...제발 백업까지만 버텨줘",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5925,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21911,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Oct 09 05:04:20 +0000 2017",
 		"id": 917254380079923200,
 		"id_str": "917254380079923200",
