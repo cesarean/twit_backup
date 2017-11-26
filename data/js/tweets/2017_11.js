@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sun Nov 26 14:23:09 +0000 2017",
+		"id": 934789625930956800,
+		"id_str": "934789625930956800",
+		"text": "@deskmm 형제간 우애를 살려주는 마법의 침대 ㅋㅋㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deskmm",
+					"name": "우아한 꼬리찜의 고통 M",
+					"id": 172981872,
+					"id_str": "172981872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 934788657487142900,
+		"in_reply_to_status_id_str": "934788657487142912",
+		"in_reply_to_user_id": 172981872,
+		"in_reply_to_user_id_str": "172981872",
+		"in_reply_to_screen_name": "deskmm",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5927,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 26 14:12:45 +0000 2017",
+		"id": 934787008995586000,
+		"id_str": "934787008995586048",
+		"text": "@deskmm 아니 할아버지 생각나도 하필 그 장면이 ㅠㅠㅠ 형제사이 조율 침대에서 하는 핀웨!! 사이좋게 양쪽에 아들들을 놓고 공평하게 번갈아가며...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deskmm",
+					"name": "우아한 꼬리찜의 고통 M",
+					"id": 172981872,
+					"id_str": "172981872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 934785777371721700,
+		"in_reply_to_status_id_str": "934785777371721728",
+		"in_reply_to_user_id": 172981872,
+		"in_reply_to_user_id_str": "172981872",
+		"in_reply_to_screen_name": "deskmm",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5927,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 26 13:36:51 +0000 2017",
+		"id": 934777976012415000,
+		"id_str": "934777976012414977",
+		"text": "@deskmm 어쩐지 핀곤 그렇게 정색할 때만은 이상하게 핀골핀보다 핀웨 닮아보이면 좋...그리고 이제까지 한번도 내게 화내신 적 없던 아버지가 저놈때문에 저런 얼굴을! 하고 이를 갈 페아노르 ㅋㅋㅋ 형제 사이를 망친 데 이렇게 또 일조하는 핀웨..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deskmm",
+					"name": "우아한 꼬리찜의 고통 M",
+					"id": 172981872,
+					"id_str": "172981872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 934776990481113100,
+		"in_reply_to_status_id_str": "934776990481113088",
+		"in_reply_to_user_id": 172981872,
+		"in_reply_to_user_id_str": "172981872",
+		"in_reply_to_screen_name": "deskmm",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5927,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 26 13:30:33 +0000 2017",
+		"id": 934776389332484100,
+		"id_str": "934776389332484097",
+		"text": "@deskmm 캬/// 마에가 아무리 삽질해도 격려해주던 핀곤이 목숨 관련해선 표정 싹 바뀌는 걸 생각하니// 핀웨도 엔간해선 페아노르에게 화도 잘 안냈을듯한데 핀골핀 건드리는 순간 돌변하면...페아노르가 충격받고 핀골핀 더 싫어하겠군요&lt;",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deskmm",
+					"name": "우아한 꼬리찜의 고통 M",
+					"id": 172981872,
+					"id_str": "172981872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 934774774386978800,
+		"in_reply_to_status_id_str": "934774774386978817",
+		"in_reply_to_user_id": 172981872,
+		"in_reply_to_user_id_str": "172981872",
+		"in_reply_to_screen_name": "deskmm",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5927,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 26 13:18:50 +0000 2017",
+		"id": 934773442921951200,
+		"id_str": "934773442921951232",
+		"text": "@deskmm 앗 핀고니도 생각하니까 넘 좋네요! 평소에 상냥한 요정들이었던만큼 한번 그렇게 싸한 얼굴을 하면 다들 조용해질듯요 ㅋㅋㅋ 핀웨는 대체 어떤 일이 있어야 그럴지..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deskmm",
+					"name": "우아한 꼬리찜의 고통 M",
+					"id": 172981872,
+					"id_str": "172981872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 934772517004120000,
+		"in_reply_to_status_id_str": "934772517004120064",
+		"in_reply_to_user_id": 172981872,
+		"in_reply_to_user_id_str": "172981872",
+		"in_reply_to_screen_name": "deskmm",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5927,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 26 13:13:00 +0000 2017",
+		"id": 934771972931698700,
+		"id_str": "934771972931698688",
+		"text": "@deskmm 핀웨인가요 +ㅁ+",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deskmm",
+					"name": "우아한 꼬리찜의 고통 M",
+					"id": 172981872,
+					"id_str": "172981872",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 934769954368266200,
+		"in_reply_to_status_id_str": "934769954368266240",
+		"in_reply_to_user_id": 172981872,
+		"in_reply_to_user_id_str": "172981872",
+		"in_reply_to_screen_name": "deskmm",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "핀골페아/핀웨페아/잉귀페아/핀웨싱골/핀마에/쿠루켈레쿠루/길켈/안나켈리/ts멜리안싱골/길오로 etc 페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5927,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21938,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897382326774120448/0j3JAnva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 24 01:35:33 +0000 2017",
 		"id": 933871678001578000,
 		"id_str": "933871678001577984",
