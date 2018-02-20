@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Tue Feb 20 16:51:48 +0000 2018",
+		"id": 965992391600521200,
+		"id_str": "965992391600521216",
+		"text": "마다라는 머리로는 전란이 없는 시대를 만들고 싶다고 생각해왔어도 막상 싸움이 잦아들자 잘 적응 못 하지 않았을까. 자기는 전쟁만 하며 살았는데 이제 설 자리가 없다고 느낀다거나 함께 싸우던 일족들도 평화시엔 자길 필요로 하지 않는다고 느끼고..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5105,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22247,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Feb 20 16:10:01 +0000 2018",
+		"id": 965981878896357400,
+		"id_str": "965981878896357376",
+		"text": "RT @AKEMI_QS: 이게 나은가...브금 넣었습니다 https://t.co/qcLrVyKTFA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AKEMI_QS",
+					"name": "AKEMI.QS - 12.46",
+					"id": 1655651952,
+					"id_str": "1655651952",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 859598663190032400,
+					"id_str": "859598663190032384",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+					"url": "https://t.co/qcLrVyKTFA",
+					"display_url": "pic.twitter.com/qcLrVyKTFA",
+					"expanded_url": "https://twitter.com/AKEMI_QS/status/859599561219653632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 859599561219653600,
+					"source_status_id_str": "859599561219653632",
+					"source_user_id": 1655651952,
+					"source_user_id_str": "1655651952"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 859598663190032400,
+					"id_str": "859598663190032384",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+					"url": "https://t.co/qcLrVyKTFA",
+					"display_url": "pic.twitter.com/qcLrVyKTFA",
+					"expanded_url": "https://twitter.com/AKEMI_QS/status/859599561219653632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 859599561219653600,
+					"source_status_id_str": "859599561219653632",
+					"source_user_id": 1655651952,
+					"source_user_id_str": "1655651952",
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 31999,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/859598663190032384/pu/vid/320x180/Kj_a6O3B6WZLxc6Z.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/859598663190032384/pu/pl/yARFVZJxdH1eK-J4.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/859598663190032384/pu/vid/640x360/XDF0HfjRN8D-N5J-.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1655651952,
+							"id_str": "1655651952",
+							"name": "AKEMI.QS - 12.46",
+							"screen_name": "AKEMI_QS",
+							"location": "jubeat Team Quasar☆",
+							"description": "jubeat(2011.05.21~) CN : AKEMI.QS [Quasar☆] SS-2 SSS-26 AVG 98.71 info : https://t.co/SSL3GcZrAR / 피아노 못치는 작곡과 입시생 / FUB FREE / 구독 환영  /",
+							"url": "https://t.co/WO0NLt36Px",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/WO0NLt36Px",
+											"expanded_url": "https://goo.gl/VUkh4X",
+											"display_url": "goo.gl/VUkh4X",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/SSL3GcZrAR",
+											"expanded_url": "https://goo.gl/WNMNG5",
+											"display_url": "goo.gl/WNMNG5",
+											"indices": [
+												73,
+												96
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 704,
+							"friends_count": 646,
+							"listed_count": 4,
+							"created_at": "Thu Aug 08 16:03:26 +0000 2013",
+							"favourites_count": 350,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 49492,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/964098092055257088/BzD4j16o_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/964098092055257088/BzD4j16o_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1655651952/1514288505",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5105,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22247,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 03 02:44:40 +0000 2017",
+			"id": 859599561219653600,
+			"id_str": "859599561219653632",
+			"text": "이게 나은가...브금 넣었습니다 https://t.co/qcLrVyKTFA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 859598663190032400,
+						"id_str": "859598663190032384",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+						"url": "https://t.co/qcLrVyKTFA",
+						"display_url": "pic.twitter.com/qcLrVyKTFA",
+						"expanded_url": "https://twitter.com/AKEMI_QS/status/859599561219653632/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 859598663190032400,
+						"id_str": "859598663190032384",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/859598663190032384/pu/img/0uw_KRL0lWtXj__j.jpg",
+						"url": "https://t.co/qcLrVyKTFA",
+						"display_url": "pic.twitter.com/qcLrVyKTFA",
+						"expanded_url": "https://twitter.com/AKEMI_QS/status/859599561219653632/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 31999,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/859598663190032384/pu/vid/320x180/Kj_a6O3B6WZLxc6Z.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/859598663190032384/pu/pl/yARFVZJxdH1eK-J4.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/859598663190032384/pu/vid/640x360/XDF0HfjRN8D-N5J-.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 859312114523021300,
+			"in_reply_to_status_id_str": "859312114523021312",
+			"in_reply_to_user_id": 1655651952,
+			"in_reply_to_user_id_str": "1655651952",
+			"in_reply_to_screen_name": "AKEMI_QS",
+			"user": {
+				"id": 1655651952,
+				"id_str": "1655651952",
+				"name": "AKEMI.QS - 12.46",
+				"screen_name": "AKEMI_QS",
+				"location": "jubeat Team Quasar☆",
+				"description": "jubeat(2011.05.21~) CN : AKEMI.QS [Quasar☆] SS-2 SSS-26 AVG 98.71 info : https://t.co/SSL3GcZrAR / 피아노 못치는 작곡과 입시생 / FUB FREE / 구독 환영  /",
+				"url": "https://t.co/WO0NLt36Px",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WO0NLt36Px",
+								"expanded_url": "https://goo.gl/VUkh4X",
+								"display_url": "goo.gl/VUkh4X",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SSL3GcZrAR",
+								"expanded_url": "https://goo.gl/WNMNG5",
+								"display_url": "goo.gl/WNMNG5",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 704,
+				"friends_count": 646,
+				"listed_count": 4,
+				"created_at": "Thu Aug 08 16:03:26 +0000 2013",
+				"favourites_count": 350,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49492,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964098092055257088/BzD4j16o_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964098092055257088/BzD4j16o_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1655651952/1514288505",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 281,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 281,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Feb 19 12:13:41 +0000 2018",
 		"id": 965560014483030000,
 		"id_str": "965560014483030018",
