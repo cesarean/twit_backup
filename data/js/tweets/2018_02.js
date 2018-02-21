@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 08:21:48 +0000 2018",
+		"id": 966226435118518300,
+		"id_str": "966226435118518272",
+		"text": "핀골페아로 페아노르랑 함뜨고 나서 오히려 식어버리는 핀골핀 생각났다(발리노르 절망편",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5106,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22249,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 21 01:59:24 +0000 2018",
+		"id": 966130203293466600,
+		"id_str": "966130203293466625",
+		"text": "RT @naruto_kakang: 재업\n나루토로 은혼 킬러 13 트레\n(오타 있음ㅠㅠ) https://t.co/Fx4bX1xv7b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naruto_kakang",
+					"name": "깨갱ケゲン",
+					"id": 890833638660612100,
+					"id_str": "890833638660612097",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 965143868965400600,
+					"id_str": "965143868965400577",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+					"url": "https://t.co/Fx4bX1xv7b",
+					"display_url": "pic.twitter.com/Fx4bX1xv7b",
+					"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965144154148814800,
+					"source_status_id_str": "965144154148814848",
+					"source_user_id": 890833638660612100,
+					"source_user_id_str": "890833638660612097"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 965143868965400600,
+					"id_str": "965143868965400577",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+					"url": "https://t.co/Fx4bX1xv7b",
+					"display_url": "pic.twitter.com/Fx4bX1xv7b",
+					"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965144154148814800,
+					"source_status_id_str": "965144154148814848",
+					"source_user_id": 890833638660612100,
+					"source_user_id_str": "890833638660612097"
+				},
+				{
+					"id": 965143883578449900,
+					"id_str": "965143883578449920",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DWThP6HVoAAYErd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWThP6HVoAAYErd.jpg",
+					"url": "https://t.co/Fx4bX1xv7b",
+					"display_url": "pic.twitter.com/Fx4bX1xv7b",
+					"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965144154148814800,
+					"source_status_id_str": "965144154148814848",
+					"source_user_id": 890833638660612100,
+					"source_user_id_str": "890833638660612097"
+				},
+				{
+					"id": 965143894596894700,
+					"id_str": "965143894596894721",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DWThQjKVwAEh4VT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWThQjKVwAEh4VT.jpg",
+					"url": "https://t.co/Fx4bX1xv7b",
+					"display_url": "pic.twitter.com/Fx4bX1xv7b",
+					"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 929,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 965144154148814800,
+					"source_status_id_str": "965144154148814848",
+					"source_user_id": 890833638660612100,
+					"source_user_id_str": "890833638660612097"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5106,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22249,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 18 08:41:12 +0000 2018",
+			"id": 965144154148814800,
+			"id_str": "965144154148814848",
+			"text": "재업\n나루토로 은혼 킬러 13 트레\n(오타 있음ㅠㅠ) https://t.co/Fx4bX1xv7b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 965143868965400600,
+						"id_str": "965143868965400577",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+						"url": "https://t.co/Fx4bX1xv7b",
+						"display_url": "pic.twitter.com/Fx4bX1xv7b",
+						"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 965143868965400600,
+						"id_str": "965143868965400577",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWThPDrUMAEW0kh.jpg",
+						"url": "https://t.co/Fx4bX1xv7b",
+						"display_url": "pic.twitter.com/Fx4bX1xv7b",
+						"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 965143883578449900,
+						"id_str": "965143883578449920",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DWThP6HVoAAYErd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWThP6HVoAAYErd.jpg",
+						"url": "https://t.co/Fx4bX1xv7b",
+						"display_url": "pic.twitter.com/Fx4bX1xv7b",
+						"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 965143894596894700,
+						"id_str": "965143894596894721",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DWThQjKVwAEh4VT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWThQjKVwAEh4VT.jpg",
+						"url": "https://t.co/Fx4bX1xv7b",
+						"display_url": "pic.twitter.com/Fx4bX1xv7b",
+						"expanded_url": "https://twitter.com/naruto_kakang/status/965144154148814848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 929,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 439,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 890833638660612100,
+				"id_str": "890833638660612097",
+				"name": "깨갱ケゲン",
+				"screen_name": "naruto_kakang",
+				"location": "본가는 이쪽 @lkk799",
+				"description": "ケゲン/NRT/스포,사담多/멘션스루 고의 x/구독 많이해요/비팔로 알림x/커미션은 디엠/우치하가족 주세요...(울기)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1893,
+				"friends_count": 185,
+				"listed_count": 6,
+				"created_at": "Fri Jul 28 07:17:45 +0000 2017",
+				"favourites_count": 7663,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11268,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963794989632299008/Jra2C0lW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963794989632299008/Jra2C0lW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/890833638660612097/1515142465",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 341,
+			"favorite_count": 359,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 341,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Feb 20 16:51:48 +0000 2018",
 		"id": 965992391600521200,
 		"id_str": "965992391600521216",
