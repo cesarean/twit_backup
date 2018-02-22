@@ -1,6 +1,1716 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 17:04:59 +0000 2018",
+		"id": 966720487416938500,
+		"id_str": "966720487416938496",
+		"text": "@Intothewest_c 길이 글썽글썽한 어린 켈리 오구오구해주는 거 생각하니 캬 페아노르가 둘다  밥이나 먹으라고 할까요 ㅋㅋㅋ 그리고 쿠루핀은 썩 나가있으라고()",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966718732679594000,
+		"in_reply_to_status_id_str": "966718732679593984",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:55:04 +0000 2018",
+		"id": 966717990182953000,
+		"id_str": "966717990182952961",
+		"text": "@Intothewest_c 쿠루핀 ㅋㅋㅋㅋ 페아노리안 외에는 여기 오지도 마! 하니까 켈리가 그럼 연끊은 나도 안 올래요 해서 페아노르한테 국자로 맞나요&lt;",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 966716874787450900,
+		"in_reply_to_status_id_str": "966716874787450880",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:49:21 +0000 2018",
+		"id": 966716554137096200,
+		"id_str": "966716554137096193",
+		"text": "@Intothewest_c 맛난 밥 먹다보면 켈리가 뿅하고 커질까요ㅋㅋㅋ 출근도장 찍다가 켈쿠랑 마주치면 길이랑 서로 으르릉하고&lt;",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966715437760172000,
+		"in_reply_to_status_id_str": "966715437760172032",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:42:27 +0000 2018",
+		"id": 966714815539368000,
+		"id_str": "966714815539367936",
+		"text": "@Intothewest_c 흡 페아네르 화해라니ㅠㅠㅠ 넘 꿈같은ㅠ 구첩반상 ㅋㅋㅋ 페아노르는 만능이니 요리도! 이러다 길 밥먹으러 꼬마 켈리 업고 매일 출근도장 찍는 거 생각나네요 ㅋㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966713320362328000,
+		"in_reply_to_status_id_str": "966713320362328064",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:30:39 +0000 2018",
+		"id": 966711845787615200,
+		"id_str": "966711845787615232",
+		"text": "@Intothewest_c 몰라서 용감했던 건가요 길ㅋㅋ 오히려 페아노르는 원래 손자 예뻐하고 켈리에게 헌신적인 모습에 길을 점점 맘에 들어하는데 길은 갈수록 페아노르가 어려워지나요ㅋㅋ 나중엔 콀리 집에 데려다주다 길도 식사 같이 하고 그런다거나..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 966710345078198300,
+		"in_reply_to_status_id_str": "966710345078198272",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:19:24 +0000 2018",
+		"id": 966709014317826000,
+		"id_str": "966709014317826048",
+		"text": "@Intothewest_c 손자사위 사랑 네르다넬() 마에의 중재에 힘입어 켈리 며칠은 길과, 며칠은 식구들과 있기로 합의하나요 ㅋㅋ 페르세포네 켈리...꼬마 켈리 페아노르네 가는 날이면 길이 손수 안아서 데려다주고..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966707970590429200,
+		"in_reply_to_status_id_str": "966707970590429184",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:15:04 +0000 2018",
+		"id": 966707925518467100,
+		"id_str": "966707925518467072",
+		"text": "RT @mojito_ennead: 신을 집사로 둔 고양이 9 https://t.co/fTsskpQReC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mojito_ennead",
+					"name": "모히또 Mojito",
+					"id": 768067568577806300,
+					"id_str": "768067568577806336",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966705059542155300,
+					"id_str": "966705059542155264",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+					"url": "https://t.co/fTsskpQReC",
+					"display_url": "pic.twitter.com/fTsskpQReC",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966705177544736800,
+					"source_status_id_str": "966705177544736768",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966705059542155300,
+					"id_str": "966705059542155264",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+					"url": "https://t.co/fTsskpQReC",
+					"display_url": "pic.twitter.com/fTsskpQReC",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966705177544736800,
+					"source_status_id_str": "966705177544736768",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				},
+				{
+					"id": 966705085605494800,
+					"id_str": "966705085605494784",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DWptJ04UQAAd_JO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWptJ04UQAAd_JO.jpg",
+					"url": "https://t.co/fTsskpQReC",
+					"display_url": "pic.twitter.com/fTsskpQReC",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966705177544736800,
+					"source_status_id_str": "966705177544736768",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				},
+				{
+					"id": 966705111002095600,
+					"id_str": "966705111002095616",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/DWptLTfVoAAIy97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWptLTfVoAAIy97.jpg",
+					"url": "https://t.co/fTsskpQReC",
+					"display_url": "pic.twitter.com/fTsskpQReC",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966705177544736800,
+					"source_status_id_str": "966705177544736768",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				}
+			]
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 16:04:09 +0000 2018",
+			"id": 966705177544736800,
+			"id_str": "966705177544736768",
+			"text": "신을 집사로 둔 고양이 9 https://t.co/fTsskpQReC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966705059542155300,
+						"id_str": "966705059542155264",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+						"url": "https://t.co/fTsskpQReC",
+						"display_url": "pic.twitter.com/fTsskpQReC",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 844,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966705059542155300,
+						"id_str": "966705059542155264",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWptITyVQAA9PNo.jpg",
+						"url": "https://t.co/fTsskpQReC",
+						"display_url": "pic.twitter.com/fTsskpQReC",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 844,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966705085605494800,
+						"id_str": "966705085605494784",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DWptJ04UQAAd_JO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWptJ04UQAAd_JO.jpg",
+						"url": "https://t.co/fTsskpQReC",
+						"display_url": "pic.twitter.com/fTsskpQReC",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 966705111002095600,
+						"id_str": "966705111002095616",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DWptLTfVoAAIy97.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWptLTfVoAAIy97.jpg",
+						"url": "https://t.co/fTsskpQReC",
+						"display_url": "pic.twitter.com/fTsskpQReC",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/966705177544736768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 942427737339260900,
+			"in_reply_to_status_id_str": "942427737339260928",
+			"in_reply_to_user_id": 768067568577806300,
+			"in_reply_to_user_id_str": "768067568577806336",
+			"in_reply_to_screen_name": "mojito_ennead",
+			"user": {
+				"id": 768067568577806300,
+				"id_str": "768067568577806336",
+				"name": "모히또 Mojito",
+				"screen_name": "mojito_ennead",
+				"location": "",
+				"description": "B&B삽화 / 이집트신화 BL 웹툰 엔네아드 그리는 사람 / 캡쳐는 3컷 이상 자제해주세요 / 외주X / xxmojito@naver.com",
+				"url": "https://t.co/F50iBtGyxp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F50iBtGyxp",
+								"expanded_url": "http://d-mension.kr/index.php?mid=D_1cha_webtoon&category=23174",
+								"display_url": "d-mension.kr/index.php?mid=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19479,
+				"friends_count": 174,
+				"listed_count": 87,
+				"created_at": "Tue Aug 23 12:49:13 +0000 2016",
+				"favourites_count": 8844,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7726,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959775992691638273/wS0AsLOa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959775992691638273/wS0AsLOa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768067568577806336/1507504556",
+				"profile_link_color": "452B1E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 717,
+			"favorite_count": 680,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 717,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 16:09:46 +0000 2018",
+		"id": 966706592681873400,
+		"id_str": "966706592681873408",
+		"text": "@Intothewest_c 너네땜에 재육싫다잖아! 하고 싸우더니 켈리 재육하니깐 안보내! 못보내! 하는 길인가요ㅋㅋ 파도소리를 들으며 품에서 잠든 꼬마 켈리를 폭 끌어안은 길이라거나/// 자기 없는 새 페아노리안들이 켈리 꼬드길까봐 철통경계..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966704937806659600,
+		"in_reply_to_status_id_str": "966704937806659584",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 15:56:01 +0000 2018",
+		"id": 966703128765608000,
+		"id_str": "966703128765607937",
+		"text": "@Intothewest_c 아들, 손자 다 핀골핀에게 뺏길까봐(안 뺏어감) 초조해지는 페아노르인가요 ㅋㅋ 마에 통해서 핀곤도 움직여보고 직접 핀골핀이랑 얘기도 해서 어떻게든 하나뿐인 손주를! 그러나 한시도 떨어지지 않는 길의 가드라면...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966702206949892100,
+		"in_reply_to_status_id_str": "966702206949892096",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 15:47:05 +0000 2018",
+		"id": 966700882128597000,
+		"id_str": "966700882128596992",
+		"text": "@Intothewest_c 아앗 꼬마 켈리라니ㅠㅠㅠ 켈리가 길 옷자락 꼭 붙잡고 할애비 눈치 보니까 페아노르도 일단 물러나려나요? 그러면서도 영원히 그 애를 데리고 있을 수 있다고 생각지 말라며 경고한다거나..그리고 핀골핀과 교섭하러 간다든지()",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 966699637628289000,
+		"in_reply_to_status_id_str": "966699637628289024",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 15:35:28 +0000 2018",
+		"id": 966697960770695200,
+		"id_str": "966697960770695168",
+		"text": "@Intothewest_c 외모는 취향인데 핀골피니안이라니까 순간 욱하나요 ㅋㅋ 페아노르에게도 안 지는 길! 오히려 모르니까 더 겁없는! 위대한 요정이신 건 알지만 켈리가 고생한 원인이지 않냐며, 그 고초는 앞으로 무엇을 해도 보상할 수 없을거라고..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 966697298662015000,
+		"in_reply_to_status_id_str": "966697298662014987",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 15:25:58 +0000 2018",
+		"id": 966695568973086700,
+		"id_str": "966695568973086725",
+		"text": "@Intothewest_c 첨엔 먼가 맘에 안 드는 눈으로 바라보려나요 ㅎㅎ 그러다 아들도 아닌 손자까지 가서 험한 일 겪으며 힘들었던 거 아니 짠해지기도 하고 켈리만을 생각하는 길의 진심이 맘에 들기도 하고..그랬는데 길이 핀곤 아들이란 걸 알면()",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Intothewest_c",
+					"name": "얼빠",
+					"id": 832166668289740800,
+					"id_str": "832166668289740800",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 966693297358909400,
+		"in_reply_to_status_id_str": "966693297358909440",
+		"in_reply_to_user_id": 832166668289740800,
+		"in_reply_to_user_id_str": "832166668289740800",
+		"in_reply_to_screen_name": "Intothewest_c",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 14:59:58 +0000 2018",
+		"id": 966689025896595500,
+		"id_str": "966689025896595457",
+		"text": "길켈로 재육후 페아노리안들에게서 켈리 지키는 길. 당신들이 맹세에만 집착하는 동안 그가 얼마나 힘들었는지 아냐고..켈쿠가 페아노리안 일에 끼지 마라고 하면 이미 절연했으니 당신들이야말로 그에게 상관말라고. 그리고 끝판왕 페아노르가 재육하게 되는데..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/96nsldFCHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96nsldFCHd",
+							"expanded_url": "http://celebaduial1.tistory.com",
+							"display_url": "celebaduial1.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 52,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22262,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Feb 21 08:21:48 +0000 2018",
 		"id": 966226435118518300,
 		"id_str": "966226435118518272",
