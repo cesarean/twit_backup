@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 17 11:06:49 +0000 2018",
+		"id": 986199297594032100,
+		"id_str": "986199297594032129",
+		"text": "RT @111msw82: mdr https://t.co/nFK8ZndLPM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "111msw82",
+					"name": "モス",
+					"id": 975754071524061200,
+					"id_str": "975754071524061185",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985536523838746600,
+					"id_str": "985536523838746625",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+					"url": "https://t.co/nFK8ZndLPM",
+					"display_url": "pic.twitter.com/nFK8ZndLPM",
+					"expanded_url": "https://twitter.com/111msw82/status/985536565358223361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 788,
+							"h": 567,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985536565358223400,
+					"source_status_id_str": "985536565358223361",
+					"source_user_id": 975754071524061200,
+					"source_user_id_str": "975754071524061185"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985536523838746600,
+					"id_str": "985536523838746625",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+					"url": "https://t.co/nFK8ZndLPM",
+					"display_url": "pic.twitter.com/nFK8ZndLPM",
+					"expanded_url": "https://twitter.com/111msw82/status/985536565358223361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 788,
+							"h": 567,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985536565358223400,
+					"source_status_id_str": "985536565358223361",
+					"source_user_id": 975754071524061200,
+					"source_user_id_str": "975754071524061185"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5232,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22655,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 15:13:22 +0000 2018",
+			"id": 985536565358223400,
+			"id_str": "985536565358223361",
+			"text": "mdr https://t.co/nFK8ZndLPM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985536523838746600,
+						"id_str": "985536523838746625",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+						"url": "https://t.co/nFK8ZndLPM",
+						"display_url": "pic.twitter.com/nFK8ZndLPM",
+						"expanded_url": "https://twitter.com/111msw82/status/985536565358223361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 567,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 788,
+								"h": 567,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985536523838746600,
+						"id_str": "985536523838746625",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Da1UPzCU8AEwoga.jpg",
+						"url": "https://t.co/nFK8ZndLPM",
+						"display_url": "pic.twitter.com/nFK8ZndLPM",
+						"expanded_url": "https://twitter.com/111msw82/status/985536565358223361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 567,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 788,
+								"h": 567,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 975754071524061200,
+				"id_str": "975754071524061185",
+				"name": "モス",
+				"screen_name": "111msw82",
+				"location": "",
+				"description": "nrt垢雑食。三忍や自来也ナルトなど師弟関係が特に好きです。",
+				"url": "https://t.co/J0jvMpQft3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J0jvMpQft3",
+								"expanded_url": "https://www.pixiv.net/member.php?id=13693247",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158,
+				"friends_count": 11,
+				"listed_count": 3,
+				"created_at": "Mon Mar 19 15:21:14 +0000 2018",
+				"favourites_count": 42,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985521009150197765/_bboLdRz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985521009150197765/_bboLdRz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/975754071524061185/1523877241",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 368,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Apr 15 04:26:17 +0000 2018",
 		"id": 985373724030386200,
 		"id_str": "985373724030386176",
