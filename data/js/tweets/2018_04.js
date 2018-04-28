@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 28 16:00:18 +0000 2018",
+		"id": 990259421476343800,
+		"id_str": "990259421476343808",
+		"text": "RT @arima_Nrt: 陰陽組\n喧嘩の止め方、止められ方 https://t.co/FSBJzw9Csv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arima_Nrt",
+					"name": "ありま②",
+					"id": 983021791265210400,
+					"id_str": "983021791265210371",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 990167316431171600,
+					"id_str": "990167316431171584",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+					"url": "https://t.co/FSBJzw9Csv",
+					"display_url": "pic.twitter.com/FSBJzw9Csv",
+					"expanded_url": "https://twitter.com/arima_Nrt/status/990167324786180097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 976,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990167324786180100,
+					"source_status_id_str": "990167324786180097",
+					"source_user_id": 983021791265210400,
+					"source_user_id_str": "983021791265210371"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990167316431171600,
+					"id_str": "990167316431171584",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+					"url": "https://t.co/FSBJzw9Csv",
+					"display_url": "pic.twitter.com/FSBJzw9Csv",
+					"expanded_url": "https://twitter.com/arima_Nrt/status/990167324786180097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 887,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 976,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990167324786180100,
+					"source_status_id_str": "990167324786180097",
+					"source_user_id": 983021791265210400,
+					"source_user_id_str": "983021791265210371"
+				},
+				{
+					"id": 990167316431163400,
+					"id_str": "990167316431163393",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Db3H7ZwU0AE5aIo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db3H7ZwU0AE5aIo.jpg",
+					"url": "https://t.co/FSBJzw9Csv",
+					"display_url": "pic.twitter.com/FSBJzw9Csv",
+					"expanded_url": "https://twitter.com/arima_Nrt/status/990167324786180097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 826,
+							"h": 988,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 826,
+							"h": 988,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 569,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990167324786180100,
+					"source_status_id_str": "990167324786180097",
+					"source_user_id": 983021791265210400,
+					"source_user_id_str": "983021791265210371"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5243,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 09:54:21 +0000 2018",
+			"id": 990167324786180100,
+			"id_str": "990167324786180097",
+			"text": "陰陽組\n喧嘩の止め方、止められ方 https://t.co/FSBJzw9Csv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 990167316431171600,
+						"id_str": "990167316431171584",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+						"url": "https://t.co/FSBJzw9Csv",
+						"display_url": "pic.twitter.com/FSBJzw9Csv",
+						"expanded_url": "https://twitter.com/arima_Nrt/status/990167324786180097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 887,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 976,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 990167316431171600,
+						"id_str": "990167316431171584",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db3H7ZwU8AAhh01.jpg",
+						"url": "https://t.co/FSBJzw9Csv",
+						"display_url": "pic.twitter.com/FSBJzw9Csv",
+						"expanded_url": "https://twitter.com/arima_Nrt/status/990167324786180097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 887,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 976,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 990167316431163400,
+						"id_str": "990167316431163393",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/Db3H7ZwU0AE5aIo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db3H7ZwU0AE5aIo.jpg",
+						"url": "https://t.co/FSBJzw9Csv",
+						"display_url": "pic.twitter.com/FSBJzw9Csv",
+						"expanded_url": "https://twitter.com/arima_Nrt/status/990167324786180097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 826,
+								"h": 988,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 826,
+								"h": 988,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 569,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 983021791265210400,
+				"id_str": "983021791265210371",
+				"name": "ありま②",
+				"screen_name": "arima_Nrt",
+				"location": "",
+				"description": "在抹うき(@arima_uki)のNARUTO垢。陰陽組のわちゃわちゃが主。ツイプロは必読。https://t.co/lzwQshNGuT",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lzwQshNGuT",
+								"expanded_url": "http://twpf.jp/arima_Nrt",
+								"display_url": "twpf.jp/arima_Nrt",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 723,
+				"friends_count": 10,
+				"listed_count": 0,
+				"created_at": "Sun Apr 08 16:40:33 +0000 2018",
+				"favourites_count": 128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 219,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983203784196161537/v1PZ55O5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983203784196161537/v1PZ55O5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/983021791265210371/1523278722",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 161,
+			"favorite_count": 553,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri Apr 27 23:51:32 +0000 2018",
+		"id": 990015622514856000,
+		"id_str": "990015622514855937",
+		"text": "핀골페아로 핀골핀이 몸 안에 꽉 차서 헐떡이는 페아노르 보고싶다...그러면서 멜코르랑 할 때보다 더 힘들다고 투덜댔으면()",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 31,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5243,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 27 15:10:22 +0000 2018",
 		"id": 989884467509575700,
 		"id_str": "989884467509575681",
