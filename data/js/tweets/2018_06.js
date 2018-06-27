@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 27 06:58:24 +0000 2018",
+		"id": 1011866317916274700,
+		"id_str": "1011866317916274690",
+		"text": "RT @agase_: 여러분 아가새농장의 시그니처 사은품스티커가 여름테마로 업뎃됐습니다!!! 크하학 아 죄송합니다 이번꺼 넘 맘에들어서 자꾸 경박스러운 웃음이\n지금바로 아가새농장 쇼핑몰에서 겟챠하세욧\n(이 스티커는 아가새농장 모든 고객님들께 가격상관…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agase_",
+					"name": "아가새농장",
+					"id": 3303776360,
+					"id_str": "3303776360",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 30,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22943,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jun 27 06:39:08 +0000 2018",
+			"id": 1011861467883233300,
+			"id_str": "1011861467883233280",
+			"text": "여러분 아가새농장의 시그니처 사은품스티커가 여름테마로 업뎃됐습니다!!! 크하학 아 죄송합니다 이번꺼 넘 맘에들어서 자꾸 경박스러운 웃음이\n지금바로 아가새농장 쇼핑몰에서 겟챠하세욧\n(이 스티커는 아가새농장 모… https://t.co/XP7BLCv4XZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XP7BLCv4XZ",
+						"expanded_url": "https://twitter.com/i/web/status/1011861467883233280",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3303776360,
+				"id_str": "3303776360",
+				"name": "아가새농장",
+				"screen_name": "agase_",
+				"location": "경기도 하남시",
+				"description": "행복한 앵무새들의 공간 아가새농장입니다. 소소하고 사소한 사진들을 올림!",
+				"url": "http://t.co/H4Pe0HHaJM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/H4Pe0HHaJM",
+								"expanded_url": "http://www.agase.co.kr",
+								"display_url": "agase.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2114,
+				"friends_count": 162,
+				"listed_count": 32,
+				"created_at": "Sun Aug 02 00:54:27 +0000 2015",
+				"favourites_count": 731,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 634,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303776360/1438483511",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 24 15:48:42 +0000 2018",
 		"id": 1010912608184963100,
 		"id_str": "1010912608184963072",
