@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 12 04:37:29 +0000 2018",
+		"id": 1028500697891799000,
+		"id_str": "1028500697891799041",
+		"text": "RT @mojito_ennead: 40화가 올라왔습니다. 회원공개이므로 로그인이 필요합니다. https://t.co/viTb6b2zOK https://t.co/1jjlwIhS7Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mojito_ennead",
+					"name": "모히또 Mojito",
+					"id": 768067568577806300,
+					"id_str": "768067568577806336",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/viTb6b2zOK",
+					"expanded_url": "https://d-mension.kr/index.php?mid=D_1cha_webtoon&category=23174&category_srl=23174&document_srl=183176",
+					"display_url": "d-mension.kr/index.php?mid=…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1028496820681375700,
+					"id_str": "1028496820681375745",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+					"url": "https://t.co/1jjlwIhS7Q",
+					"display_url": "pic.twitter.com/1jjlwIhS7Q",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/1028497024004411392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028497024004411400,
+					"source_status_id_str": "1028497024004411392",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028496820681375700,
+					"id_str": "1028496820681375745",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+					"url": "https://t.co/1jjlwIhS7Q",
+					"display_url": "pic.twitter.com/1jjlwIhS7Q",
+					"expanded_url": "https://twitter.com/mojito_ennead/status/1028497024004411392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 940,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028497024004411400,
+					"source_status_id_str": "1028497024004411392",
+					"source_user_id": 768067568577806300,
+					"source_user_id_str": "768067568577806336"
+				}
+			]
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 48,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23065,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 12 04:22:53 +0000 2018",
+			"id": 1028497024004411400,
+			"id_str": "1028497024004411392",
+			"text": "40화가 올라왔습니다. 회원공개이므로 로그인이 필요합니다. https://t.co/viTb6b2zOK https://t.co/1jjlwIhS7Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/viTb6b2zOK",
+						"expanded_url": "https://d-mension.kr/index.php?mid=D_1cha_webtoon&category=23174&category_srl=23174&document_srl=183176",
+						"display_url": "d-mension.kr/index.php?mid=…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1028496820681375700,
+						"id_str": "1028496820681375745",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+						"url": "https://t.co/1jjlwIhS7Q",
+						"display_url": "pic.twitter.com/1jjlwIhS7Q",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/1028497024004411392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 694,
+								"h": 940,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 502,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028496820681375700,
+						"id_str": "1028496820681375745",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkX0aMFVAAEuMxy.jpg",
+						"url": "https://t.co/1jjlwIhS7Q",
+						"display_url": "pic.twitter.com/1jjlwIhS7Q",
+						"expanded_url": "https://twitter.com/mojito_ennead/status/1028497024004411392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 694,
+								"h": 940,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 502,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768067568577806300,
+				"id_str": "768067568577806336",
+				"name": "모히또 Mojito",
+				"screen_name": "mojito_ennead",
+				"location": "",
+				"description": "B&B삽화 / 이집트신화 BL 웹툰 엔네아드 그리는 사람 / 캡쳐는 3컷 이상 자제해주세요 / 외주X / xxmojito@naver.com",
+				"url": "https://t.co/F50iBtGyxp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F50iBtGyxp",
+								"expanded_url": "http://d-mension.kr/index.php?mid=D_1cha_webtoon&category=23174",
+								"display_url": "d-mension.kr/index.php?mid=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21169,
+				"friends_count": 171,
+				"listed_count": 94,
+				"created_at": "Tue Aug 23 12:49:13 +0000 2016",
+				"favourites_count": 9530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8973,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959775992691638273/wS0AsLOa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959775992691638273/wS0AsLOa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768067568577806336/1521661187",
+				"profile_link_color": "452B1E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1252,
+			"favorite_count": 985,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1252,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Aug 11 12:32:50 +0000 2018",
 		"id": 1028257933522432000,
 		"id_str": "1028257933522432002",
