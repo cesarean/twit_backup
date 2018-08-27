@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 27 04:34:24 +0000 2018",
+		"id": 1033935740726460400,
+		"id_str": "1033935740726460416",
+		"text": "RT @Northeast1008: 허묵 한국 성우가 루시우 성우라면서? https://t.co/qejwUDQnzl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Northeast1008",
+					"name": "샨디샨디",
+					"id": 124376223,
+					"id_str": "124376223",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033883572598263800,
+					"id_str": "1033883572598263808",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+					"url": "https://t.co/qejwUDQnzl",
+					"display_url": "pic.twitter.com/qejwUDQnzl",
+					"expanded_url": "https://twitter.com/Northeast1008/status/1033883578440904705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 458,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 458,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033883578440904700,
+					"source_status_id_str": "1033883578440904705",
+					"source_user_id": 124376223,
+					"source_user_id_str": "124376223"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033883572598263800,
+					"id_str": "1033883572598263808",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+					"url": "https://t.co/qejwUDQnzl",
+					"display_url": "pic.twitter.com/qejwUDQnzl",
+					"expanded_url": "https://twitter.com/Northeast1008/status/1033883578440904705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 458,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 458,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033883578440904700,
+					"source_status_id_str": "1033883578440904705",
+					"source_user_id": 124376223,
+					"source_user_id_str": "124376223"
+				}
+			]
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23085,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 27 01:07:08 +0000 2018",
+			"id": 1033883578440904700,
+			"id_str": "1033883578440904705",
+			"text": "허묵 한국 성우가 루시우 성우라면서? https://t.co/qejwUDQnzl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033883572598263800,
+						"id_str": "1033883572598263808",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+						"url": "https://t.co/qejwUDQnzl",
+						"display_url": "pic.twitter.com/qejwUDQnzl",
+						"expanded_url": "https://twitter.com/Northeast1008/status/1033883578440904705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 458,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 458,
+								"h": 413,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033883572598263800,
+						"id_str": "1033883572598263808",
+						"indices": [
+							21,
+							44
+						],
+						"media_url": "http://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlkXoavU0AAH9OE.jpg",
+						"url": "https://t.co/qejwUDQnzl",
+						"display_url": "pic.twitter.com/qejwUDQnzl",
+						"expanded_url": "https://twitter.com/Northeast1008/status/1033883578440904705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 458,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 458,
+								"h": 413,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124376223,
+				"id_str": "124376223",
+				"name": "샨디샨디",
+				"screen_name": "Northeast1008",
+				"location": "Gothenburg, Sweden",
+				"description": "저건 진짜 사람이 아니다 사이버 망령이지",
+				"url": "https://t.co/kXFUzu81KS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kXFUzu81KS",
+								"expanded_url": "https://ask.fm/Northeast1008",
+								"display_url": "ask.fm/Northeast1008",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2650,
+				"friends_count": 84,
+				"listed_count": 35,
+				"created_at": "Fri Mar 19 05:54:37 +0000 2010",
+				"favourites_count": 475,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 93770,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019384807225081856/g91UgzGw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019384807225081856/g91UgzGw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124376223/1528892447",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4149,
+			"favorite_count": 653,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4149,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Aug 27 01:58:00 +0000 2018",
+		"id": 1033896379557367800,
+		"id_str": "1033896379557367808",
+		"text": "RT @xordjsvPdls: 내 남자친구는 카리스마 재벌 1세 화예그룹 CEO ?! \n같은 인소삘의 택언유연이 보고싶었다,, \n트레 원작은 차경희 작가님의 [한번 해봐?] https://t.co/YL8omTcu2U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xordjsvPdls",
+					"name": "ㅍ ㅖ인..10챕보고싶어봇",
+					"id": 1031258698100891600,
+					"id_str": "1031258698100891648",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033576767070466000,
+					"id_str": "1033576767070466052",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+					"url": "https://t.co/YL8omTcu2U",
+					"display_url": "pic.twitter.com/YL8omTcu2U",
+					"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033576939510947800,
+					"source_status_id_str": "1033576939510947840",
+					"source_user_id": 1031258698100891600,
+					"source_user_id_str": "1031258698100891648"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033576767070466000,
+					"id_str": "1033576767070466052",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+					"url": "https://t.co/YL8omTcu2U",
+					"display_url": "pic.twitter.com/YL8omTcu2U",
+					"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033576939510947800,
+					"source_status_id_str": "1033576939510947840",
+					"source_user_id": 1031258698100891600,
+					"source_user_id_str": "1031258698100891648"
+				},
+				{
+					"id": 1033576780907470800,
+					"id_str": "1033576780907470848",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DlgAmyoU4AALYw1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlgAmyoU4AALYw1.jpg",
+					"url": "https://t.co/YL8omTcu2U",
+					"display_url": "pic.twitter.com/YL8omTcu2U",
+					"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1148,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1148,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033576939510947800,
+					"source_status_id_str": "1033576939510947840",
+					"source_user_id": 1031258698100891600,
+					"source_user_id_str": "1031258698100891648"
+				},
+				{
+					"id": 1033576791049293800,
+					"id_str": "1033576791049293824",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DlgAnYaU0AA6rdq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlgAnYaU0AA6rdq.jpg",
+					"url": "https://t.co/YL8omTcu2U",
+					"display_url": "pic.twitter.com/YL8omTcu2U",
+					"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1174,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 463,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1174,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033576939510947800,
+					"source_status_id_str": "1033576939510947840",
+					"source_user_id": 1031258698100891600,
+					"source_user_id_str": "1031258698100891648"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 47,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23085,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 26 04:48:39 +0000 2018",
+			"id": 1033576939510947800,
+			"id_str": "1033576939510947840",
+			"text": "내 남자친구는 카리스마 재벌 1세 화예그룹 CEO ?! \n같은 인소삘의 택언유연이 보고싶었다,, \n트레 원작은 차경희 작가님의 [한번 해봐?] https://t.co/YL8omTcu2U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033576767070466000,
+						"id_str": "1033576767070466052",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+						"url": "https://t.co/YL8omTcu2U",
+						"display_url": "pic.twitter.com/YL8omTcu2U",
+						"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 1218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033576767070466000,
+						"id_str": "1033576767070466052",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlgAl_FU8AQAKe4.jpg",
+						"url": "https://t.co/YL8omTcu2U",
+						"display_url": "pic.twitter.com/YL8omTcu2U",
+						"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 1218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 788,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 447,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033576780907470800,
+						"id_str": "1033576780907470848",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DlgAmyoU4AALYw1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlgAmyoU4AALYw1.jpg",
+						"url": "https://t.co/YL8omTcu2U",
+						"display_url": "pic.twitter.com/YL8omTcu2U",
+						"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 1148,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 474,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1148,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033576791049293800,
+						"id_str": "1033576791049293824",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DlgAnYaU0AA6rdq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlgAnYaU0AA6rdq.jpg",
+						"url": "https://t.co/YL8omTcu2U",
+						"display_url": "pic.twitter.com/YL8omTcu2U",
+						"expanded_url": "https://twitter.com/xordjsvPdls/status/1033576939510947840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1174,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 463,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1174,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1031258698100891600,
+				"id_str": "1031258698100891648",
+				"name": "ㅍ ㅖ인..10챕보고싶어봇",
+				"screen_name": "xordjsvPdls",
+				"location": "",
+				"description": "가난한 내가 돈 많은 이택언을 사랑해서..... 결국 구독계 혼놀계를 만들게 되는데.......",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 630,
+				"friends_count": 0,
+				"listed_count": 3,
+				"created_at": "Sun Aug 19 19:16:48 +0000 2018",
+				"favourites_count": 92,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 244,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1031271603101790208/6qlTVwam_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031271603101790208/6qlTVwam_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031258698100891648/1534706731",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2839,
+			"favorite_count": 1562,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2839,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Aug 20 14:38:20 +0000 2018",
 		"id": 1031551008114012200,
 		"id_str": "1031551008114012160",
