@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 29 15:29:19 +0000 2018",
+		"id": 1056930988343717900,
+		"id_str": "1056930988343717888",
+		"full_text": "이집트신화 기반 BL웹툰 엔네아드 (ENNEAD)가 정식연재를 시작했습니다.\n\n★네이버시리즈\n15금 ▷ https://t.co/r1r0jiHvAx\n\n★마녀코믹스\n15금 ▷ https://t.co/5uZ1gfrBJJ\n19금 ▷ https://t.co/i67w2l0CvL\n\n★카카오페이지\n15금 ▷ https://t.co/kBQ6FaVc5v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r1r0jiHvAx",
+					"expanded_url": "http://naver.me/G35JN1bi",
+					"display_url": "naver.me/G35JN1bi",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/5uZ1gfrBJJ",
+					"expanded_url": "https://www.mcomics.co.kr/contents?idx=5671&keyword=%EC%97%94%EB%84%A4%EC%95%84%EB%93%9C",
+					"display_url": "mcomics.co.kr/contents?idx=5…",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/i67w2l0CvL",
+					"expanded_url": "https://www.mcomics.co.kr/contents?idx=5672&keyword=%EC%97%94%EB%84%A4%EC%95%84%EB%93%9C",
+					"display_url": "mcomics.co.kr/contents?idx=5…",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/kBQ6FaVc5v",
+					"expanded_url": "https://page.kakao.com/home?seriesId=51834758",
+					"display_url": "page.kakao.com/home?seriesId=…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 768067568577806300,
+			"id_str": "768067568577806336",
+			"name": "모히또 Mojito",
+			"screen_name": "mojito_ennead",
+			"location": "",
+			"description": "네이버시리즈에서 이집트신화 BL 웹툰 [엔네아드] 연재중 https://t.co/Kbe8Ajowau / B&B삽화 / 캡쳐는 자제해주세요 / 외주X /DM 당분간 닫아놓습니다. 급한 일이나 제보는 메일로 주세요. xxmojito@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Kbe8Ajowau",
+							"expanded_url": "http://naver.me/G35JN1bi",
+							"display_url": "naver.me/G35JN1bi",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23010,
+			"friends_count": 182,
+			"listed_count": 110,
+			"created_at": "Tue Aug 23 12:49:13 +0000 2016",
+			"favourites_count": 9527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5886,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959775992691638273/wS0AsLOa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959775992691638273/wS0AsLOa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/768067568577806336/1521661187",
+			"profile_link_color": "452B1E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이집트신화 기반 BL웹툰 엔네아드 (ENNEAD)가 정식연재를 시작했습니다.\n\n★네이버시리즈\n15금 ▷ https://t.co/r1r0jiHvAx\n\n★마녀코믹스\n15금 ▷ https://t.co/5uZ1gfrBJJ\n19금 ▷ https://t.co/i67w2l0CvL\n\n★카카오페이지\n15금 ▷ https://t.co/kBQ6FaVc5v"
+	},
+	{
+		"created_at": "Tue Oct 30 05:30:22 +0000 2018",
+		"id": 1057142647549132800,
+		"id_str": "1057142647549132800",
+		"full_text": "머야 어케 수정하는 거지..오랜만에 했더니 버벅버벅......",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1057139591306571800,
+		"in_reply_to_status_id_str": "1057139591306571776",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23189,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "머야 어케 수정하는 거지..오랜만에 했더니 버벅버벅......"
+	},
+	{
+		"created_at": "Tue Oct 30 05:18:13 +0000 2018",
+		"id": 1057139591306571800,
+		"id_str": "1057139591306571776",
+		"full_text": "와 예전에 나 티스토리 스킨 어떻게 수정하면서 산 거야.....이젠 둘러보기도 못 하겠다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23189,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와 예전에 나 티스토리 스킨 어떻게 수정하면서 산 거야.....이젠 둘러보기도 못 하겠다..."
+	},
+	{
+		"created_at": "Tue Oct 30 04:43:42 +0000 2018",
+		"id": 1057130901610487800,
+		"id_str": "1057130901610487808",
+		"full_text": "대박 궁이다 https://t.co/0wFjGZApyB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1057130779656900600,
+					"id_str": "1057130779656900610",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057130779656900610/pr/img/91ase6-divSsu3DY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057130779656900610/pr/img/91ase6-divSsu3DY.jpg",
+					"url": "https://t.co/0wFjGZApyB",
+					"display_url": "pic.twitter.com/0wFjGZApyB",
+					"expanded_url": "https://twitter.com/celebaduial/status/1057130901610487808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057130779656900600,
+					"id_str": "1057130779656900610",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1057130779656900610/pr/img/91ase6-divSsu3DY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1057130779656900610/pr/img/91ase6-divSsu3DY.jpg",
+					"url": "https://t.co/0wFjGZApyB",
+					"display_url": "pic.twitter.com/0wFjGZApyB",
+					"expanded_url": "https://twitter.com/celebaduial/status/1057130901610487808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24600,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1057130779656900610/pr/vid/320x180/DdFFyX_3rhRypcUV.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1057130779656900610/pr/vid/1280x720/fus8A58dm0cfnbRc.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1057130779656900610/pr/pl/RBCGJWvKiukvs2ac.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1057130779656900610/pr/vid/640x360/NSEKNN7iBU-FN5YN.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23189,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948255031291133952/QC1_dgeW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대박 궁이다 https://t.co/0wFjGZApyB"
+	},
+	{
 		"created_at": "Thu Oct 25 14:22:21 +0000 2018",
 		"id": 1055464584197288000,
 		"id_str": "1055464584197287938",
