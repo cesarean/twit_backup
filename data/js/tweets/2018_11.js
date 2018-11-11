@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 13:57:26 +0000 2018",
+		"id": 1061618906995912700,
+		"id_str": "1061618906995912706",
+		"full_text": "@podongnorian 꺄 &gt;ㅁ&lt; 페아노르는 가리고 다녀봤자 핀골핀이 끈질기게 자국내니까 반쯤 포기핬다거나..길켈은 켈리가 물빨핥할 때도 아무 말 없어서 좋은건가 싶었는데 또 밖에선 다 가리고 다니니까 사실 싫은건가 싶어 뇨롱한 길인가요ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "podongnorian",
+					"name": "잠시동결 뚱름",
+					"id": 2301896918,
+					"id_str": "2301896918",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1061617798718251000,
+		"in_reply_to_status_id_str": "1061617798718251009",
+		"in_reply_to_user_id": 2301896918,
+		"in_reply_to_user_id_str": "2301896918",
+		"in_reply_to_screen_name": "podongnorian",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23240,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@podongnorian 꺄 &gt;ㅁ&lt; 페아노르는 가리고 다녀봤자 핀골핀이 끈질기게 자국내니까 반쯤 포기핬다거나..길켈은 켈리가 물빨핥할 때도 아무 말 없어서 좋은건가 싶었는데 또 밖에선 다 가리고 다니니까 사실 싫은건가 싶어 뇨롱한 길인가요ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Nov 11 04:27:13 +0000 2018",
+		"id": 1061475408120447000,
+		"id_str": "1061475408120446976",
+		"full_text": "@celebaduial 길켈은 길이 많이도 아니고 어쩌다 한두개 남기는 정도인데 켈리가 꼭꼭 가리고 다닐 듯",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "celebaduial",
+					"name": "앵무",
+					"id": 2327283314,
+					"id_str": "2327283314",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1061475250649555000,
+		"in_reply_to_status_id_str": "1061475250649554946",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23240,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@celebaduial 길켈은 길이 많이도 아니고 어쩌다 한두개 남기는 정도인데 켈리가 꼭꼭 가리고 다닐 듯"
+	},
+	{
+		"created_at": "Sun Nov 11 04:26:35 +0000 2018",
+		"id": 1061475250649555000,
+		"id_str": "1061475250649554946",
+		"full_text": "@celebaduial 핀마에는 핀곤의 물고 빠는 힘&lt;마에의 회복력이라 자국이 잘 안 남으면 좋겠다",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "celebaduial",
+					"name": "앵무",
+					"id": 2327283314,
+					"id_str": "2327283314",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1061474972319633400,
+		"in_reply_to_status_id_str": "1061474972319633409",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23240,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@celebaduial 핀마에는 핀곤의 물고 빠는 힘&lt;마에의 회복력이라 자국이 잘 안 남으면 좋겠다"
+	},
+	{
+		"created_at": "Sun Nov 11 04:25:29 +0000 2018",
+		"id": 1061474972319633400,
+		"id_str": "1061474972319633409",
+		"full_text": "핀골페아로 핀골핀이 잇자국을 하도 남겨서 목 주변이 목걸이한 것처럼 울긋불긋한 페아노르 보고싶다. 근데 귀찮아서 특별히 가리지도 않고 그냥 돌아다녔으면..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 50,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23240,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "핀골페아로 핀골핀이 잇자국을 하도 남겨서 목 주변이 목걸이한 것처럼 울긋불긋한 페아노르 보고싶다. 근데 귀찮아서 특별히 가리지도 않고 그냥 돌아다녔으면.."
+	},
+	{
+		"created_at": "Sat Nov 10 04:41:33 +0000 2018",
+		"id": 1061116629256302600,
+		"id_str": "1061116629256302592",
+		"full_text": "[어느날 공주가 되어버렸다] \n38화 업로드 되었습니다\n\n리디북스 &gt; https://t.co/KrjlBNJorL\n카카오페이지 &gt; https://t.co/jl2ZlNeJQc https://t.co/FOP0QI4Mbi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KrjlBNJorL",
+					"expanded_url": "https://ridibooks.com/books/3240000040",
+					"display_url": "ridibooks.com/books/32400000…",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/jl2ZlNeJQc",
+					"expanded_url": "http://page.kakao.com/link/51880368?referrer=utm_source%3Dsh_tw",
+					"display_url": "page.kakao.com/link/51880368?…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1061116590865834000,
+					"id_str": "1061116590865833984",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DrnX6tfU4AAADB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrnX6tfU4AAADB-.jpg",
+					"url": "https://t.co/FOP0QI4Mbi",
+					"display_url": "pic.twitter.com/FOP0QI4Mbi",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1061116629256302592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 757,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061116590865834000,
+					"id_str": "1061116590865833984",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DrnX6tfU4AAADB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrnX6tfU4AAADB-.jpg",
+					"url": "https://t.co/FOP0QI4Mbi",
+					"display_url": "pic.twitter.com/FOP0QI4Mbi",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1061116629256302592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 757,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1705,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061116605332021200,
+					"id_str": "1061116605332021248",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DrnX7jYVYAAmD9m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrnX7jYVYAAmD9m.jpg",
+					"url": "https://t.co/FOP0QI4Mbi",
+					"display_url": "pic.twitter.com/FOP0QI4Mbi",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1061116629256302592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1073,
+							"h": 1454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 886,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061116620012056600,
+					"id_str": "1061116620012056577",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DrnX8aEU8AEyGM4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrnX8aEU8AEyGM4.jpg",
+					"url": "https://t.co/FOP0QI4Mbi",
+					"display_url": "pic.twitter.com/FOP0QI4Mbi",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1061116629256302592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263806238,
+			"id_str": "263806238",
+			"name": "스푼 spoon",
+			"screen_name": "spoon_1122",
+			"location": "",
+			"description": "팔언팔프리. 에스크 답변 x 디엠 답변x  멘션 답장 모두 못 드려서 죄송합니다  \n리디북스 어느날 공주가 되어버렸다 웹툰. +어공주 단행본 나옵니다 (시기와 사양 등은 아직 미정입니다)\n2018 외주문의X",
+			"url": "https://t.co/ueSp2bf4Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ueSp2bf4Nn",
+							"expanded_url": "https://ridibooks.com/v2/Detail?id=3240000001",
+							"display_url": "ridibooks.com/v2/Detail?id=3…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25932,
+			"friends_count": 273,
+			"listed_count": 168,
+			"created_at": "Thu Mar 10 19:40:02 +0000 2011",
+			"favourites_count": 599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 808,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005228310958428161/YeA3vAzm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005228310958428161/YeA3vAzm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263806238/1449177033",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1488,
+		"favorite_count": 1225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[어느날 공주가 되어버렸다] \n38화 업로드 되었습니다\n\n리디북스 &gt; https://t.co/KrjlBNJorL\n카카오페이지 &gt; https://t.co/jl2ZlNeJQc https://t.co/FOP0QI4Mbi"
+	},
+	{
 		"created_at": "Sat Nov 10 04:41:33 +0000 2018",
 		"id": 1061116629256302600,
 		"id_str": "1061116629256302592",
