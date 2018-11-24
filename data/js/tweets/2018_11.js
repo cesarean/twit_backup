@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 19 12:31:47 +0000 2018",
+		"id": 1064496456797581300,
+		"id_str": "1064496456797581312",
+		"full_text": "어릴때 삼국지를 읽으면 가장 치명적으로 손상되는 것 : 인구 수와 군대 규모에 대한 개념",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916160596126588900,
+			"id_str": "916160596126588929",
+			"name": "종강원함계",
+			"screen_name": "SamdugSamdug",
+			"location": "",
+			"description": "자룡공명+유비제갈 위주",
+			"url": "https://t.co/JVDYeuBF1V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JVDYeuBF1V",
+							"expanded_url": "https://ask.fm/SamdugSamdug?utm_source=tw_share_pr",
+							"display_url": "ask.fm/SamdugSamdug?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 29,
+			"listed_count": 4,
+			"created_at": "Fri Oct 06 04:38:02 +0000 2017",
+			"favourites_count": 2077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23440,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062879055106662400/EOSscrD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062879055106662400/EOSscrD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916160596126588929/1507541228",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7168,
+		"favorite_count": 1352,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어릴때 삼국지를 읽으면 가장 치명적으로 손상되는 것 : 인구 수와 군대 규모에 대한 개념"
+	},
+	{
+		"created_at": "Mon Nov 19 09:45:50 +0000 2018",
+		"id": 1064454695358423000,
+		"id_str": "1064454695358423042",
+		"full_text": "2019 아가새농장 앵무새 수채 일러스트 캘린더가 출시되었습니다♥◟(●˙▾˙●)◞♥홈페이지 https://t.co/s2btFdSniC 에서 바로 구매가 가능합니다!\n블로그에서 달력모델 당첨자도 확인해주세요^ㅇ^)/\nRT해주신 분들 중 한 분을 뽑아 캘린더를 보내드려요~ https://t.co/4hHTWyhPn9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2btFdSniC",
+					"expanded_url": "https://bit.ly/2qPpeVM",
+					"display_url": "bit.ly/2qPpeVM",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1064452938964168700,
+					"id_str": "1064452938964168704",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DsWyTusUcAAwbDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsWyTusUcAAwbDN.jpg",
+					"url": "https://t.co/4hHTWyhPn9",
+					"display_url": "pic.twitter.com/4hHTWyhPn9",
+					"expanded_url": "https://twitter.com/agase_/status/1064454695358423042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064452938964168700,
+					"id_str": "1064452938964168704",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DsWyTusUcAAwbDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsWyTusUcAAwbDN.jpg",
+					"url": "https://t.co/4hHTWyhPn9",
+					"display_url": "pic.twitter.com/4hHTWyhPn9",
+					"expanded_url": "https://twitter.com/agase_/status/1064454695358423042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 780,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1064452938955812900,
+					"id_str": "1064452938955812864",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DsWyTuqU8AACAkz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsWyTuqU8AACAkz.jpg",
+					"url": "https://t.co/4hHTWyhPn9",
+					"display_url": "pic.twitter.com/4hHTWyhPn9",
+					"expanded_url": "https://twitter.com/agase_/status/1064454695358423042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 834,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 834,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1064452938947452900,
+					"id_str": "1064452938947452929",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DsWyTuoVYAE8shP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsWyTuoVYAE8shP.jpg",
+					"url": "https://t.co/4hHTWyhPn9",
+					"display_url": "pic.twitter.com/4hHTWyhPn9",
+					"expanded_url": "https://twitter.com/agase_/status/1064454695358423042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 530,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1064452954357297200,
+					"id_str": "1064452954357297152",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DsWyUoCU8AAr9do.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsWyUoCU8AAr9do.jpg",
+					"url": "https://t.co/4hHTWyhPn9",
+					"display_url": "pic.twitter.com/4hHTWyhPn9",
+					"expanded_url": "https://twitter.com/agase_/status/1064454695358423042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3303776360,
+			"id_str": "3303776360",
+			"name": "아가새농장",
+			"screen_name": "agase_",
+			"location": "경기도 하남시",
+			"description": "행복한 앵무새들의 공간 아가새농장입니다. 소소하고 사소한 사진들을 올림!",
+			"url": "http://t.co/H4Pe0HHaJM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/H4Pe0HHaJM",
+							"expanded_url": "http://www.agase.co.kr",
+							"display_url": "agase.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2082,
+			"friends_count": 166,
+			"listed_count": 29,
+			"created_at": "Sun Aug 02 00:54:27 +0000 2015",
+			"favourites_count": 765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 682,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303776360/1438483511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2019 아가새농장 앵무새 수채 일러스트 캘린더가 출시되었습니다♥◟(●˙▾˙●)◞♥홈페이지 https://t.co/s2btFdSniC 에서 바로 구매가 가능합니다!\n블로그에서 달력모델 당첨자도 확인해주세요^ㅇ^)/\nRT해주신 분들 중 한 분을 뽑아 캘린더를 보내드려요~ https://t.co/4hHTWyhPn9"
+	},
+	{
 		"created_at": "Mon Nov 19 09:45:50 +0000 2018",
 		"id": 1064454695358423000,
 		"id_str": "1064454695358423042",
