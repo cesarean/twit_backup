@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 14:34:29 +0000 2018",
+		"id": 1067064051455295500,
+		"id_str": "1067064051455295488",
+		"full_text": "@istillieon 움직일 때마다 보일듯 말듯 슬쩍슬쩍 보이는 건가요&gt;ㅅ&lt;  당연히 페아노르가 만들어줬을 듯한데..일부러 핀골핀 보란듯이 머리카락을 귀 뒤로 넘기거나 옷소매를 걷거나 하는 페아노르 생각하니..저는 그만 정신을 잃고 만 것입니다&lt;",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "istillieon",
+					"name": "하월",
+					"id": 924283523409748000,
+					"id_str": "924283523409747968",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1067063163286249500,
+		"in_reply_to_status_id_str": "1067063163286249472",
+		"in_reply_to_user_id": 924283523409748000,
+		"in_reply_to_user_id_str": "924283523409747968",
+		"in_reply_to_screen_name": "istillieon",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@istillieon 움직일 때마다 보일듯 말듯 슬쩍슬쩍 보이는 건가요&gt;ㅅ&lt;  당연히 페아노르가 만들어줬을 듯한데..일부러 핀골핀 보란듯이 머리카락을 귀 뒤로 넘기거나 옷소매를 걷거나 하는 페아노르 생각하니..저는 그만 정신을 잃고 만 것입니다&lt;"
+	},
+	{
+		"created_at": "Mon Nov 26 14:09:48 +0000 2018",
+		"id": 1067057840412516400,
+		"id_str": "1067057840412516353",
+		"full_text": "핀골페아...보고싶다~보고싶다~둘이 짝이 되는 장신구 하나씩 나눠하고 다님 좋겠다. 귀걸이라거나 팔찌라거나...(망상도 정도껏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "핀골페아...보고싶다~보고싶다~둘이 짝이 되는 장신구 하나씩 나눠하고 다님 좋겠다. 귀걸이라거나 팔찌라거나...(망상도 정도껏"
+	},
+	{
+		"created_at": "Mon Nov 19 12:31:47 +0000 2018",
+		"id": 1064496456797581300,
+		"id_str": "1064496456797581312",
+		"full_text": "어릴때 삼국지를 읽으면 가장 치명적으로 손상되는 것 : 인구 수와 군대 규모에 대한 개념",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916160596126588900,
+			"id_str": "916160596126588929",
+			"name": "thㅏm계",
+			"screen_name": "SamdugSamdug",
+			"location": "",
+			"description": "자룡공명+유비제갈 위주",
+			"url": "https://t.co/JVDYeuBF1V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JVDYeuBF1V",
+							"expanded_url": "https://ask.fm/SamdugSamdug?utm_source=tw_share_pr",
+							"display_url": "ask.fm/SamdugSamdug?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 31,
+			"listed_count": 4,
+			"created_at": "Fri Oct 06 04:38:02 +0000 2017",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23668,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066536834564407296/7fK7pgVe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066536834564407296/7fK7pgVe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916160596126588929/1507541228",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7126,
+		"favorite_count": 1350,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어릴때 삼국지를 읽으면 가장 치명적으로 손상되는 것 : 인구 수와 군대 규모에 대한 개념"
+	},
+	{
 		"created_at": "Mon Nov 19 12:31:47 +0000 2018",
 		"id": 1064496456797581300,
 		"id_str": "1064496456797581312",
