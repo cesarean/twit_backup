@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 15:03:03 +0000 2018",
+		"id": 1068520789442347000,
+		"id_str": "1068520789442347009",
+		"full_text": "사실은 자기 눈 닿는데서 벗어나면 페아노르 또 사라져 버릴까봐...트라우마..한순간이라도 자기 눈 앞에서 떨어지면 불같이 화내면서 안아버리면 좋겠다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1068514645294497800,
+		"in_reply_to_status_id_str": "1068514645294497792",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23250,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사실은 자기 눈 닿는데서 벗어나면 페아노르 또 사라져 버릴까봐...트라우마..한순간이라도 자기 눈 앞에서 떨어지면 불같이 화내면서 안아버리면 좋겠다.."
+	},
+	{
+		"created_at": "Fri Nov 30 14:38:38 +0000 2018",
+		"id": 1068514645294497800,
+		"id_str": "1068514645294497792",
+		"full_text": "핀골페아로 재육 후 페아노르 감시하면서 자기 눈 밖에서 벗어나는 거 못 참는 핀골핀 보고싶다. 또 눈을 떼면 무슨 일을 벌일지 모른다며 엄청 빡빡하게 가둬놓다가 나중엔 발라들이 페아노르 찾는 것도 못 견뎌하는..의처증 핀골핀()",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23250,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "핀골페아로 재육 후 페아노르 감시하면서 자기 눈 밖에서 벗어나는 거 못 참는 핀골핀 보고싶다. 또 눈을 떼면 무슨 일을 벌일지 모른다며 엄청 빡빡하게 가둬놓다가 나중엔 발라들이 페아노르 찾는 것도 못 견뎌하는..의처증 핀골핀()"
+	},
+	{
+		"created_at": "Fri Nov 30 02:43:48 +0000 2018",
+		"id": 1068334753793753100,
+		"id_str": "1068334753793753089",
+		"full_text": "[어느날 공주가 되어버렸다] \n40화 업로드 되었습니다\n\n리디북스 &gt; https://t.co/fE1WAHX1fW\n카카오페이지 &gt;https://t.co/pn0oSDZIbk https://t.co/lwJpEEOoFV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fE1WAHX1fW",
+					"expanded_url": "https://ridibooks.com/books/3240000042",
+					"display_url": "ridibooks.com/books/32400000…",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/pn0oSDZIbk",
+					"expanded_url": "https://page.kakao.com/home/51880368",
+					"display_url": "page.kakao.com/home/51880368",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1068334318479528000,
+					"id_str": "1068334318479527936",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DtN8ZwJU0AAmE8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtN8ZwJU0AAmE8v.jpg",
+					"url": "https://t.co/lwJpEEOoFV",
+					"display_url": "pic.twitter.com/lwJpEEOoFV",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1068334753793753089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1095,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1095,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068334318479528000,
+					"id_str": "1068334318479527936",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DtN8ZwJU0AAmE8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtN8ZwJU0AAmE8v.jpg",
+					"url": "https://t.co/lwJpEEOoFV",
+					"display_url": "pic.twitter.com/lwJpEEOoFV",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1068334753793753089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1095,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1095,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1068334350293323800,
+					"id_str": "1068334350293323776",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DtN8bmqU0AA0QH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtN8bmqU0AA0QH0.jpg",
+					"url": "https://t.co/lwJpEEOoFV",
+					"display_url": "pic.twitter.com/lwJpEEOoFV",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1068334753793753089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1163,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1068334367095713800,
+					"id_str": "1068334367095713794",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DtN8clQU8AI-yKA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtN8clQU8AI-yKA.jpg",
+					"url": "https://t.co/lwJpEEOoFV",
+					"display_url": "pic.twitter.com/lwJpEEOoFV",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1068334753793753089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 656,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 821,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 821,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1068334384753782800,
+					"id_str": "1068334384753782789",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DtN8dnCVsAUV1U-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtN8dnCVsAUV1U-.jpg",
+					"url": "https://t.co/lwJpEEOoFV",
+					"display_url": "pic.twitter.com/lwJpEEOoFV",
+					"expanded_url": "https://twitter.com/spoon_1122/status/1068334753793753089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263806238,
+			"id_str": "263806238",
+			"name": "스푼 spoon",
+			"screen_name": "spoon_1122",
+			"location": "",
+			"description": "팔언팔프리. 에스크 답변 x 디엠 답변x  멘션 답장 모두 못 드려서 죄송합니다  \n리디북스 어느날 공주가 되어버렸다 웹툰. +어공주 단행본 나옵니다 (시기와 사양 등은 아직 미정입니다)\n2018 외주문의X",
+			"url": "https://t.co/ueSp2bf4Nn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ueSp2bf4Nn",
+							"expanded_url": "https://ridibooks.com/v2/Detail?id=3240000001",
+							"display_url": "ridibooks.com/v2/Detail?id=3…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27336,
+			"friends_count": 273,
+			"listed_count": 169,
+			"created_at": "Thu Mar 10 19:40:02 +0000 2011",
+			"favourites_count": 618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005228310958428161/YeA3vAzm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005228310958428161/YeA3vAzm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263806238/1449177033",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 951,
+		"favorite_count": 744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[어느날 공주가 되어버렸다] \n40화 업로드 되었습니다\n\n리디북스 &gt; https://t.co/fE1WAHX1fW\n카카오페이지 &gt;https://t.co/pn0oSDZIbk https://t.co/lwJpEEOoFV"
+	},
+	{
 		"created_at": "Thu Nov 29 02:26:39 +0000 2018",
 		"id": 1067968049003683800,
 		"id_str": "1067968049003683840",
