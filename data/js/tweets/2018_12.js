@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 23 09:35:27 +0000 2018",
+		"id": 1076773270521692200,
+		"id_str": "1076773270521692161",
+		"full_text": "아무래도 콩순이 야채씻기를 사야할까...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 49,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23218,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아무래도 콩순이 야채씻기를 사야할까..."
+	},
+	{
+		"created_at": "Fri Dec 21 19:34:03 +0000 2018",
+		"id": 1076199136632827900,
+		"id_str": "1076199136632827904",
+		"full_text": "スゴい痛そう．．． #PS4share\n\nhttps://t.co/1UrXNwAnva https://t.co/vJDacrPArm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PS4share",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1UrXNwAnva",
+					"expanded_url": "https://store.playstation.com/#!/ja-jp/tid=CUSA08444_00",
+					"display_url": "store.playstation.com/#!/ja-jp/tid=C…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1076199062083235800,
+					"id_str": "1076199062083235842",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076199062083235842/pu/img/IrHWEUsoEJXmdMAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076199062083235842/pu/img/IrHWEUsoEJXmdMAh.jpg",
+					"url": "https://t.co/vJDacrPArm",
+					"display_url": "pic.twitter.com/vJDacrPArm",
+					"expanded_url": "https://twitter.com/akryoro/status/1076199136632827904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076199062083235800,
+					"id_str": "1076199062083235842",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076199062083235842/pu/img/IrHWEUsoEJXmdMAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076199062083235842/pu/img/IrHWEUsoEJXmdMAh.jpg",
+					"url": "https://t.co/vJDacrPArm",
+					"display_url": "pic.twitter.com/vJDacrPArm",
+					"expanded_url": "https://twitter.com/akryoro/status/1076199136632827904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22990,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1076199062083235842/pu/pl/JywskCsSMOe2QKfP.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076199062083235842/pu/vid/1280x720/_HsV164XCT9WaDm_.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076199062083235842/pu/vid/320x180/zllhBcYX4nJ9Aa01.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076199062083235842/pu/vid/640x360/XItlzYHqYQqYdEQD.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1000689908128759800,
+			"id_str": "1000689908128759808",
+			"name": "愁-Aki-",
+			"screen_name": "akryoro",
+			"location": "北  質問箱 ▶︎",
+			"description": "FTX。   MWAM/MHXX/MHW/バンドリ/Persona5/ディシディア/DBD.PS4",
+			"url": "https://t.co/EeO17hMWgM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EeO17hMWgM",
+							"expanded_url": "https://peing.net/ja/akryoro",
+							"display_url": "peing.net/ja/akryoro",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415,
+			"friends_count": 399,
+			"listed_count": 5,
+			"created_at": "Sun May 27 10:47:20 +0000 2018",
+			"favourites_count": 1276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3327,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071068650432393217/JXWzEZFk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071068650432393217/JXWzEZFk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000689908128759808/1529610418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8295,
+		"favorite_count": 11639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "スゴい痛そう．．． #PS4share\n\nhttps://t.co/1UrXNwAnva https://t.co/vJDacrPArm"
+	},
+	{
+		"created_at": "Sat Dec 22 08:40:21 +0000 2018",
+		"id": 1076397014546411500,
+		"id_str": "1076397014546411520",
+		"full_text": "지인 분의 요청으로 그린 앵무새 부위 별 반응 (주관적) https://t.co/rFOMDFBonh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076397004652109800,
+					"id_str": "1076397004652109825",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DvAhX2uVYAEbcav.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvAhX2uVYAEbcav.jpg",
+					"url": "https://t.co/rFOMDFBonh",
+					"display_url": "pic.twitter.com/rFOMDFBonh",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1076397014546411520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076397004652109800,
+					"id_str": "1076397004652109825",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DvAhX2uVYAEbcav.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvAhX2uVYAEbcav.jpg",
+					"url": "https://t.co/rFOMDFBonh",
+					"display_url": "pic.twitter.com/rFOMDFBonh",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1076397014546411520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "저희 애 화이트페이스 바이올렛 모란앵무가 맞아요 카메라 필터에 따라 색깔이 막 바뀌어서 그렇지...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3181,
+			"friends_count": 46,
+			"listed_count": 14,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 243,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070500660431347712/Yz8tS7lY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070500660431347712/Yz8tS7lY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1544062123",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4997,
+		"favorite_count": 2864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지인 분의 요청으로 그린 앵무새 부위 별 반응 (주관적) https://t.co/rFOMDFBonh"
+	},
+	{
 		"created_at": "Fri Dec 21 19:34:03 +0000 2018",
 		"id": 1076199136632827900,
 		"id_str": "1076199136632827904",
