@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Dec 07 05:39:24 +0000 2018",
+		"id": 1070915658311852000,
+		"id_str": "1070915658311852032",
+		"full_text": "https://t.co/9LHg99x7BC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1070915518469627900,
+					"id_str": "1070915518469627904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dtyn_XbV4AAWFcv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dtyn_XbV4AAWFcv.jpg",
+					"url": "https://t.co/9LHg99x7BC",
+					"display_url": "pic.twitter.com/9LHg99x7BC",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1070915658311852032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1070915518469627900,
+					"id_str": "1070915518469627904",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dtyn_XbV4AAWFcv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dtyn_XbV4AAWFcv.jpg",
+					"url": "https://t.co/9LHg99x7BC",
+					"display_url": "pic.twitter.com/9LHg99x7BC",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1070915658311852032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1070915562212012000,
+					"id_str": "1070915562212012037",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DtyoB6YVsAUyrFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtyoB6YVsAUyrFd.jpg",
+					"url": "https://t.co/9LHg99x7BC",
+					"display_url": "pic.twitter.com/9LHg99x7BC",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1070915658311852032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "저희 애 화이트페이스 바이올렛 모란앵무가 맞아요 카메라 필터에 따라 색깔이 막 바뀌어서 그렇지...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3783,
+			"friends_count": 46,
+			"listed_count": 16,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 292,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082201481774657538/ZGJjLnA3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082201481774657538/ZGJjLnA3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1544062123",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18403,
+		"favorite_count": 7897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9LHg99x7BC"
+	},
+	{
+		"created_at": "Thu Dec 27 09:33:01 +0000 2018",
+		"id": 1078222208021934100,
+		"id_str": "1078222208021934081",
+		"full_text": "今日も元気にぶんぶこぶーん！！！ https://t.co/IOTFFPQ0fB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078222154284490800,
+					"id_str": "1078222154284490752",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078222154284490752/pu/img/J-4C3INa50UDrkEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078222154284490752/pu/img/J-4C3INa50UDrkEP.jpg",
+					"url": "https://t.co/IOTFFPQ0fB",
+					"display_url": "pic.twitter.com/IOTFFPQ0fB",
+					"expanded_url": "https://twitter.com/ccconowattta/status/1078222208021934081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078222154284490800,
+					"id_str": "1078222154284490752",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1078222154284490752/pu/img/J-4C3INa50UDrkEP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1078222154284490752/pu/img/J-4C3INa50UDrkEP.jpg",
+					"url": "https://t.co/IOTFFPQ0fB",
+					"display_url": "pic.twitter.com/IOTFFPQ0fB",
+					"expanded_url": "https://twitter.com/ccconowattta/status/1078222208021934081/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7062,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1078222154284490752/pu/vid/720x1280/iosag6Yw88e9KKii.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1078222154284490752/pu/pl/bjaN3X7pz_zmBePW.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1078222154284490752/pu/vid/360x640/snld-uJMevOwBnDS.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1078222154284490752/pu/vid/320x568/wpQrZ04DHuS6ypuU.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1078134529754161200,
+		"in_reply_to_status_id_str": "1078134529754161154",
+		"in_reply_to_user_id": 2819812298,
+		"in_reply_to_user_id_str": "2819812298",
+		"in_reply_to_screen_name": "ccconowattta",
+		"user": {
+			"id": 2819812298,
+			"id_str": "2819812298",
+			"name": "みき☆年始PSYCHO-PASS☆",
+			"screen_name": "ccconowattta",
+			"location": "頬袋の中",
+			"description": "成人済みです。\nコスしたりお絵かきしたり色々とします\nBL、GL、NL雑食。\nPSYCHO-PASS、食戟のソーマ、.hack、ネオロマンスシリーズ、竜騎士作品、FF、熱いです。\n梶浦由記は生きていく為の全てです。\n三谷朋世、EGOIST愛してます。\n正直うたぷりは地雷、過去に辛い思い出有",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 230,
+			"listed_count": 11,
+			"created_at": "Fri Sep 19 11:17:53 +0000 2014",
+			"favourites_count": 3218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9188,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054677101398261760/NCUinwyR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054677101398261760/NCUinwyR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2819812298/1537375834",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 283,
+		"favorite_count": 914,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日も元気にぶんぶこぶーん！！！ https://t.co/IOTFFPQ0fB"
+	},
+	{
+		"created_at": "Tue Dec 25 09:50:25 +0000 2018",
+		"id": 1077501812461031400,
+		"id_str": "1077501812461031424",
+		"full_text": "なんか体をひねるって言う新技を獲とくしていた。\nお客さんから「マメルリハはみんなこういう事するの？」って質問されたんやが、しません。\nたった一人の行動が全般の風評被害になりそうになる瞬間を見てしまったわ。 https://t.co/TkgleIvCwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077501727207653400,
+					"id_str": "1077501727207653381",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077501727207653381/pu/img/f5gRDXXeLIJdtGlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077501727207653381/pu/img/f5gRDXXeLIJdtGlN.jpg",
+					"url": "https://t.co/TkgleIvCwU",
+					"display_url": "pic.twitter.com/TkgleIvCwU",
+					"expanded_url": "https://twitter.com/ccconowattta/status/1077501812461031424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077501727207653400,
+					"id_str": "1077501727207653381",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1077501727207653381/pu/img/f5gRDXXeLIJdtGlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1077501727207653381/pu/img/f5gRDXXeLIJdtGlN.jpg",
+					"url": "https://t.co/TkgleIvCwU",
+					"display_url": "pic.twitter.com/TkgleIvCwU",
+					"expanded_url": "https://twitter.com/ccconowattta/status/1077501812461031424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 19021,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077501727207653381/pu/vid/360x640/4QOgV7QI-3olRbbo.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1077501727207653381/pu/pl/CsSbtNhWSO8y2H0g.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077501727207653381/pu/vid/720x1280/43fW93s7CQRy6OwJ.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1077501727207653381/pu/vid/320x568/kbWwwnH0lmbxGcGF.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2819812298,
+			"id_str": "2819812298",
+			"name": "みき☆年始PSYCHO-PASS☆",
+			"screen_name": "ccconowattta",
+			"location": "頬袋の中",
+			"description": "成人済みです。\nコスしたりお絵かきしたり色々とします\nBL、GL、NL雑食。\nPSYCHO-PASS、食戟のソーマ、.hack、ネオロマンスシリーズ、竜騎士作品、FF、熱いです。\n梶浦由記は生きていく為の全てです。\n三谷朋世、EGOIST愛してます。\n正直うたぷりは地雷、過去に辛い思い出有",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 230,
+			"listed_count": 11,
+			"created_at": "Fri Sep 19 11:17:53 +0000 2014",
+			"favourites_count": 3218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9188,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054677101398261760/NCUinwyR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054677101398261760/NCUinwyR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2819812298/1537375834",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 819,
+		"favorite_count": 2402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "なんか体をひねるって言う新技を獲とくしていた。\nお客さんから「マメルリハはみんなこういう事するの？」って質問されたんやが、しません。\nたった一人の行動が全般の風評被害になりそうになる瞬間を見てしまったわ。 https://t.co/TkgleIvCwU"
+	},
+	{
 		"created_at": "Sat Jan 05 14:27:05 +0000 2019",
 		"id": 1081557702541639700,
 		"id_str": "1081557702541639685",
