@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 15:50:50 +0000 2019",
+		"id": 1083390719283187700,
+		"id_str": "1083390719283187715",
+		"full_text": "핀웨 죽고 나서 눈물자국이 채 마르지 않은 페아노르의 손등을 잡고 새  왕을 향해 입 맞추는 핀골핀 보고싶다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23245,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "핀웨 죽고 나서 눈물자국이 채 마르지 않은 페아노르의 손등을 잡고 새  왕을 향해 입 맞추는 핀골핀 보고싶다"
+	},
+	{
+		"created_at": "Tue Jan 08 02:49:44 +0000 2019",
+		"id": 1082469373372129300,
+		"id_str": "1082469373372129280",
+		"full_text": "새해가 되었으니 캘린더를 또 영업해봅니다٩(๑ˆOˆ๑)۶ 재고 이제 열개쯤 남았는데 언능언능 집어가주시구욥 1번사진은 원화인데 판매 끝나가니까 슬쩍 보여드림. 원화는 이러케 쫌더 색대비가 있는데 인쇄에서 좀 연하게 나왔다는 비하인드 스토리가 있읍니다. 구매링크는 https://t.co/s2btFdSniC https://t.co/JM11GyiqaU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2btFdSniC",
+					"expanded_url": "https://bit.ly/2qPpeVM",
+					"display_url": "bit.ly/2qPpeVM",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082469361229516800,
+					"id_str": "1082469361229516806",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW0JhxUUAY1KQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW0JhxUUAY1KQD.jpg",
+					"url": "https://t.co/JM11GyiqaU",
+					"display_url": "pic.twitter.com/JM11GyiqaU",
+					"expanded_url": "https://twitter.com/agase_/status/1082469373372129280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 987,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082469361229516800,
+					"id_str": "1082469361229516806",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW0JhxUUAY1KQD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW0JhxUUAY1KQD.jpg",
+					"url": "https://t.co/JM11GyiqaU",
+					"display_url": "pic.twitter.com/JM11GyiqaU",
+					"expanded_url": "https://twitter.com/agase_/status/1082469373372129280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 987,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082469370721296400,
+					"id_str": "1082469370721296384",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DwW0KFIVYAAX5Gn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwW0KFIVYAAX5Gn.jpg",
+					"url": "https://t.co/JM11GyiqaU",
+					"display_url": "pic.twitter.com/JM11GyiqaU",
+					"expanded_url": "https://twitter.com/agase_/status/1082469373372129280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3303776360,
+			"id_str": "3303776360",
+			"name": "아가새농장",
+			"screen_name": "agase_",
+			"location": "경기도 하남시",
+			"description": "행복한 앵무새들의 공간 아가새농장입니다. 소소하고 사소한 사진들을 올림!",
+			"url": "http://t.co/H4Pe0HHaJM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/H4Pe0HHaJM",
+							"expanded_url": "http://www.agase.co.kr",
+							"display_url": "agase.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2107,
+			"friends_count": 168,
+			"listed_count": 30,
+			"created_at": "Sun Aug 02 00:54:27 +0000 2015",
+			"favourites_count": 763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 699,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303776360/1438483511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새해가 되었으니 캘린더를 또 영업해봅니다٩(๑ˆOˆ๑)۶ 재고 이제 열개쯤 남았는데 언능언능 집어가주시구욥 1번사진은 원화인데 판매 끝나가니까 슬쩍 보여드림. 원화는 이러케 쫌더 색대비가 있는데 인쇄에서 좀 연하게 나왔다는 비하인드 스토리가 있읍니다. 구매링크는 https://t.co/s2btFdSniC https://t.co/JM11GyiqaU"
+	},
+	{
 		"created_at": "Tue Jan 08 02:49:44 +0000 2019",
 		"id": 1082469373372129300,
 		"id_str": "1082469373372129280",
