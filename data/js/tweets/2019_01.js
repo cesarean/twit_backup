@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 15:24:46 +0000 2019",
+		"id": 1084108934439301100,
+		"id_str": "1084108934439301120",
+		"full_text": "방벽 씌웠습니다.\n가세요! https://t.co/WwhqapzoBi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084108926142931000,
+					"id_str": "1084108926142930945",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuHUxCUYAE6kY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuHUxCUYAE6kY2.jpg",
+					"url": "https://t.co/WwhqapzoBi",
+					"display_url": "pic.twitter.com/WwhqapzoBi",
+					"expanded_url": "https://twitter.com/Aurochs_OW/status/1084108934439301120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084108926142931000,
+					"id_str": "1084108926142930945",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DwuHUxCUYAE6kY2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwuHUxCUYAE6kY2.jpg",
+					"url": "https://t.co/WwhqapzoBi",
+					"display_url": "pic.twitter.com/WwhqapzoBi",
+					"expanded_url": "https://twitter.com/Aurochs_OW/status/1084108934439301120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893007230768787500,
+			"id_str": "893007230768787457",
+			"name": "록 스파게티 먹고싶다",
+			"screen_name": "Aurochs_OW",
+			"location": "메르시님 아나좀요",
+			"description": "록스라구불러주세요~~\n옵치에인생배팅한사람 \n붐박쥬 솜자랴 모이메르 위주\n고통받는 힐탱유저|인장 이카님 컴션^^",
+			"url": "https://t.co/SZdasDPX6A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SZdasDPX6A",
+							"expanded_url": "http://naver.me/xTUMiDSa",
+							"display_url": "naver.me/xTUMiDSa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 406,
+			"listed_count": 3,
+			"created_at": "Thu Aug 03 07:14:49 +0000 2017",
+			"favourites_count": 12571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11922,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084124665658859520/oT7TPKpM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084124665658859520/oT7TPKpM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893007230768787457/1547129855",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7660,
+		"favorite_count": 2851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방벽 씌웠습니다.\n가세요! https://t.co/WwhqapzoBi"
+	},
+	{
 		"created_at": "Sat Jan 12 11:19:29 +0000 2019",
 		"id": 1084047209258049500,
 		"id_str": "1084047209258049536",
