@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 23 08:40:44 +0000 2019",
+		"id": 1087993523662663700,
+		"id_str": "1087993523662663681",
+		"full_text": "1/25~2/19 오버워치 황금돼지의 해 이벤트에 한국풍 신스킨 3종이 추가된다. 홍길동 트레이서, 산예 오리사(사자탈), 장군 브리기테. 또한 삼국지에서 따온 황충 한조, 관우하르트, 장비 토르비욘, 제갈건담 젠야타, 호로관의 메뚜기 리퍼도 함께 추가. https://t.co/foksRqbzyu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087993478875889700,
+					"id_str": "1087993478875889664",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087993478875889700,
+					"id_str": "1087993478875889664",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087993497335025700,
+					"id_str": "1087993497335025664",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUUkaW0AAya1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUUkaW0AAya1z.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 651,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 651,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087993506726113300,
+					"id_str": "1087993506726113280",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUVHZXcAAmzgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUVHZXcAAmzgE.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 731,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087993515919974400,
+					"id_str": "1087993515919974401",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUVppWoAEdAQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUVppWoAEdAQz.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 731,
+							"h": 727,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213505,
+			"friends_count": 502,
+			"listed_count": 334,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1505312907",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1/25~2/19 오버워치 황금돼지의 해 이벤트에 한국풍 신스킨 3종이 추가된다. 홍길동 트레이서, 산예 오리사(사자탈), 장군 브리기테. 또한 삼국지에서 따온 황충 한조, 관우하르트, 장비 토르비욘, 제갈건담 젠야타, 호로관의 메뚜기 리퍼도 함께 추가. https://t.co/foksRqbzyu"
+	},
+	{
+		"created_at": "Wed Jan 23 03:33:36 +0000 2019",
+		"id": 1087916230617546800,
+		"id_str": "1087916230617546753",
+		"full_text": "【포토리뷰/한정판매】《테일즈 오브 베스페리아》 유리 로웰 마음속의 성기사님 Ver. &amp;래피드 1/8 완성품 피규어(9월 발매 예정)\n제작 : amie x ALTAiR\n주인공인 유리 로웰이 「마음 속의 성기사님」 코스튬으로 피규어화 되었습니다! 그의 파트너인 라피드도 함께입니다😉\n#테일즈시리즈 https://t.co/lNHB3C19gx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "테일즈시리즈",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087915901557469200,
+					"id_str": "1087915901557469184",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DxkNv5nU8AAmAgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxkNv5nU8AAmAgn.jpg",
+					"url": "https://t.co/lNHB3C19gx",
+					"display_url": "pic.twitter.com/lNHB3C19gx",
+					"expanded_url": "https://twitter.com/AmiAmi_Korea/status/1087916230617546753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087915901557469200,
+					"id_str": "1087915901557469184",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DxkNv5nU8AAmAgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxkNv5nU8AAmAgn.jpg",
+					"url": "https://t.co/lNHB3C19gx",
+					"display_url": "pic.twitter.com/lNHB3C19gx",
+					"expanded_url": "https://twitter.com/AmiAmi_Korea/status/1087916230617546753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087915918838165500,
+					"id_str": "1087915918838165506",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DxkNw5_XcAIpmqq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxkNw5_XcAIpmqq.jpg",
+					"url": "https://t.co/lNHB3C19gx",
+					"display_url": "pic.twitter.com/lNHB3C19gx",
+					"expanded_url": "https://twitter.com/AmiAmi_Korea/status/1087916230617546753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087915928896110600,
+					"id_str": "1087915928896110595",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DxkNxfdXgAMpC0e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxkNxfdXgAMpC0e.jpg",
+					"url": "https://t.co/lNHB3C19gx",
+					"display_url": "pic.twitter.com/lNHB3C19gx",
+					"expanded_url": "https://twitter.com/AmiAmi_Korea/status/1087916230617546753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087916135838711800,
+					"id_str": "1087916135838711809",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DxkN9iYVAAEPV21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxkN9iYVAAEPV21.jpg",
+					"url": "https://t.co/lNHB3C19gx",
+					"display_url": "pic.twitter.com/lNHB3C19gx",
+					"expanded_url": "https://twitter.com/AmiAmi_Korea/status/1087916230617546753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859337849727885300,
+			"id_str": "859337849727885312",
+			"name": "아미아미",
+			"screen_name": "AmiAmi_Korea",
+			"location": "日本 東京",
+			"description": "https://t.co/pUybs6n3N5의 소식을 전해드립니다. 피규어/캐릭터굿즈/여성향/프라모델/게임등✨**문의는 트위터가 아닌 한국어 고객센터로 부탁드립니다. https://t.co/BW7gVVMWbE 평일 오전10시~오후5시반 사이에는 상담원과 실시간 채팅이 가능합니다🤗🎶",
+			"url": "https://t.co/YbY8AQiVSG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YbY8AQiVSG",
+							"expanded_url": "http://www.amiami.com/",
+							"display_url": "amiami.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pUybs6n3N5",
+							"expanded_url": "http://amiami.com",
+							"display_url": "amiami.com",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/BW7gVVMWbE",
+							"expanded_url": "http://support.amiami.com/hc/ko",
+							"display_url": "support.amiami.com/hc/ko",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9974,
+			"friends_count": 13,
+			"listed_count": 68,
+			"created_at": "Tue May 02 09:24:43 +0000 2017",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2259,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877122071305703425/fFMezzw6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877122071305703425/fFMezzw6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859337849727885312/1546656289",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【포토리뷰/한정판매】《테일즈 오브 베스페리아》 유리 로웰 마음속의 성기사님 Ver. &amp;래피드 1/8 완성품 피규어(9월 발매 예정)\n제작 : amie x ALTAiR\n주인공인 유리 로웰이 「마음 속의 성기사님」 코스튬으로 피규어화 되었습니다! 그의 파트너인 라피드도 함께입니다😉\n#테일즈시리즈 https://t.co/lNHB3C19gx"
+	},
+	{
 		"created_at": "Tue Jan 22 06:20:51 +0000 2019",
 		"id": 1087595930935734300,
 		"id_str": "1087595930935734272",
