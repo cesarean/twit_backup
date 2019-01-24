@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 24 07:15:45 +0000 2019",
+		"id": 1088334522641305600,
+		"id_str": "1088334522641305601",
+		"full_text": "어크 오디세이 델씨2 엔딩의 상태가...? 아니 왜 나타카스를 이정도로..근데 보다보니 또 말썽생긴 알키비아데스가 수소문 끝에 디메까지 카산드라 찾아와서 징징대고 카산드라는 한숨쉬면서도 도와주려해서 나타카스가 잔뜩 경계하는 동인설정 떠오름(노답",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23273,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어크 오디세이 델씨2 엔딩의 상태가...? 아니 왜 나타카스를 이정도로..근데 보다보니 또 말썽생긴 알키비아데스가 수소문 끝에 디메까지 카산드라 찾아와서 징징대고 카산드라는 한숨쉬면서도 도와주려해서 나타카스가 잔뜩 경계하는 동인설정 떠오름(노답"
+	},
+	{
+		"created_at": "Wed Jan 23 08:40:44 +0000 2019",
+		"id": 1087993523662663700,
+		"id_str": "1087993523662663681",
+		"full_text": "1/25~2/19 오버워치 황금돼지의 해 이벤트에 한국풍 신스킨 3종이 추가된다. 홍길동 트레이서, 산예 오리사(사자탈), 장군 브리기테. 또한 삼국지에서 따온 황충 한조, 관우하르트, 장비 토르비욘, 제갈건담 젠야타, 호로관의 메뚜기 리퍼도 함께 추가. https://t.co/foksRqbzyu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087993478875889700,
+					"id_str": "1087993478875889664",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087993478875889700,
+					"id_str": "1087993478875889664",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUTfpWwAALl_-.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087993497335025700,
+					"id_str": "1087993497335025664",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUUkaW0AAya1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUUkaW0AAya1z.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 651,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 406,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 651,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087993506726113300,
+					"id_str": "1087993506726113280",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUVHZXcAAmzgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUVHZXcAAmzgE.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 1091,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 731,
+							"h": 1091,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1087993515919974400,
+					"id_str": "1087993515919974401",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/DxlUVppWoAEdAQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxlUVppWoAEdAQz.jpg",
+					"url": "https://t.co/foksRqbzyu",
+					"display_url": "pic.twitter.com/foksRqbzyu",
+					"expanded_url": "https://twitter.com/foodnjoy/status/1087993523662663681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 731,
+							"h": 727,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71992272,
+			"id_str": "71992272",
+			"name": "foodnjoy",
+			"screen_name": "foodnjoy",
+			"location": "위장 속",
+			"description": "굶주림에 고통받는 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 213434,
+			"friends_count": 501,
+			"listed_count": 334,
+			"created_at": "Sun Sep 06 07:50:09 +0000 2009",
+			"favourites_count": 1154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37559,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848299248542142464/1fyve8xb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71992272/1505312907",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 206,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1/25~2/19 오버워치 황금돼지의 해 이벤트에 한국풍 신스킨 3종이 추가된다. 홍길동 트레이서, 산예 오리사(사자탈), 장군 브리기테. 또한 삼국지에서 따온 황충 한조, 관우하르트, 장비 토르비욘, 제갈건담 젠야타, 호로관의 메뚜기 리퍼도 함께 추가. https://t.co/foksRqbzyu"
+	},
+	{
 		"created_at": "Wed Jan 23 08:40:44 +0000 2019",
 		"id": 1087993523662663700,
 		"id_str": "1087993523662663681",
