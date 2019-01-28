@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 15:57:15 +0000 2019",
+		"id": 1089915313783595000,
+		"id_str": "1089915313783595008",
+		"full_text": "핀골페아 놀도란테 설정으로 갓 사교계 나온 젊은 청년들을 푹 빠지게 해서 홀랑 잡아먹는 페아노르 여대공때문에 속이 부글부글 끓는 핀골핀 보고싶다. 창창한 젊은 애들이 정신놓고 페아노르한테 빠져선 사람들 눈치도 안 보는 작태보고 속터지는 핀골핀..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23285,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060026279095750656/_vPKFLnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "핀골페아 놀도란테 설정으로 갓 사교계 나온 젊은 청년들을 푹 빠지게 해서 홀랑 잡아먹는 페아노르 여대공때문에 속이 부글부글 끓는 핀골핀 보고싶다. 창창한 젊은 애들이 정신놓고 페아노르한테 빠져선 사람들 눈치도 안 보는 작태보고 속터지는 핀골핀.."
+	},
+	{
+		"created_at": "Sun Jan 27 16:43:39 +0000 2019",
+		"id": 1089564603862765600,
+		"id_str": "1089564603862765568",
+		"full_text": "2대 호카게님을 좋아하는 모임 https://t.co/16k9JNvQ7L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089564573491880000,
+					"id_str": "1089564573491879936",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7pNPLVYAAXA2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7pNPLVYAAXA2f.jpg",
+					"url": "https://t.co/16k9JNvQ7L",
+					"display_url": "pic.twitter.com/16k9JNvQ7L",
+					"expanded_url": "https://twitter.com/wnsdls/status/1089564603862765568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089564573491880000,
+					"id_str": "1089564573491879936",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7pNPLVYAAXA2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7pNPLVYAAXA2f.jpg",
+					"url": "https://t.co/16k9JNvQ7L",
+					"display_url": "pic.twitter.com/16k9JNvQ7L",
+					"expanded_url": "https://twitter.com/wnsdls/status/1089564603862765568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3282571987,
+			"id_str": "3282571987",
+			"name": "나뭇잎명예우치하",
+			"screen_name": "wnsdls",
+			"location": "장르팔로비추임찐으로",
+			"description": "시켜줘",
+			"url": "https://t.co/fTel1umq6L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fTel1umq6L",
+							"expanded_url": "http://ask.fm/wnsdls1",
+							"display_url": "ask.fm/wnsdls1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26343,
+			"friends_count": 210,
+			"listed_count": 154,
+			"created_at": "Fri Jul 17 15:07:57 +0000 2015",
+			"favourites_count": 4817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3581,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088501455399448576/eksbTgYR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088501455399448576/eksbTgYR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3282571987/1548511814",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 290,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2대 호카게님을 좋아하는 모임 https://t.co/16k9JNvQ7L"
+	},
+	{
 		"created_at": "Sun Jan 27 16:43:39 +0000 2019",
 		"id": 1089564603862765600,
 		"id_str": "1089564603862765568",
