@@ -150,6 +150,203 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 27376,
+			"friends_count": 211,
+			"listed_count": 156,
+			"created_at": "Fri Jul 17 15:07:57 +0000 2015",
+			"favourites_count": 4919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4108,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088501455399448576/eksbTgYR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088501455399448576/eksbTgYR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3282571987/1548511814",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1047,
+		"favorite_count": 1809,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아빠옷 https://t.co/s3gzBBkKl3"
+	},
+	{
+		"created_at": "Sat Feb 09 15:11:58 +0000 2019",
+		"id": 1094252572435570700,
+		"id_str": "1094252572435570688",
+		"full_text": "아빠옷 https://t.co/s3gzBBkKl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1094252481553432600,
+					"id_str": "1094252481553432577",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy-Q1ZmVAAESd-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy-Q1ZmVAAESd-2.jpg",
+					"url": "https://t.co/s3gzBBkKl3",
+					"display_url": "pic.twitter.com/s3gzBBkKl3",
+					"expanded_url": "https://twitter.com/wnsdls/status/1094252572435570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094252481553432600,
+					"id_str": "1094252481553432577",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy-Q1ZmVAAESd-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy-Q1ZmVAAESd-2.jpg",
+					"url": "https://t.co/s3gzBBkKl3",
+					"display_url": "pic.twitter.com/s3gzBBkKl3",
+					"expanded_url": "https://twitter.com/wnsdls/status/1094252572435570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1094252488415297500,
+					"id_str": "1094252488415297547",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy-Q1zKUwAsWeW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy-Q1zKUwAsWeW4.jpg",
+					"url": "https://t.co/s3gzBBkKl3",
+					"display_url": "pic.twitter.com/s3gzBBkKl3",
+					"expanded_url": "https://twitter.com/wnsdls/status/1094252572435570688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3282571987,
+			"id_str": "3282571987",
+			"name": "나뭇잎명예우치하",
+			"screen_name": "wnsdls",
+			"location": "장르팔로비추임찐으로",
+			"description": "시켜줘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 27353,
 			"friends_count": 211,
 			"listed_count": 156,
