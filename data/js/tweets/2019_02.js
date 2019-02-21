@@ -114,6 +114,167 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 4491,
+			"friends_count": 46,
+			"listed_count": 27,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 34,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 410,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082201481774657538/ZGJjLnA3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082201481774657538/ZGJjLnA3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1544062123",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7370,
+		"favorite_count": 6318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누가 입 벌린 앵무새 그려달랬고 계정 생성 이래 최대의 위기였음 https://t.co/uxgA8tM9na"
+	},
+	{
+		"created_at": "Wed Feb 20 07:36:59 +0000 2019",
+		"id": 1098124341567414300,
+		"id_str": "1098124341567414272",
+		"full_text": "누가 입 벌린 앵무새 그려달랬고 계정 생성 이래 최대의 위기였음 https://t.co/uxgA8tM9na",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098124318511292400,
+					"id_str": "1098124318511292416",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz1SP-QVYAAdC_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz1SP-QVYAAdC_g.jpg",
+					"url": "https://t.co/uxgA8tM9na",
+					"display_url": "pic.twitter.com/uxgA8tM9na",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1098124341567414272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098124318511292400,
+					"id_str": "1098124318511292416",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz1SP-QVYAAdC_g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz1SP-QVYAAdC_g.jpg",
+					"url": "https://t.co/uxgA8tM9na",
+					"display_url": "pic.twitter.com/uxgA8tM9na",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1098124341567414272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "저희 애 화이트페이스 바이올렛 모란앵무가 맞아요 카메라 필터에 따라 색깔이 막 바뀌어서 그렇지...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 4356,
 			"friends_count": 46,
 			"listed_count": 26,
