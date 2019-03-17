@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 17 15:42:04 +0000 2019",
+		"id": 1107306113098084400,
+		"id_str": "1107306113098084352",
+		"full_text": "브이는 천사야 천사....너무 예뻐 ㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1107292040411267100,
+		"in_reply_to_status_id_str": "1107292040411267072",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23415,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "브이는 천사야 천사....너무 예뻐 ㅠㅠㅠ"
+	},
+	{
+		"created_at": "Sun Mar 17 15:19:58 +0000 2019",
+		"id": 1105422411267219500,
+		"id_str": "1107300552088543232",
+		"full_text": "wii music (or should i say V music (yes, i should)) https://t.co/iDjHP6kfpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105422306912944100,
+					"id_str": "1105422306912944128",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105422306912944128/pu/img/cERPw_gpqUUQVl6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105422306912944128/pu/img/cERPw_gpqUUQVl6A.jpg",
+					"url": "https://t.co/iDjHP6kfpj",
+					"display_url": "pic.twitter.com/iDjHP6kfpj",
+					"expanded_url": "https://twitter.com/dancetrigger/status/1105422411267219463/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105422306912944100,
+					"id_str": "1105422306912944128",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1105422306912944128/pu/img/cERPw_gpqUUQVl6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1105422306912944128/pu/img/cERPw_gpqUUQVl6A.jpg",
+					"url": "https://t.co/iDjHP6kfpj",
+					"display_url": "pic.twitter.com/iDjHP6kfpj",
+					"expanded_url": "https://twitter.com/dancetrigger/status/1105422411267219463/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 24825,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1105422306912944128/pu/pl/SmaIYIFSn8iAHJpA.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105422306912944128/pu/vid/1280x720/-qCpdJDKVsLSXMTa.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105422306912944128/pu/vid/640x360/Tf5Glssx8FoY4w0m.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1105422306912944128/pu/vid/320x180/B0ZFE6LVdHhkFh60.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1028227224577695700,
+			"id_str": "1028227224577695744",
+			"name": "devil may cry boys dance to",
+			"screen_name": "dancetrigger",
+			"location": "hell",
+			"description": "*dabs* devil trigger 👹 abandon hope all ye who enter here",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5376,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Sat Aug 11 10:30:48 +0000 2018",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104324632411365376/7XuuGJ09_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104324632411365376/7XuuGJ09_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1028227224577695744/1552085132",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1493,
+		"favorite_count": 2910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "wii music (or should i say V music (yes, i should)) https://t.co/iDjHP6kfpj"
+	},
+	{
+		"created_at": "Sun Mar 17 15:17:55 +0000 2019",
+		"id": 1106195898583801900,
+		"id_str": "1107300033886482437",
+		"full_text": "Vくんの指笛の色気よ…小指でするのも良き…👍\n#PS4share #DMC5 https://t.co/9NCbRe2RPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PS4share",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "DMC5",
+					"indices": [
+						33,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106195241101463600,
+					"id_str": "1106195241101463554",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1n-tf4UkAIctVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1n-tf4UkAIctVf.jpg",
+					"url": "https://t.co/9NCbRe2RPf",
+					"display_url": "pic.twitter.com/9NCbRe2RPf",
+					"expanded_url": "https://twitter.com/yamato_3510/status/1106195898583801857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106195241101463600,
+					"id_str": "1106195241101463554",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1n-tf4UkAIctVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1n-tf4UkAIctVf.jpg",
+					"url": "https://t.co/9NCbRe2RPf",
+					"display_url": "pic.twitter.com/9NCbRe2RPf",
+					"expanded_url": "https://twitter.com/yamato_3510/status/1106195898583801857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106195263952052200,
+					"id_str": "1106195263952052225",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1n-u1AU4AE7Fm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1n-u1AU4AE7Fm9.jpg",
+					"url": "https://t.co/9NCbRe2RPf",
+					"display_url": "pic.twitter.com/9NCbRe2RPf",
+					"expanded_url": "https://twitter.com/yamato_3510/status/1106195898583801857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106195300278886400,
+					"id_str": "1106195300278886400",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1n-w8VUYAAHxBV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1n-w8VUYAAHxBV.jpg",
+					"url": "https://t.co/9NCbRe2RPf",
+					"display_url": "pic.twitter.com/9NCbRe2RPf",
+					"expanded_url": "https://twitter.com/yamato_3510/status/1106195898583801857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1106195427752210400,
+					"id_str": "1106195427752210433",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/D1n-4XNU8AEi9vd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1n-4XNU8AEi9vd.jpg",
+					"url": "https://t.co/9NCbRe2RPf",
+					"display_url": "pic.twitter.com/9NCbRe2RPf",
+					"expanded_url": "https://twitter.com/yamato_3510/status/1106195898583801857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2840759736,
+			"id_str": "2840759736",
+			"name": "いつかのyamato✋DMC5済",
+			"screen_name": "yamato_3510",
+			"location": "",
+			"description": "成人済み🚺。オタク濃いめで過去絵とかいろいろ投げるアカ。男女カプ好き。ジャンルごったに。イラストの無断転載ご遠慮ください。成人済の方のみよろしくです。 銀妙/クラティ/ネロキリ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 399,
+			"friends_count": 42,
+			"listed_count": 7,
+			"created_at": "Sun Oct 05 04:47:01 +0000 2014",
+			"favourites_count": 1247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 650,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084298809264431106/39wCbZeG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084298809264431106/39wCbZeG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2840759736/1530554987",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 1145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Vくんの指笛の色気よ…小指でするのも良き…👍\n#PS4share #DMC5 https://t.co/9NCbRe2RPf"
+	},
+	{
+		"created_at": "Sun Mar 17 14:46:09 +0000 2019",
+		"id": 1107292040411267100,
+		"id_str": "1107292040411267072",
+		"full_text": "브이........얼른 또 브이 나오는 미션 하고 싶다... https://t.co/5tujHfG8kT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107292037701726200,
+					"id_str": "1107292037701726210",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D13kPdnUcAIfN9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D13kPdnUcAIfN9I.jpg",
+					"url": "https://t.co/5tujHfG8kT",
+					"display_url": "pic.twitter.com/5tujHfG8kT",
+					"expanded_url": "https://twitter.com/celebaduial/status/1107292040411267072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107292037701726200,
+					"id_str": "1107292037701726210",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D13kPdnUcAIfN9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D13kPdnUcAIfN9I.jpg",
+					"url": "https://t.co/5tujHfG8kT",
+					"display_url": "pic.twitter.com/5tujHfG8kT",
+					"expanded_url": "https://twitter.com/celebaduial/status/1107292040411267072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23415,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브이........얼른 또 브이 나오는 미션 하고 싶다... https://t.co/5tujHfG8kT"
+	},
+	{
 		"created_at": "Sat Mar 16 16:48:28 +0000 2019",
 		"id": 1106960433783541800,
 		"id_str": "1106960433783541760",
