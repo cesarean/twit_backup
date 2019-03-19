@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 06:27:34 +0000 2019",
+		"id": 1106497111754006500,
+		"id_str": "1107891344456900608",
+		"full_text": "I've never seen anything more exciting and beautiful than this\nand I'm so horny right now\nHELP\n\n#dmc5 #devilmaycry5 https://t.co/z5NYlhahxK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dmc5",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "devilmaycry5",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1106496450438070300,
+					"id_str": "1106496450438070272",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1sQqMGXgAAXF0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1sQqMGXgAAXF0X.jpg",
+					"url": "https://t.co/z5NYlhahxK",
+					"display_url": "pic.twitter.com/z5NYlhahxK",
+					"expanded_url": "https://twitter.com/darkbaalata/status/1106497111754006528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 268,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 268,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1106496450438070300,
+					"id_str": "1106496450438070272",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D1sQqMGXgAAXF0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D1sQqMGXgAAXF0X.jpg",
+					"url": "https://t.co/z5NYlhahxK",
+					"display_url": "pic.twitter.com/z5NYlhahxK",
+					"expanded_url": "https://twitter.com/darkbaalata/status/1106497111754006528/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 268,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 268,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 268,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D1sQqMGXgAAXF0X.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2242646406,
+			"id_str": "2242646406",
+			"name": "Dark | V's familiar 🦎",
+			"screen_name": "darkbaalata",
+			"location": "",
+			"description": "🇷🇺 🔞 RU/ENG | she/her | DMC mostly, random | V is a separate character and alive!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Thu Dec 12 16:57:58 +0000 2013",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": "ru",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1104516372879605760/5XF9iKYC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1104516372879605760/5XF9iKYC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2242646406/1552172365",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 630,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've never seen anything more exciting and beautiful than this\nand I'm so horny right now\nHELP\n\n#dmc5 #devilmaycry5 https://t.co/z5NYlhahxK"
+	},
+	{
 		"created_at": "Mon Mar 18 14:53:04 +0000 2019",
 		"id": 1107656170649485300,
 		"id_str": "1107656170649485312",
