@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 20 15:46:22 +0000 2019",
+		"id": 1108365911436582900,
+		"id_str": "1108394359173443584",
+		"full_text": "https://t.co/036zavoFxo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108365650118901800,
+					"id_str": "1108365650118901760",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D2G0r7iVAAALr3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2G0r7iVAAALr3_.jpg",
+					"url": "https://t.co/036zavoFxo",
+					"display_url": "pic.twitter.com/036zavoFxo",
+					"expanded_url": "https://twitter.com/ultemanicebody/status/1108365911436582912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108365650118901800,
+					"id_str": "1108365650118901760",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D2G0r7iVAAALr3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2G0r7iVAAALr3_.jpg",
+					"url": "https://t.co/036zavoFxo",
+					"display_url": "pic.twitter.com/036zavoFxo",
+					"expanded_url": "https://twitter.com/ultemanicebody/status/1108365911436582912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 601,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1041914963428888600,
+			"id_str": "1041914963428888576",
+			"name": "まじんｋ",
+			"screen_name": "ultemanicebody",
+			"location": "",
+			"description": "イケメンのおっぱいをこよなく愛する成人済お絵描き／今下町マニア",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7874,
+			"friends_count": 27,
+			"listed_count": 130,
+			"created_at": "Tue Sep 18 05:00:59 +0000 2018",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088441983247347712/GDFlzXqS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088441983247347712/GDFlzXqS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041914963428888576/1552111610",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 734,
+		"favorite_count": 2086,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/036zavoFxo"
+	},
+	{
+		"created_at": "Wed Mar 20 14:00:52 +0000 2019",
+		"id": 1108367809447288800,
+		"id_str": "1108367809447288832",
+		"full_text": "브이야...진짜 좋아했다.......",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1108309672354705400,
+		"in_reply_to_status_id_str": "1108309672354705408",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23423,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "브이야...진짜 좋아했다......."
+	},
+	{
+		"created_at": "Wed Mar 20 10:09:51 +0000 2019",
+		"id": 1108309672354705400,
+		"id_str": "1108309672354705408",
+		"full_text": "브이 진짜 미치겠다.... https://t.co/RfRFcsTBod",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108309668802158600,
+					"id_str": "1108309668802158592",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GBxY4VYAANvQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GBxY4VYAANvQu.jpg",
+					"url": "https://t.co/RfRFcsTBod",
+					"display_url": "pic.twitter.com/RfRFcsTBod",
+					"expanded_url": "https://twitter.com/celebaduial/status/1108309672354705408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108309668802158600,
+					"id_str": "1108309668802158592",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GBxY4VYAANvQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GBxY4VYAANvQu.jpg",
+					"url": "https://t.co/RfRFcsTBod",
+					"display_url": "pic.twitter.com/RfRFcsTBod",
+					"expanded_url": "https://twitter.com/celebaduial/status/1108309672354705408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.playstation.com\" rel=\"nofollow\">PlayStation(R)4</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23423,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브이 진짜 미치겠다.... https://t.co/RfRFcsTBod"
+	},
+	{
+		"created_at": "Wed Mar 20 02:39:17 +0000 2019",
+		"id": 1108036900445737000,
+		"id_str": "1108196280725958656",
+		"full_text": "ЩАС УМРУ\nhttps://t.co/KBipuXTe3Y https://t.co/SdNqk2PxLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KBipuXTe3Y",
+					"expanded_url": "https://www.instagram.com/p/BvC3RHwj-6Y/?utm_source=ig_web_button_share_sheet",
+					"display_url": "instagram.com/p/BvC3RHwj-6Y/…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108036777711935500,
+					"id_str": "1108036777711935489",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108036777711935489/pu/img/NwzvEK9i6ko7a4RH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108036777711935489/pu/img/NwzvEK9i6ko7a4RH.jpg",
+					"url": "https://t.co/SdNqk2PxLA",
+					"display_url": "pic.twitter.com/SdNqk2PxLA",
+					"expanded_url": "https://twitter.com/samularin/status/1108036900445736960/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108036777711935500,
+					"id_str": "1108036777711935489",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1108036777711935489/pu/img/NwzvEK9i6ko7a4RH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1108036777711935489/pu/img/NwzvEK9i6ko7a4RH.jpg",
+					"url": "https://t.co/SdNqk2PxLA",
+					"display_url": "pic.twitter.com/SdNqk2PxLA",
+					"expanded_url": "https://twitter.com/samularin/status/1108036900445736960/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							32,
+							23
+						],
+						"duration_millis": 21767,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1108036777711935489/pu/pl/pgJQnHa4G9HN69la.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108036777711935489/pu/vid/640x460/PQVtj7rd-VV8i9n8.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1108036777711935489/pu/vid/250x180/KXL-MCz5MV4ipF78.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861693780935802900,
+			"id_str": "861693780935802880",
+			"name": "моя хорошая мне уже два дня | DMC 5 SPOILERS",
+			"screen_name": "samularin",
+			"location": "",
+			"description": "ты убил дьявола ты убил гольфиста ты убил реданского алебардиста | моя хорошая я уже восьмой год ползу по разбитому стеклу чтобы отдаться самому дьяволу",
+			"url": "https://t.co/xeUI2IToEi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xeUI2IToEi",
+							"expanded_url": "https://vk.com/samularin",
+							"display_url": "vk.com/samularin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 124,
+			"listed_count": 8,
+			"created_at": "Mon May 08 21:26:21 +0000 2017",
+			"favourites_count": 197122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43093,
+			"lang": "ru",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103643688184500224/weE4TysP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103643688184500224/weE4TysP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861693780935802880/1551963740",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2175,
+		"favorite_count": 5201,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ru",
+		"text": "ЩАС УМРУ\nhttps://t.co/KBipuXTe3Y https://t.co/SdNqk2PxLA"
+	},
+	{
 		"created_at": "Tue Mar 19 06:27:34 +0000 2019",
 		"id": 1106497111754006500,
 		"id_str": "1107891344456900608",
