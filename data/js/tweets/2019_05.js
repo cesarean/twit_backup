@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 06:20:44 +0000 2019",
+		"id": 1133619163375648800,
+		"id_str": "1133619163375648768",
+		"full_text": "@sithclare 그르게 말이에요..보고싶은 장면만 연성해주는 기계가 어서 생겨야...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1133617012045860900,
+		"in_reply_to_status_id_str": "1133617012045860866",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 53,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 그르게 말이에요..보고싶은 장면만 연성해주는 기계가 어서 생겨야..."
+	},
+	{
+		"created_at": "Wed May 29 06:10:07 +0000 2019",
+		"id": 1133616490089930800,
+		"id_str": "1133616490089930752",
+		"full_text": "@sithclare 그리고 아무도 없었다....()",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1133615425898467300,
+		"in_reply_to_status_id_str": "1133615425898467328",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 53,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 그리고 아무도 없었다....()"
+	},
+	{
+		"created_at": "Wed May 29 05:57:59 +0000 2019",
+		"id": 1133613436179402800,
+		"id_str": "1133613436179402752",
+		"full_text": "@sithclare https://t.co/Cd8guN0RhH",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133613416520736800,
+					"id_str": "1133613416520736769",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7tnZWxV4AEwvyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7tnZWxV4AEwvyA.jpg",
+					"url": "https://t.co/Cd8guN0RhH",
+					"display_url": "pic.twitter.com/Cd8guN0RhH",
+					"expanded_url": "https://twitter.com/celebaduial/status/1133613436179402752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133613416520736800,
+					"id_str": "1133613416520736769",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7tnZWxV4AEwvyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7tnZWxV4AEwvyA.jpg",
+					"url": "https://t.co/Cd8guN0RhH",
+					"display_url": "pic.twitter.com/Cd8guN0RhH",
+					"expanded_url": "https://twitter.com/celebaduial/status/1133613436179402752/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7tnZWxV4AEwvyA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1133608839083774000,
+		"in_reply_to_status_id_str": "1133608839083773952",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 53,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@sithclare https://t.co/Cd8guN0RhH"
+	},
+	{
 		"created_at": "Wed May 22 09:31:55 +0000 2019",
 		"id": 1131130559839686700,
 		"id_str": "1131130559839686656",
