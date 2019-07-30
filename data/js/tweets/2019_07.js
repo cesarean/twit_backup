@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 15:06:13 +0000 2019",
+		"id": 1156219451320107000,
+		"id_str": "1156219451320107008",
+		"full_text": "@sithclare 사고나서도 설명에 써있는 디엘씨들이 잘 포함되어 있는지 잘 확인하세요~전 키 잘못된 거 받아서 누락분이 있어갖고 새로 받았어요()",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥싯",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1156218410402844700,
+		"in_reply_to_status_id_str": "1156218410402844672",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 사고나서도 설명에 써있는 디엘씨들이 잘 포함되어 있는지 잘 확인하세요~전 키 잘못된 거 받아서 누락분이 있어갖고 새로 받았어요()"
+	},
+	{
+		"created_at": "Tue Jul 30 14:57:04 +0000 2019",
+		"id": 1156217149041418200,
+		"id_str": "1156217149041418241",
+		"full_text": "@sithclare ㅋㅋㅋㅋ그거 주요 디엘씨 들어있는 팩이 있었던 걸로 기억해요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥싯",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1156215747648999400,
+		"in_reply_to_status_id_str": "1156215747648999425",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare ㅋㅋㅋㅋ그거 주요 디엘씨 들어있는 팩이 있었던 걸로 기억해요"
+	},
+	{
+		"created_at": "Tue Jul 30 14:43:47 +0000 2019",
+		"id": 1156213804532764700,
+		"id_str": "1156213804532764672",
+		"full_text": "@sithclare 저는 대충 소드 오브 이슬람, 레거시 오브 롬, 올드 갓, 웨이 오브 라이프, 리퍼스 듀, 몽크 앤 미스틱스, 룰러 디자인 팩이요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥싯",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1156212647601139700,
+		"in_reply_to_status_id_str": "1156212647601139712",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 저는 대충 소드 오브 이슬람, 레거시 오브 롬, 올드 갓, 웨이 오브 라이프, 리퍼스 듀, 몽크 앤 미스틱스, 룰러 디자인 팩이요"
+	},
+	{
+		"created_at": "Tue Jul 30 14:37:10 +0000 2019",
+		"id": 1156212139431829500,
+		"id_str": "1156212139431829504",
+		"full_text": "@sithclare 크킹하시면 아들 안 태어난다고 아내 암살하는 심정이 이해가게 될 것입니다...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥싯",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1156210926053286000,
+		"in_reply_to_status_id_str": "1156210926053285888",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 크킹하시면 아들 안 태어난다고 아내 암살하는 심정이 이해가게 될 것입니다..."
+	},
+	{
+		"created_at": "Tue Jul 30 05:38:49 +0000 2019",
+		"id": 1156076660946378800,
+		"id_str": "1156076660946378752",
+		"full_text": "@sithclare 놀도르 패싱 현실로 드러나, 핀골핀 정부 무능의 극치 '외교 참사'",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥싯",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1156075721225150500,
+		"in_reply_to_status_id_str": "1156075721225150464",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 놀도르 패싱 현실로 드러나, 핀골핀 정부 무능의 극치 '외교 참사'"
+	},
+	{
+		"created_at": "Tue Jul 30 05:34:13 +0000 2019",
+		"id": 1156075504157331500,
+		"id_str": "1156075504157331457",
+		"full_text": "@sithclare 페아노르 왕자님, 꼭 환궁하세요!&lt;",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥싯",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+		"in_reply_to_status_id": 1156074686536487000,
+		"in_reply_to_status_id_str": "1156074686536486912",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 페아노르 왕자님, 꼭 환궁하세요!&lt;"
+	},
+	{
 		"created_at": "Wed Jul 24 09:44:33 +0000 2019",
 		"id": 1153964175703470000,
 		"id_str": "1153964175703470080",
