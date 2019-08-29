@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 08:38:03 +0000 2019",
+		"id": 1166991279864967200,
+		"id_str": "1166993403357229057",
+		"full_text": "앵무새(복권도 아니고 매번 긁어 줘야 함) https://t.co/rctjjacIL7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166991271098892300,
+					"id_str": "1166991271098892288",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EDH8YMnUwAAzk0S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDH8YMnUwAAzk0S.jpg",
+					"url": "https://t.co/rctjjacIL7",
+					"display_url": "pic.twitter.com/rctjjacIL7",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1166991279864967170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166991271098892300,
+					"id_str": "1166991271098892288",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EDH8YMnUwAAzk0S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDH8YMnUwAAzk0S.jpg",
+					"url": "https://t.co/rctjjacIL7",
+					"display_url": "pic.twitter.com/rctjjacIL7",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1166991279864967170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 698,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 698,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "내 인생을 鳥지러 온 나의 구원자면 내 인생만 조졌어야지 (커미션 닫았습니다!)",
+			"url": "https://t.co/lqqMsfqIQB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lqqMsfqIQB",
+							"expanded_url": "https://www.evernote.com/l/ApANGE6TTsdDF6hBAXHXhPkYz0f25P9I-CU/",
+							"display_url": "evernote.com/l/ApANGE6TTsdD…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7053,
+			"friends_count": 48,
+			"listed_count": 51,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146273310654763008/yEb54Uwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146273310654763008/yEb54Uwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1562127731",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1181,
+		"favorite_count": 1053,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앵무새(복권도 아니고 매번 긁어 줘야 함) https://t.co/rctjjacIL7"
+	},
+	{
 		"created_at": "Wed Aug 28 05:09:11 +0000 2019",
 		"id": 1166578453266796500,
 		"id_str": "1166578453266796555",
