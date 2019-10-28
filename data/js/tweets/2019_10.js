@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 09:38:03 +0000 2019",
+		"id": 1188751209412214800,
+		"id_str": "1188751774477213696",
+		"full_text": "https://t.co/Wg87nWEwlF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188751201027817500,
+					"id_str": "1188751201027817477",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EH9K60eVAAUSV4u.png",
+					"media_url_https": "https://pbs.twimg.com/media/EH9K60eVAAUSV4u.png",
+					"url": "https://t.co/Wg87nWEwlF",
+					"display_url": "pic.twitter.com/Wg87nWEwlF",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1188751209412214784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 856,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 856,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188751201027817500,
+					"id_str": "1188751201027817477",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EH9K60eVAAUSV4u.png",
+					"media_url_https": "https://pbs.twimg.com/media/EH9K60eVAAUSV4u.png",
+					"url": "https://t.co/Wg87nWEwlF",
+					"display_url": "pic.twitter.com/Wg87nWEwlF",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1188751209412214784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 856,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 856,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "내 인생을 鳥지러 온 나의 구원자면 내 인생만 조졌어야지 (하단의 링크는 커미션 공지입니다! 지금은 닫혔습니다!)",
+			"url": "https://t.co/5EQ1BtlLKR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5EQ1BtlLKR",
+							"expanded_url": "https://www.evernote.com/l/ApBV7b-Vfj9MQ6n9iBUMplCqKNyPNs2EtYc/",
+							"display_url": "evernote.com/l/ApBV7b-Vfj9M…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7912,
+			"friends_count": 48,
+			"listed_count": 63,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146273310654763008/yEb54Uwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146273310654763008/yEb54Uwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1562127731",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 670,
+		"favorite_count": 479,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Wg87nWEwlF"
+	},
+	{
 		"created_at": "Wed Oct 09 09:15:59 +0000 2019",
 		"id": 1181860852003000300,
 		"id_str": "1181860852003000322",
