@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 12:29:38 +0000 2019",
+		"id": 1204737150761062400,
+		"id_str": "1204740018347970560",
+		"full_text": "오늘도 아픈 앵무새에게 정승 같이 투약하고 개 같이 뜯김 https://t.co/958sd13IGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204737142766727200,
+					"id_str": "1204737142766727169",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ELgWDGJUcAE5MP_.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELgWDGJUcAE5MP_.png",
+					"url": "https://t.co/958sd13IGt",
+					"display_url": "pic.twitter.com/958sd13IGt",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1204737150761062401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 889,
+							"h": 774,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 88,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 631,
+									"y": 289,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 363,
+									"y": 312,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 619,
+									"y": 439,
+									"h": 188,
+									"w": 188
+								},
+								{
+									"x": 628,
+									"y": 163,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 88,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 631,
+									"y": 289,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 363,
+									"y": 312,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 619,
+									"y": 439,
+									"h": 188,
+									"w": 188
+								},
+								{
+									"x": 628,
+									"y": 163,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 88,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 631,
+									"y": 289,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 363,
+									"y": 312,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 619,
+									"y": 439,
+									"h": 188,
+									"w": 188
+								},
+								{
+									"x": 628,
+									"y": 163,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 340,
+									"y": 67,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 482,
+									"y": 221,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 277,
+									"y": 238,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 270,
+									"y": 305,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 473,
+									"y": 335,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 480,
+									"y": 124,
+									"h": 177,
+									"w": 177
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204737142766727200,
+					"id_str": "1204737142766727169",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/ELgWDGJUcAE5MP_.png",
+					"media_url_https": "https://pbs.twimg.com/media/ELgWDGJUcAE5MP_.png",
+					"url": "https://t.co/958sd13IGt",
+					"display_url": "pic.twitter.com/958sd13IGt",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1204737150761062401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 889,
+							"h": 774,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 774,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 88,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 631,
+									"y": 289,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 363,
+									"y": 312,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 619,
+									"y": 439,
+									"h": 188,
+									"w": 188
+								},
+								{
+									"x": 628,
+									"y": 163,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 88,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 631,
+									"y": 289,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 363,
+									"y": 312,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 619,
+									"y": 439,
+									"h": 188,
+									"w": 188
+								},
+								{
+									"x": 628,
+									"y": 163,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 445,
+									"y": 88,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 631,
+									"y": 289,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 363,
+									"y": 312,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 354,
+									"y": 400,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 619,
+									"y": 439,
+									"h": 188,
+									"w": 188
+								},
+								{
+									"x": 628,
+									"y": 163,
+									"h": 232,
+									"w": 232
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 340,
+									"y": 67,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 482,
+									"y": 221,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 277,
+									"y": 238,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 270,
+									"y": 305,
+									"h": 62,
+									"w": 62
+								},
+								{
+									"x": 473,
+									"y": 335,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 480,
+									"y": 124,
+									"h": 177,
+									"w": 177
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "내 인생을 鳥지러 온 나의 구원자면 내 인생만 조졌어야지 (하단의 링크는 커미션 공지입니다! 지금은 닫혔습니다.)",
+			"url": "https://t.co/5EQ1BtlLKR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5EQ1BtlLKR",
+							"expanded_url": "https://www.evernote.com/l/ApBV7b-Vfj9MQ6n9iBUMplCqKNyPNs2EtYc/",
+							"display_url": "evernote.com/l/ApBV7b-Vfj9M…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8107,
+			"friends_count": 50,
+			"listed_count": 63,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197956157681176576/W02lFyd6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197956157681176576/W02lFyd6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1562127731",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 546,
+		"favorite_count": 417,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 아픈 앵무새에게 정승 같이 투약하고 개 같이 뜯김 https://t.co/958sd13IGt"
+	},
+	{
 		"created_at": "Tue Dec 10 13:43:38 +0000 2019",
 		"id": 1204396255859753000,
 		"id_str": "1204396255859752960",
