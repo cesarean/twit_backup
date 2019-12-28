@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 28 13:34:34 +0000 2019",
+		"id": 1210916957169447000,
+		"id_str": "1210916957169446912",
+		"full_text": "울나라 연말 시상식도 안 보는 내가 샤오잔 보려고 중국 시상식을 몇 시간동안 견디...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 49,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "울나라 연말 시상식도 안 보는 내가 샤오잔 보려고 중국 시상식을 몇 시간동안 견디..."
+	},
+	{
+		"created_at": "Sat Dec 28 11:28:18 +0000 2019",
+		"id": 1210883976660803600,
+		"id_str": "1210885178479931392",
+		"full_text": "ดาเมจความหล่อรุนแรงมากแม่ คือนุไม่ไหวจริงๆ นุอ่อนแรง พ่ายแพ้ๆ \n\n#TencentVideoAllStarAwards2019 #เซียวจ้าน肖战XiaoZhan \n#XiaoZhan #肖战 #샤오잔 #เซียวจ้าน\n\nhttps://t.co/XH0Qfe3SJP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TencentVideoAllStarAwards2019",
+					"indices": [
+						64,
+						94
+					]
+				},
+				{
+					"text": "เซียวจ้าน肖战XiaoZhan",
+					"indices": [
+						95,
+						115
+					]
+				},
+				{
+					"text": "XiaoZhan",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "肖战",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "샤오잔",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "เซียวจ้าน",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210880648023425000,
+					"id_str": "1210880648023425025",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210880648023425025/pu/img/5l-BikZmJhP51TrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210880648023425025/pu/img/5l-BikZmJhP51TrH.jpg",
+					"url": "https://t.co/XH0Qfe3SJP",
+					"display_url": "pic.twitter.com/XH0Qfe3SJP",
+					"expanded_url": "https://twitter.com/xiaozhan_global/status/1210880773986770950/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1210880773986771000,
+					"source_status_id_str": "1210880773986770950",
+					"source_user_id": 1061580014980784100,
+					"source_user_id_str": "1061580014980784129",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210880648023425000,
+					"id_str": "1210880648023425025",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210880648023425025/pu/img/5l-BikZmJhP51TrH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210880648023425025/pu/img/5l-BikZmJhP51TrH.jpg",
+					"url": "https://t.co/XH0Qfe3SJP",
+					"display_url": "pic.twitter.com/XH0Qfe3SJP",
+					"expanded_url": "https://twitter.com/xiaozhan_global/status/1210880773986770950/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1210880773986771000,
+					"source_status_id_str": "1210880773986770950",
+					"source_user_id": 1061580014980784100,
+					"source_user_id_str": "1061580014980784129",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22313,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1210880648023425025/pu/pl/b0yih3LFJMmdH8kH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1210880648023425025/pu/vid/1280x720/LnEKHL3tToLL6fae.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1210880648023425025/pu/vid/480x270/RLTYVlih8WOkaE_s.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1210880648023425025/pu/vid/640x360/GUsCL1kZ2WDI_ZNx.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1061580014980784100,
+							"id_str": "1061580014980784129",
+							"name": "肖战全球后援会                 DAYTOY·Xiao Zhan",
+							"screen_name": "xiaozhan_global",
+							"location": "中华人民共和国",
+							"description": "Xiao Zhan Global Fan Club ﹏ ☆ ﹏ ★ ﹏ ‖▼肖战Xiao Zhan, Chinese Singer&Actor  ‖☞Welcome to follow♥Xiaozhan's \nAskfm :https://t.co/FJbfSmwsbE",
+							"url": "https://t.co/TF0IsJKQsP",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/TF0IsJKQsP",
+											"expanded_url": "http://t.cn/EA3HaTX",
+											"display_url": "t.cn/EA3HaTX",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/FJbfSmwsbE",
+											"expanded_url": "http://ask.fm/xiaozhan_global",
+											"display_url": "ask.fm/xiaozhan_global",
+											"indices": [
+												112,
+												135
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 19240,
+							"friends_count": 5,
+							"listed_count": 63,
+							"created_at": "Sun Nov 11 11:22:53 +0000 2018",
+							"favourites_count": 13,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 228,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1208242730171695104/YHvDP9hu_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208242730171695104/YHvDP9hu_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1061580014980784129/1576902490",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": false,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 614408076,
+			"id_str": "614408076",
+			"name": "❤️🄶🅄🄼🄼🅈ที่รัก❤️",
+			"screen_name": "thewindslow",
+			"location": "",
+			"description": "❤️ParkBoGum❤️ChaEunWoo❤️LaiKuanLin❤️KimMinKyu❤️ ทวิตตามความพอใจ❤️ ปล. หวีดสะเปะสะปะคนอื่นนอกจากเมนด้วย ก่อนจะฟอลคิดดีๆน้าาา 😊",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2558,
+			"friends_count": 217,
+			"listed_count": 7,
+			"created_at": "Thu Jun 21 13:46:47 +0000 2012",
+			"favourites_count": 8789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 68365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077556395849900037/4l3geF2i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077556395849900037/4l3geF2i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/614408076/1571063702",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ดาเมจความหล่อรุนแรงมากแม่ คือนุไม่ไหวจริงๆ นุอ่อนแรง พ่ายแพ้ๆ \n\n#TencentVideoAllStarAwards2019 #เซียวจ้าน肖战XiaoZhan \n#XiaoZhan #肖战 #샤오잔 #เซียวจ้าน\n\nhttps://t.co/XH0Qfe3SJP"
+	},
+	{
+		"created_at": "Sat Dec 28 11:23:30 +0000 2019",
+		"id": 1210883972625883100,
+		"id_str": "1210883972625883137",
+		"full_text": "저 밑에 카고바지()가 있을 거라고는 상상도 안 가는 퍼펙트한 얼빡샷이다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 49,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "저 밑에 카고바지()가 있을 거라고는 상상도 안 가는 퍼펙트한 얼빡샷이다..."
+	},
+	{
 		"created_at": "Thu Dec 26 14:06:50 +0000 2019",
 		"id": 1210200301027774500,
 		"id_str": "1210200301027774465",
