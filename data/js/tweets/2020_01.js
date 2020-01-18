@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 16:44:18 +0000 2020",
+		"id": 1218574848693174300,
+		"id_str": "1218574848693174272",
+		"full_text": "무감 라이브 때 이보 스타일링 존멋인 듯(진정령파다 여기까지 온 사람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★/핀웨페아/핀마에/길켈/잉귀페아 etc 핀골피니안x페아노리안 위주",
+			"url": "https://t.co/stRBtbNmuQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/stRBtbNmuQ",
+							"expanded_url": "http://glanloth.tistory.com",
+							"display_url": "glanloth.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102779554416930816/RYnHnszD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "무감 라이브 때 이보 스타일링 존멋인 듯(진정령파다 여기까지 온 사람"
+	},
+	{
+		"created_at": "Sat Jan 18 16:43:16 +0000 2020",
+		"id": 1218416775659839500,
+		"id_str": "1218574586792382465",
+		"full_text": "#왕이보 가 실트라면 당연히 봐줘야 하는 무감 무대!! https://t.co/6DtgpdlrGm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왕이보",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218411246019469300,
+					"id_str": "1218411246019469312",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218411246019469312/pu/img/-bMV1dixw6ZAON6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218411246019469312/pu/img/-bMV1dixw6ZAON6_.jpg",
+					"url": "https://t.co/6DtgpdlrGm",
+					"display_url": "pic.twitter.com/6DtgpdlrGm",
+					"expanded_url": "https://twitter.com/mangmumangmu1/status/1218416775659839489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218411246019469300,
+					"id_str": "1218411246019469312",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218411246019469312/pu/img/-bMV1dixw6ZAON6_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218411246019469312/pu/img/-bMV1dixw6ZAON6_.jpg",
+					"url": "https://t.co/6DtgpdlrGm",
+					"display_url": "pic.twitter.com/6DtgpdlrGm",
+					"expanded_url": "https://twitter.com/mangmumangmu1/status/1218416775659839489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 106680,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218411246019469312/pu/vid/640x360/nSbHkBIdBTI2nk7G.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218411246019469312/pu/vid/1280x720/H20XFGp4fgOB6eAy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218411246019469312/pu/pl/PcLC2tR5SrIekWuW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218411246019469312/pu/vid/480x270/NahW3pKVB-vJL5ld.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1199556767308337200,
+			"id_str": "1199556767308337152",
+			"name": "마파두부",
+			"screen_name": "mangmumangmu1",
+			"location": "",
+			"description": "진정령/망무/이보/왕샤오 처돌이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1190,
+			"friends_count": 13,
+			"listed_count": 7,
+			"created_at": "Wed Nov 27 05:13:28 +0000 2019",
+			"favourites_count": 1550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199558146882064386/V2szkEgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199558146882064386/V2szkEgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199556767308337152/1574832375",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#왕이보 가 실트라면 당연히 봐줘야 하는 무감 무대!! https://t.co/6DtgpdlrGm"
+	},
+	{
 		"created_at": "Tue Jan 07 07:50:55 +0000 2020",
 		"id": 1214454349381820400,
 		"id_str": "1214454349381820417",
