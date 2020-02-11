@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 11 04:39:19 +0000 2020",
+		"id": 1227050257898295300,
+		"id_str": "1227089707806281728",
+		"full_text": "폐하의 총애를 받는다고 기세가 하늘을 찌르는구나!  https://t.co/B8uVh1LY40",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1226740038261624800,
+					"id_str": "1226740038261624832",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQZBkLRVUAAyIv-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQZBkLRVUAAyIv-.jpg",
+					"url": "https://t.co/B8uVh1LY40",
+					"display_url": "pic.twitter.com/B8uVh1LY40",
+					"expanded_url": "https://twitter.com/DAspartame/status/1226740067063910401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 412,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 412,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 412,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1226740067063910400,
+					"source_status_id_str": "1226740067063910401",
+					"source_user_id": 1950917400,
+					"source_user_id_str": "1950917400"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1226740038261624800,
+					"id_str": "1226740038261624832",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EQZBkLRVUAAyIv-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EQZBkLRVUAAyIv-.jpg",
+					"url": "https://t.co/B8uVh1LY40",
+					"display_url": "pic.twitter.com/B8uVh1LY40",
+					"expanded_url": "https://twitter.com/DAspartame/status/1226740067063910401/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 412,
+							"h": 262,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 412,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 412,
+							"h": 262,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1226740067063910400,
+					"source_status_id_str": "1226740067063910401",
+					"source_user_id": 1950917400,
+					"source_user_id_str": "1950917400",
+					"video_info": {
+						"aspect_ratio": [
+							206,
+							131
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EQZBkLRVUAAyIv-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141703144914636800,
+			"id_str": "1141703144914636800",
+			"name": "좋아하는부위",
+			"screen_name": "melonkoong",
+			"location": "",
+			"description": "지하철진상기록계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 85,
+			"listed_count": 1,
+			"created_at": "Thu Jun 20 13:43:36 +0000 2019",
+			"favourites_count": 3507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218747231236288513/DSoouO5V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218747231236288513/DSoouO5V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141703144914636800/1578807229",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9980,
+		"favorite_count": 2450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폐하의 총애를 받는다고 기세가 하늘을 찌르는구나!  https://t.co/B8uVh1LY40"
+	},
+	{
 		"created_at": "Wed Feb 05 05:03:54 +0000 2020",
 		"id": 1224921570428080000,
 		"id_str": "1224921570428080130",
