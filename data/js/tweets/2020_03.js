@@ -1,0 +1,177 @@
+Grailbird.data.tweets_2020_03 = 
+[
+	{
+		"created_at": "Sun Mar 01 06:59:41 +0000 2020",
+		"id": 1234005417245601800,
+		"id_str": "1234010402595340288",
+		"full_text": "앵무새 근황 https://t.co/s66RJzD6b2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234005411897888800,
+					"id_str": "1234005411897888768",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/ESARYlMVUAAjnez.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESARYlMVUAAjnez.png",
+					"url": "https://t.co/s66RJzD6b2",
+					"display_url": "pic.twitter.com/s66RJzD6b2",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1234005417245601792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234005411897888800,
+					"id_str": "1234005411897888768",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/ESARYlMVUAAjnez.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESARYlMVUAAjnez.png",
+					"url": "https://t.co/s66RJzD6b2",
+					"display_url": "pic.twitter.com/s66RJzD6b2",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1234005417245601792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "내 인생을 鳥지러 온 나의 구원자면 내 인생만 조졌어야지 (하단의 링크는 커미션 공지입니다! 지금은 닫혔습니다.)",
+			"url": "https://t.co/5EQ1BtlLKR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5EQ1BtlLKR",
+							"expanded_url": "https://www.evernote.com/l/ApBV7b-Vfj9MQ6n9iBUMplCqKNyPNs2EtYc/",
+							"display_url": "evernote.com/l/ApBV7b-Vfj9M…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9209,
+			"friends_count": 48,
+			"listed_count": 68,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197956157681176576/W02lFyd6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197956157681176576/W02lFyd6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1562127731",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2978,
+		"favorite_count": 2449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앵무새 근황 https://t.co/s66RJzD6b2"
+	}
+]
