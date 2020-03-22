@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 01:46:57 +0000 2020",
+		"id": 1241267495186489300,
+		"id_str": "1241541845265649664",
+		"full_text": "게임역사상 가장 성스러운 버그도 보고 가십쇼 https://t.co/deHwXhZD3I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241267405252223000,
+					"id_str": "1241267405252222977",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241267405252222977/pu/img/VfjRTp_NgHp5Vv-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241267405252222977/pu/img/VfjRTp_NgHp5Vv-9.jpg",
+					"url": "https://t.co/deHwXhZD3I",
+					"display_url": "pic.twitter.com/deHwXhZD3I",
+					"expanded_url": "https://twitter.com/cheezeDARK/status/1241267495186489345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241267405252223000,
+					"id_str": "1241267405252222977",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241267405252222977/pu/img/VfjRTp_NgHp5Vv-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241267405252222977/pu/img/VfjRTp_NgHp5Vv-9.jpg",
+					"url": "https://t.co/deHwXhZD3I",
+					"display_url": "pic.twitter.com/deHwXhZD3I",
+					"expanded_url": "https://twitter.com/cheezeDARK/status/1241267495186489345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 68118,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241267405252222977/pu/vid/480x270/4SAZmLyY8SUIbb97.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241267405252222977/pu/vid/640x360/5ce1V0vbExXV_ODd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241267405252222977/pu/pl/M7Gz1wizkQWDY0WN.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 818381316647358500,
+			"id_str": "818381316647358464",
+			"name": "치광ᴄʜᴇᴇᴢᴇᴅᴀʀᴋ🌙",
+			"screen_name": "cheezeDARK",
+			"location": "",
+			"description": "FUB FREE / 모든 창작물의 무단도용, 재업로드, 불펌 및 공유를 금지합니다 / 문의: cheezedark@naver.com & DM",
+			"url": "https://t.co/GR4RuifMIf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GR4RuifMIf",
+							"expanded_url": "https://blog.naver.com/cheezedark",
+							"display_url": "blog.naver.com/cheezedark",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32804,
+			"friends_count": 7,
+			"listed_count": 290,
+			"created_at": "Mon Jan 09 08:58:05 +0000 2017",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015609704687419392/wWJl6IQl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015609704687419392/wWJl6IQl_normal.jpg",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6863,
+		"favorite_count": 3020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임역사상 가장 성스러운 버그도 보고 가십쇼 https://t.co/deHwXhZD3I"
+	},
+	{
 		"created_at": "Fri Mar 13 16:29:15 +0000 2020",
 		"id": 1238502395472011300,
 		"id_str": "1238502395472011266",
