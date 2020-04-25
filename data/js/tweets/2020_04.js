@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 09:42:59 +0000 2020",
+		"id": 1251531433249656800,
+		"id_str": "1253982831346282497",
+		"full_text": "남망기 술취해서 온녕 머리 때리는거 너무 웃김 https://t.co/2zFSWsgi68",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251531398348861400,
+					"id_str": "1251531398348861446",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EV5VLQfU8AYvezm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV5VLQfU8AYvezm.jpg",
+					"url": "https://t.co/2zFSWsgi68",
+					"display_url": "pic.twitter.com/2zFSWsgi68",
+					"expanded_url": "https://twitter.com/clsgkscjrgkwlak/status/1251531433249656834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251531398348861400,
+					"id_str": "1251531398348861446",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EV5VLQfU8AYvezm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV5VLQfU8AYvezm.jpg",
+					"url": "https://t.co/2zFSWsgi68",
+					"display_url": "pic.twitter.com/2zFSWsgi68",
+					"expanded_url": "https://twitter.com/clsgkscjrgkwlak/status/1251531433249656834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227832566637424600,
+			"id_str": "1227832566637424640",
+			"name": "우.파🎗",
+			"screen_name": "clsgkscjrgkwlak",
+			"location": "",
+			"description": "장르계아님...구독함..\n‼️please do NOT repost/use my artwork.\n🔕alarm OFF🔕스포많음 본장르 다스포함(ㅈㅅ) \n프사 곤뇨",
+			"url": "https://t.co/uIosOzVPOn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uIosOzVPOn",
+							"expanded_url": "https://peing.net/ko/clsgkscjrgkwlak",
+							"display_url": "peing.net/ko/clsgkscjrgk…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4040,
+			"friends_count": 22,
+			"listed_count": 21,
+			"created_at": "Thu Feb 13 05:51:16 +0000 2020",
+			"favourites_count": 256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237023687812907009/6FKCQnLX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237023687812907009/6FKCQnLX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227832566637424640/1586998280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1862,
+		"favorite_count": 3396,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남망기 술취해서 온녕 머리 때리는거 너무 웃김 https://t.co/2zFSWsgi68"
+	},
+	{
 		"created_at": "Fri Apr 24 13:48:37 +0000 2020",
 		"id": 1253681097772109800,
 		"id_str": "1253682257396563977",
