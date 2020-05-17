@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 14:16:14 +0000 2020",
+		"id": 1262024129009442800,
+		"id_str": "1262024129009442817",
+		"full_text": "陳정령 보면서 쵱캐가 무선-&gt;회상으로 변함ㅋㅋㅋㅋ 아니 책에선 잠깐 나왔던 애가 드라마에선 넘 귀엽고 간지나게 나왔잖아여!! 본체까지 너무 좋아짐 햐...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상 중심 본체 rps 약간/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "陳정령 보면서 쵱캐가 무선-&gt;회상으로 변함ㅋㅋㅋㅋ 아니 책에선 잠깐 나왔던 애가 드라마에선 넘 귀엽고 간지나게 나왔잖아여!! 본체까지 너무 좋아짐 햐..."
+	},
+	{
+		"created_at": "Sun May 17 12:03:02 +0000 2020",
+		"id": 1261990607985143800,
+		"id_str": "1261990607985143809",
+		"full_text": "세상 어딘가에 명결회상이 흐르는 파라다이스가 있지않을까....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상 중심 본체 rps 약간/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "세상 어딘가에 명결회상이 흐르는 파라다이스가 있지않을까...."
+	},
+	{
+		"created_at": "Sun May 17 04:56:24 +0000 2020",
+		"id": 1225431441397272600,
+		"id_str": "1261883241201405955",
+		"full_text": "온녕 어릴 때 눈물 많았을 거 같은데...(😭 https://t.co/pOsd2yzrLV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225431423718281200,
+					"id_str": "1225431423718281216",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EQGbYyNUUAAHr8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQGbYyNUUAAHr8X.jpg",
+					"url": "https://t.co/pOsd2yzrLV",
+					"display_url": "pic.twitter.com/pOsd2yzrLV",
+					"expanded_url": "https://twitter.com/dodo_lee34/status/1225431441397272576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 685,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 548,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225431423718281200,
+					"id_str": "1225431423718281216",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EQGbYyNUUAAHr8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQGbYyNUUAAHr8X.jpg",
+					"url": "https://t.co/pOsd2yzrLV",
+					"display_url": "pic.twitter.com/pOsd2yzrLV",
+					"expanded_url": "https://twitter.com/dodo_lee34/status/1225431441397272576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 311,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 685,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 548,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1195761247901212700,
+			"id_str": "1195761247901212672",
+			"name": "효도리",
+			"screen_name": "dodo_lee34",
+			"location": "의성",
+			"description": "인장/헤더(@ 8eJhaO0ZnojELYv) ♥ 효성진른 / 의성조 ♥\n🚫 DO NOT repost or use my art without my permission. 🚫",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1678,
+			"friends_count": 17,
+			"listed_count": 9,
+			"created_at": "Sat Nov 16 17:51:22 +0000 2019",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221791842934480896/hxcD7tBF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221791842934480896/hxcD7tBF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1195761247901212672/1589654165",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1323,
+		"favorite_count": 2177,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온녕 어릴 때 눈물 많았을 거 같은데...(😭 https://t.co/pOsd2yzrLV"
+	},
+	{
 		"created_at": "Thu May 14 09:33:53 +0000 2020",
 		"id": 1260856773155545000,
 		"id_str": "1260865910702669825",
