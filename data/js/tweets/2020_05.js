@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 16:24:22 +0000 2020",
+		"id": 1262781150524665900,
+		"id_str": "1262781150524665856",
+		"full_text": "생일주 마시고 있는건가 회상이ㅋㅋㅋ 아니 근데 심지어 맨발이야...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상 중심/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "생일주 마시고 있는건가 회상이ㅋㅋㅋ 아니 근데 심지어 맨발이야..."
+	},
+	{
+		"created_at": "Tue May 19 16:21:26 +0000 2020",
+		"id": 1262775249839349800,
+		"id_str": "1262780412360720385",
+		"full_text": "Nie Huaisang birthday art! https://t.co/aXCMzSaoCU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262775224925225000,
+					"id_str": "1262775224925224961",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EYZHYGjVAAE_kJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYZHYGjVAAE_kJo.jpg",
+					"url": "https://t.co/aXCMzSaoCU",
+					"display_url": "pic.twitter.com/aXCMzSaoCU",
+					"expanded_url": "https://twitter.com/jinzixuans/status/1262775249839349761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262775224925225000,
+					"id_str": "1262775224925224961",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EYZHYGjVAAE_kJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYZHYGjVAAE_kJo.jpg",
+					"url": "https://t.co/aXCMzSaoCU",
+					"display_url": "pic.twitter.com/aXCMzSaoCU",
+					"expanded_url": "https://twitter.com/jinzixuans/status/1262775249839349761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1099258645030756400,
+			"id_str": "1099258645030756352",
+			"name": "jacquie // 2020年Q3",
+			"screen_name": "jinzixuans",
+			"location": "sv donghua merch in moments",
+			"description": "jacquie, 21, they/them ⋆ mxtx novels ⋆ 𝗷𝗶𝗻 𝘇𝗶𝘅𝘂𝗮𝗻 𝗺𝗮𝗶𝗻 ⋆ 🔕 from non-followers",
+			"url": "https://t.co/Svqmqz5SSl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Svqmqz5SSl",
+							"expanded_url": "https://tinyurl.com/MXTXmasterlist",
+							"display_url": "tinyurl.com/MXTXmasterlist",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4710,
+			"friends_count": 176,
+			"listed_count": 9,
+			"created_at": "Sat Feb 23 10:44:18 +0000 2019",
+			"favourites_count": 43831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262419265623224321/OdgRyKGU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262419265623224321/OdgRyKGU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1099258645030756352/1587630737",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 322,
+		"favorite_count": 497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nie Huaisang birthday art! https://t.co/aXCMzSaoCU"
+	},
+	{
+		"created_at": "Tue May 19 15:10:50 +0000 2020",
+		"id": 1262762647037993000,
+		"id_str": "1262762647037992962",
+		"full_text": "오늘이 섭회상 생일이구만 껄껄 https://t.co/stfax2LzzH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262762639404314600,
+					"id_str": "1262762639404314625",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EYY77h1UMAESc9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYY77h1UMAESc9T.jpg",
+					"url": "https://t.co/stfax2LzzH",
+					"display_url": "pic.twitter.com/stfax2LzzH",
+					"expanded_url": "https://twitter.com/celebaduial/status/1262762647037992962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262762639404314600,
+					"id_str": "1262762639404314625",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EYY77h1UMAESc9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYY77h1UMAESc9T.jpg",
+					"url": "https://t.co/stfax2LzzH",
+					"display_url": "pic.twitter.com/stfax2LzzH",
+					"expanded_url": "https://twitter.com/celebaduial/status/1262762647037992962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상 중심/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘이 섭회상 생일이구만 껄껄 https://t.co/stfax2LzzH"
+	},
+	{
+		"created_at": "Tue May 19 14:12:35 +0000 2020",
+		"id": 1262747988356550700,
+		"id_str": "1262747988356550657",
+		"full_text": "명결회상 명결은 수련성애자라 술 잘 안 마실 듯. 공적인 연회 자리에서나 분위기맞추는 용으로 좀 먹지않을까. 주량 자체는 그럭저럭일 것 같기도..반면 회상은 술도 세고 안색 하나 안 변하고 잘 마실 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨덕)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상 중심/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "명결회상 명결은 수련성애자라 술 잘 안 마실 듯. 공적인 연회 자리에서나 분위기맞추는 용으로 좀 먹지않을까. 주량 자체는 그럭저럭일 것 같기도..반면 회상은 술도 세고 안색 하나 안 변하고 잘 마실 듯."
+	},
+	{
 		"created_at": "Mon May 18 15:08:43 +0000 2020",
 		"id": 1262399724683845600,
 		"id_str": "1262399724683845637",
