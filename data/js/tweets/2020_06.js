@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 11:42:36 +0000 2020",
+		"id": 1274029615619510300,
+		"id_str": "1274306655715393538",
+		"full_text": "あああああHigga先生が描いた着物姿の忘羡！\nweibo: https://t.co/xMvLwarPSm https://t.co/JMAnD8aSsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xMvLwarPSm",
+					"expanded_url": "https://m.weibo.cn/3916811892/4517682437825183",
+					"display_url": "m.weibo.cn/3916811892/451…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1274029606551433200,
+					"id_str": "1274029606551433216",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea5DLVPUMAAZsuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea5DLVPUMAAZsuC.jpg",
+					"url": "https://t.co/JMAnD8aSsS",
+					"display_url": "pic.twitter.com/JMAnD8aSsS",
+					"expanded_url": "https://twitter.com/sheetalwx/status/1274029615619510273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274029606551433200,
+					"id_str": "1274029606551433216",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea5DLVPUMAAZsuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea5DLVPUMAAZsuC.jpg",
+					"url": "https://t.co/JMAnD8aSsS",
+					"display_url": "pic.twitter.com/JMAnD8aSsS",
+					"expanded_url": "https://twitter.com/sheetalwx/status/1274029615619510273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1274029606543085600,
+					"id_str": "1274029606543085576",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea5DLVNU0AgSfFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea5DLVNU0AgSfFa.jpg",
+					"url": "https://t.co/JMAnD8aSsS",
+					"display_url": "pic.twitter.com/JMAnD8aSsS",
+					"expanded_url": "https://twitter.com/sheetalwx/status/1274029615619510273/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 945,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3220173014,
+			"id_str": "3220173014",
+			"name": "阿席_shida",
+			"screen_name": "sheetalwx",
+			"location": "苏州",
+			"description": "shida/阿席 🇨🇳｜MMD-3D进阶中｜🔞｜🐰｜MDZS忘羡左右固定 | 中文/ENG/Русский👌日本語勉強中、한국어 공부중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5503,
+			"friends_count": 303,
+			"listed_count": 15,
+			"created_at": "Tue May 19 09:10:27 +0000 2015",
+			"favourites_count": 3218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265334388641763334/vi4ad6Jt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265334388641763334/vi4ad6Jt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3220173014/1582455344",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1105,
+		"favorite_count": 2667,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "あああああHigga先生が描いた着物姿の忘羡！\nweibo: https://t.co/xMvLwarPSm https://t.co/JMAnD8aSsS"
+	},
+	{
 		"created_at": "Thu Jun 18 09:35:55 +0000 2020",
 		"id": 1273549998399996000,
 		"id_str": "1273549998399995909",
