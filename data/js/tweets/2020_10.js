@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 07:35:11 +0000 2020",
+		"id": 1314606660665581600,
+		"id_str": "1314831828872622081",
+		"full_text": "...제일조아하는\n운몽강씨                                  고소남씨\n청하섭씨                                  기산온씨 https://t.co/c6isevVpjv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314606651220009000,
+					"id_str": "1314606651220008960",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5ryMFVoAAt9hy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5ryMFVoAAt9hy.jpg",
+					"url": "https://t.co/c6isevVpjv",
+					"display_url": "pic.twitter.com/c6isevVpjv",
+					"expanded_url": "https://twitter.com/welovefanxing/status/1314606660665581569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314606651220009000,
+					"id_str": "1314606651220008960",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5ryMFVoAAt9hy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5ryMFVoAAt9hy.jpg",
+					"url": "https://t.co/c6isevVpjv",
+					"display_url": "pic.twitter.com/c6isevVpjv",
+					"expanded_url": "https://twitter.com/welovefanxing/status/1314606660665581569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 499,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314606651354144800,
+					"id_str": "1314606651354144769",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5ryMlUYAEBR3A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5ryMlUYAEBR3A.jpg",
+					"url": "https://t.co/c6isevVpjv",
+					"display_url": "pic.twitter.com/c6isevVpjv",
+					"expanded_url": "https://twitter.com/welovefanxing/status/1314606660665581569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 590,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314606651354218500,
+					"id_str": "1314606651354218496",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5ryMlVgAAQLuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5ryMlVgAAQLuG.jpg",
+					"url": "https://t.co/c6isevVpjv",
+					"display_url": "pic.twitter.com/c6isevVpjv",
+					"expanded_url": "https://twitter.com/welovefanxing/status/1314606660665581569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314606651358367700,
+					"id_str": "1314606651358367745",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej5ryMmU0AEo2vn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej5ryMmU0AEo2vn.jpg",
+					"url": "https://t.co/c6isevVpjv",
+					"display_url": "pic.twitter.com/c6isevVpjv",
+					"expanded_url": "https://twitter.com/welovefanxing/status/1314606660665581569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1098156413509984300,
+			"id_str": "1098156413509984256",
+			"name": "사추할매",
+			"screen_name": "welovefanxing",
+			"location": "음침부지처",
+			"description": "젖내초과정번성",
+			"url": "https://t.co/Ytc2pHLe5p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ytc2pHLe5p",
+							"expanded_url": "http://pushoong.com/9047912597?c=3",
+							"display_url": "pushoong.com/9047912597?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1622,
+			"friends_count": 29,
+			"listed_count": 11,
+			"created_at": "Wed Feb 20 09:44:26 +0000 2019",
+			"favourites_count": 2995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312011786489483264/Iwf4hsVR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312011786489483264/Iwf4hsVR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1098156413509984256/1598031668",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 570,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "...제일조아하는\n운몽강씨                                  고소남씨\n청하섭씨                                  기산온씨 https://t.co/c6isevVpjv"
+	},
+	{
 		"created_at": "Sun Oct 04 14:03:32 +0000 2020",
 		"id": 1312755233542434800,
 		"id_str": "1312755233542434816",
