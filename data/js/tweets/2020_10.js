@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 01:07:49 +0000 2020",
+		"id": 1318717322337480700,
+		"id_str": "1318720611963727872",
+		"full_text": "&lt;이합화타적백묘사존&gt; 전자책 5~8권이 리디북스에서 출간되었습니다!\n\n👉https://t.co/YB7SYgIk5b\n\n#사존_제발_저_좀_봐_주세요 https://t.co/WSM4VYFR1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사존_제발_저_좀_봐_주세요",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YB7SYgIk5b",
+					"expanded_url": "https://ridibooks.com/books/777079203",
+					"display_url": "ridibooks.com/books/777079203",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1318716957567246300,
+					"id_str": "1318716957567246338",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek0GFgcUYAI9x1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek0GFgcUYAI9x1a.jpg",
+					"url": "https://t.co/WSM4VYFR1q",
+					"display_url": "pic.twitter.com/WSM4VYFR1q",
+					"expanded_url": "https://twitter.com/B_lab_BL/status/1318717322337480707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318716957567246300,
+					"id_str": "1318716957567246338",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek0GFgcUYAI9x1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek0GFgcUYAI9x1a.jpg",
+					"url": "https://t.co/WSM4VYFR1q",
+					"display_url": "pic.twitter.com/WSM4VYFR1q",
+					"expanded_url": "https://twitter.com/B_lab_BL/status/1318717322337480707/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 961,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 891826216130404400,
+			"id_str": "891826216130404354",
+			"name": "비랩",
+			"screen_name": "B_lab_BL",
+			"location": "",
+			"description": "BL과 당신만을 위한 연구소, BL 전문 레이블 비랩입니다. 원고 투고 및 문의: b-lab@dncmedia.co.kr / DM도 열려 있습니다^^",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14424,
+			"friends_count": 8,
+			"listed_count": 26,
+			"created_at": "Mon Jul 31 01:01:54 +0000 2017",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/891836362722205698/4r9CqfiS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/891836362722205698/4r9CqfiS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/891826216130404354/1505909375",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 476,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;이합화타적백묘사존&gt; 전자책 5~8권이 리디북스에서 출간되었습니다!\n\n👉https://t.co/YB7SYgIk5b\n\n#사존_제발_저_좀_봐_주세요 https://t.co/WSM4VYFR1q"
+	},
+	{
 		"created_at": "Sun Oct 11 13:20:09 +0000 2020",
 		"id": 1315281032766132200,
 		"id_str": "1315281032766132225",
