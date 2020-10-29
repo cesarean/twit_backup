@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 08:24:40 +0000 2020",
+		"id": 1321640548306837500,
+		"id_str": "1321729652335894529",
+		"full_text": "너무 웃겨 문화침투 ㅋㅋㅋ 얘들아 자신감을 가져라 반도 인간들 몇천 년을 중국 코앞에 붙어 살면서도 깡으로 버텼는데 이제 와서 삐엘이나 드라마 좀 본다고 속국이 되겠니? 정말 단언할 수 있는데요 지금은 반도 역사를 통틀어 중국 문화의 영향을 제일 덜 받고 있는 시기입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2364309726,
+			"id_str": "2364309726",
+			"name": "有爲",
+			"screen_name": "youweiwanxiang",
+			"location": "",
+			"description": "유위 / 얼빠 발가락빠 모가지빠 후죠 / 삼국, 초한, 그 외 대륙 사극과 시대극 이것저것, 여말선초 / 팔언팔, 블언블 서로 편하게",
+			"url": "https://t.co/s8myH0gA9H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s8myH0gA9H",
+							"expanded_url": "https://peing.net/youweiwanxiang",
+							"display_url": "peing.net/youweiwanxiang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1928,
+			"friends_count": 42,
+			"listed_count": 24,
+			"created_at": "Thu Feb 27 15:17:14 +0000 2014",
+			"favourites_count": 16884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "111111",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261921296813658112/WVjuU4_W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261921296813658112/WVjuU4_W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2364309726/1591617024",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D2D5B6",
+			"profile_text_color": "E7E3B5",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 125,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "너무 웃겨 문화침투 ㅋㅋㅋ 얘들아 자신감을 가져라 반도 인간들 몇천 년을 중국 코앞에 붙어 살면서도 깡으로 버텼는데 이제 와서 삐엘이나 드라마 좀 본다고 속국이 되겠니? 정말 단언할 수 있는데요 지금은 반도 역사를 통틀어 중국 문화의 영향을 제일 덜 받고 있는 시기입니다"
+	},
+	{
 		"created_at": "Tue Oct 27 23:04:22 +0000 2020",
 		"id": 1321226259188183000,
 		"id_str": "1321226259188183040",
