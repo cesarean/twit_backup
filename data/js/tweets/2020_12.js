@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 30 04:32:32 +0000 2020",
+		"id": 1344138023764553700,
+		"id_str": "1344139281187569669",
+		"full_text": "앵무새 https://t.co/CwC7XjkbAf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344137981817364500,
+					"id_str": "1344137981817364480",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EqdWX3dVoAA9YNY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqdWX3dVoAA9YNY.png",
+					"url": "https://t.co/CwC7XjkbAf",
+					"display_url": "pic.twitter.com/CwC7XjkbAf",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1344138023764553728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1375,
+							"h": 713,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344137981817364500,
+					"id_str": "1344137981817364480",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EqdWX3dVoAA9YNY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqdWX3dVoAA9YNY.png",
+					"url": "https://t.co/CwC7XjkbAf",
+					"display_url": "pic.twitter.com/CwC7XjkbAf",
+					"expanded_url": "https://twitter.com/myhandisntagum/status/1344138023764553728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 622,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1375,
+							"h": 713,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070498617008377900,
+			"id_str": "1070498617008377856",
+			"name": "인간형 따까리",
+			"screen_name": "myhandisntagum",
+			"location": "우리 잘하자 너 때문에 계정 팠다 로셰 N. 히스데일",
+			"description": "내 인생을 鳥지러 온 나의 구원자면 내 인생만 조졌어야지 (하단의 링크는 일반 커미션 공지입니다! 지금은 닫혔습니다.)",
+			"url": "https://t.co/aCRiylYDKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aCRiylYDKF",
+							"expanded_url": "https://docs.google.com/document/d/1vazp-N6fNr34r92H9ZjzXbmsZSXZclf6QTZ4dsKAQDk/edit?usp=sharing",
+							"display_url": "docs.google.com/document/d/1va…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12709,
+			"friends_count": 47,
+			"listed_count": 58,
+			"created_at": "Thu Dec 06 02:02:14 +0000 2018",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197956157681176576/W02lFyd6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197956157681176576/W02lFyd6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070498617008377856/1562127731",
+			"profile_link_color": "86A4F0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2197,
+		"favorite_count": 2251,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앵무새 https://t.co/CwC7XjkbAf"
+	},
+	{
 		"created_at": "Thu Dec 24 15:10:02 +0000 2020",
 		"id": 1342125387137097700,
 		"id_str": "1342125387137097728",
