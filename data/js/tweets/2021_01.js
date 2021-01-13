@@ -1,6 +1,1488 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 14:57:59 +0000 2021",
+		"id": 1349370110243311600,
+		"id_str": "1349370110243311619",
+		"full_text": "@sithclare 그러니까요 망할 수선계ㅠㅠㅠ 묵연이 진작 답선군 만 되고 발랄했던 게 더 신기할 정도에요ㅠ\n저도 다시 정주행갑니다 흑흑",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349369550203015200,
+		"in_reply_to_status_id_str": "1349369550203015171",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 그러니까요 망할 수선계ㅠㅠㅠ 묵연이 진작 답선군 만 되고 발랄했던 게 더 신기할 정도에요ㅠ\n저도 다시 정주행갑니다 흑흑"
+	},
+	{
+		"created_at": "Wed Jan 13 14:41:17 +0000 2021",
+		"id": 1349365908590846000,
+		"id_str": "1349365908590845953",
+		"full_text": "@sithclare 진짜 그 때는 묵연도 삐끗했으면 죽은 초만녕 되살리겠다고 남궁서처럼 이랬을수도 있겠다 싶더라구요ㅇㅇ \n마자요 첨엔 묵연 되게 괴로워하네 싶었는데 어릴 때 사연까지 보고나니 진짜...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349364532292980700,
+		"in_reply_to_status_id_str": "1349364532292980744",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 진짜 그 때는 묵연도 삐끗했으면 죽은 초만녕 되살리겠다고 남궁서처럼 이랬을수도 있겠다 싶더라구요ㅇㅇ \n마자요 첨엔 묵연 되게 괴로워하네 싶었는데 어릴 때 사연까지 보고나니 진짜..."
+	},
+	{
+		"created_at": "Wed Jan 13 14:26:17 +0000 2021",
+		"id": 1349362134858100700,
+		"id_str": "1349362134858100736",
+		"full_text": "@sithclare 그렇게 다같이 해당화 손수건 들고 다닐 줄 알았는데 따흐흐ㅠㅠ\n엇 맞아요 그 부분 좋았어요! 남궁서가 묵연더러 너도 미치광이라고 했을 때 딱 둘이 통한 구석이 있는 것 같아서ㅇㅇㅇ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349360651550920700,
+		"in_reply_to_status_id_str": "1349360651550920710",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 그렇게 다같이 해당화 손수건 들고 다닐 줄 알았는데 따흐흐ㅠㅠ\n엇 맞아요 그 부분 좋았어요! 남궁서가 묵연더러 너도 미치광이라고 했을 때 딱 둘이 통한 구석이 있는 것 같아서ㅇㅇㅇ"
+	},
+	{
+		"created_at": "Wed Jan 13 14:18:02 +0000 2021",
+		"id": 1349360057524265000,
+		"id_str": "1349360057524264966",
+		"full_text": "@sithclare 가차없이 가버린 남궁사ㅠㅠㅠㅠ초만녕의 새로운 제자로 들어와서 원래 세명이랑 투닥투닥 하려나 했던 저의 순진한 기대가 산산조각..어 근데 이제 와 생각해보니 남궁서와 라풍화도 어쩐지 묵연만녕의 배드엔딩 버전 같은 변주처럼 느껴지기도 하네요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349359019043946500,
+		"in_reply_to_status_id_str": "1349359019043946500",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 가차없이 가버린 남궁사ㅠㅠㅠㅠ초만녕의 새로운 제자로 들어와서 원래 세명이랑 투닥투닥 하려나 했던 저의 순진한 기대가 산산조각..어 근데 이제 와 생각해보니 남궁서와 라풍화도 어쩐지 묵연만녕의 배드엔딩 버전 같은 변주처럼 느껴지기도 하네요"
+	},
+	{
+		"created_at": "Wed Jan 13 14:11:12 +0000 2021",
+		"id": 1349358338920706000,
+		"id_str": "1349358338920706050",
+		"full_text": "@sithclare 제목은 몽실몽실한데 내용은 선과 악이 무엇인가까지 되묻게 만드는 이야기라니 이런 기만이ㅋㅋㅋ\n남궁사가 그렇게 될 줄은...조연들 캐릭터나 서사도 좋아서 진짜 빼놓을데가 없는😭",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349356538498990000,
+		"in_reply_to_status_id_str": "1349356538498990081",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 제목은 몽실몽실한데 내용은 선과 악이 무엇인가까지 되묻게 만드는 이야기라니 이런 기만이ㅋㅋㅋ\n남궁사가 그렇게 될 줄은...조연들 캐릭터나 서사도 좋아서 진짜 빼놓을데가 없는😭"
+	},
+	{
+		"created_at": "Wed Jan 13 14:01:39 +0000 2021",
+		"id": 1349355933478965200,
+		"id_str": "1349355933478965253",
+		"full_text": "@sithclare 이정도 스케일 대작의 제목이 허스키와 그의 흰고양이 사존이라는 게 믿기지 않을 정도ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349353659516166100,
+		"in_reply_to_status_id_str": "1349353659516166145",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 이정도 스케일 대작의 제목이 허스키와 그의 흰고양이 사존이라는 게 믿기지 않을 정도ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Wed Jan 13 13:50:28 +0000 2021",
+		"id": 1349353122557169700,
+		"id_str": "1349353122557169665",
+		"full_text": "@sithclare 그러니까요 영원히 이 대작이 이애졌으면ㅠㅠㅠ 외전이 한 200편 나왔으면ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349351609050927000,
+		"in_reply_to_status_id_str": "1349351609050927110",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 그러니까요 영원히 이 대작이 이애졌으면ㅠㅠㅠ 외전이 한 200편 나왔으면ㅠㅠ"
+	},
+	{
+		"created_at": "Wed Jan 13 13:03:43 +0000 2021",
+		"id": 1349341356842315800,
+		"id_str": "1349341356842315777",
+		"full_text": "@sithclare 네 바로 거기ㅋㅋ내가 미쳤나 초만녕이 왜-하다가 누가 건드렸냐고 날뛰던 묵연이 긔여워서😘 휴 담달이면 벌써 막권까지 끝날 것 같은데 그동안 계속 정주행해야겠어요ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349340154306068500,
+		"in_reply_to_status_id_str": "1349340154306068487",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 네 바로 거기ㅋㅋ내가 미쳤나 초만녕이 왜-하다가 누가 건드렸냐고 날뛰던 묵연이 긔여워서😘 휴 담달이면 벌써 막권까지 끝날 것 같은데 그동안 계속 정주행해야겠어요ㅋㅋ"
+	},
+	{
+		"created_at": "Wed Jan 13 12:54:34 +0000 2021",
+		"id": 1349339053989130200,
+		"id_str": "1349339053989130243",
+		"full_text": "@sithclare 마자요 결국 묵연이 했던 옛날 얘기가 경험담이었던 그거ㅠㅠ 강희도 젊음을 유지하고 있는 미인인데 문파의 수장인데다 부자인데다 성깔도 있는 것이 매력적이더라구요ㅋㅋ\n전 주로 묵연이 만녕한테 소유욕 보일 때가 좋더라구요. 금성호 밑에서 여우가 야시시한 초만녕 환상 보여줬을 때 같은ㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349336908476805000,
+		"in_reply_to_status_id_str": "1349336908476805121",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 마자요 결국 묵연이 했던 옛날 얘기가 경험담이었던 그거ㅠㅠ 강희도 젊음을 유지하고 있는 미인인데 문파의 수장인데다 부자인데다 성깔도 있는 것이 매력적이더라구요ㅋㅋ\n전 주로 묵연이 만녕한테 소유욕 보일 때가 좋더라구요. 금성호 밑에서 여우가 야시시한 초만녕 환상 보여줬을 때 같은ㅎㅎ"
+	},
+	{
+		"created_at": "Wed Jan 13 12:39:55 +0000 2021",
+		"id": 1317022984024981500,
+		"id_str": "1349335366340251648",
+		"full_text": "#2ha\n답선군 드라마 옷디자인이 너무 이쁜... https://t.co/BAYXzhKeEM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2ha",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317022955663097900,
+					"id_str": "1317022955663097857",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcBZnlVgAEAez2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcBZnlVgAEAez2.jpg",
+					"url": "https://t.co/BAYXzhKeEM",
+					"display_url": "pic.twitter.com/BAYXzhKeEM",
+					"expanded_url": "https://twitter.com/anz8888/status/1317022984024981505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317022955663097900,
+					"id_str": "1317022955663097857",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcBZnlVgAEAez2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcBZnlVgAEAez2.jpg",
+					"url": "https://t.co/BAYXzhKeEM",
+					"display_url": "pic.twitter.com/BAYXzhKeEM",
+					"expanded_url": "https://twitter.com/anz8888/status/1317022984024981505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1246823516822888400,
+			"id_str": "1246823516822888448",
+			"name": "안즈",
+			"screen_name": "anz8888",
+			"location": "",
+			"description": "ANz별걸그립니다...일정문의 받지않습니듀😶 anzuu8@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9781,
+			"friends_count": 4,
+			"listed_count": 52,
+			"created_at": "Sun Apr 05 15:34:40 +0000 2020",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246824129145098240/gwwx25nR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246824129145098240/gwwx25nR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1246823516822888448/1593256899",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2709,
+		"favorite_count": 6067,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#2ha\n답선군 드라마 옷디자인이 너무 이쁜... https://t.co/BAYXzhKeEM"
+	},
+	{
+		"created_at": "Wed Jan 13 12:39:02 +0000 2021",
+		"id": 1349335146298699800,
+		"id_str": "1349335146298699777",
+		"full_text": "@sithclare 마자요 마자요 돌이켜보면 뒤에 나온 사건들에 대해 앞에서부터 복선깐 것들도 은근 있더라구요😭 정말 로맨스만 좋아도 믿고 가는 게 벨인데 세계관이나 주변인물들 서사까지 넘나 좋아서ㅠ 싯님은 강희가 맘에 드셨나보군여ㅎㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349324477172076500,
+		"in_reply_to_status_id_str": "1349324477172076545",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 마자요 마자요 돌이켜보면 뒤에 나온 사건들에 대해 앞에서부터 복선깐 것들도 은근 있더라구요😭 정말 로맨스만 좋아도 믿고 가는 게 벨인데 세계관이나 주변인물들 서사까지 넘나 좋아서ㅠ 싯님은 강희가 맘에 드셨나보군여ㅎㅎㅎ"
+	},
+	{
+		"created_at": "Wed Jan 13 11:49:10 +0000 2021",
+		"id": 1349322594957230000,
+		"id_str": "1349322594957230080",
+		"full_text": "@sithclare 일반적인 벨 소설이라기엔 넘나 스케일도 있고 긴장감도 있지않나여😂",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349321910996197400,
+		"in_reply_to_status_id_str": "1349321910996197377",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 일반적인 벨 소설이라기엔 넘나 스케일도 있고 긴장감도 있지않나여😂"
+	},
+	{
+		"created_at": "Wed Jan 13 11:45:00 +0000 2021",
+		"id": 1349321544833462300,
+		"id_str": "1349321544833462272",
+		"full_text": "@sithclare 와 짝짝짝 다 달리셨군요😆",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349320790668312600,
+		"in_reply_to_status_id_str": "1349320790668312576",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 와 짝짝짝 다 달리셨군요😆"
+	},
+	{
+		"created_at": "Wed Jan 13 11:37:17 +0000 2021",
+		"id": 1349319605169184800,
+		"id_str": "1349319605169184769",
+		"full_text": "호의행 올해 방영이라며..올해 벌써 13일 지났잖아...언제 방영하냐고...성광대전에서 주연 두 명 무대ㅔ서 만나게 하고 방영도 안 한 캐릭 이름 불러줄 정도면 나름 기대작이란 소리 아니냐고...(;´༎ຶД༎ຶ`) https://t.co/3Y3CbuHhZQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349319596524781600,
+					"id_str": "1349319596524781568",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Erm_BidVQAAW91R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erm_BidVQAAW91R.jpg",
+					"url": "https://t.co/3Y3CbuHhZQ",
+					"display_url": "pic.twitter.com/3Y3CbuHhZQ",
+					"expanded_url": "https://twitter.com/celebaduial/status/1349319605169184769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349319596524781600,
+					"id_str": "1349319596524781568",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Erm_BidVQAAW91R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erm_BidVQAAW91R.jpg",
+					"url": "https://t.co/3Y3CbuHhZQ",
+					"display_url": "pic.twitter.com/3Y3CbuHhZQ",
+					"expanded_url": "https://twitter.com/celebaduial/status/1349319605169184769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1151,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1349319602321252400,
+					"id_str": "1349319602321252352",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Erm_B4DUYAAdmFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erm_B4DUYAAdmFv.jpg",
+					"url": "https://t.co/3Y3CbuHhZQ",
+					"display_url": "pic.twitter.com/3Y3CbuHhZQ",
+					"expanded_url": "https://twitter.com/celebaduial/status/1349319605169184769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1243,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 413,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호의행 올해 방영이라며..올해 벌써 13일 지났잖아...언제 방영하냐고...성광대전에서 주연 두 명 무대ㅔ서 만나게 하고 방영도 안 한 캐릭 이름 불러줄 정도면 나름 기대작이란 소리 아니냐고...(;´༎ຶД༎ຶ`) https://t.co/3Y3CbuHhZQ"
+	},
+	{
 		"created_at": "Tue Jan 12 11:28:27 +0000 2021",
 		"id": 1348954991973724200,
 		"id_str": "1348954991973724161",
