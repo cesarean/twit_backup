@@ -1,6 +1,1363 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 14:22:12 +0000 2021",
+		"id": 1351173045470306300,
+		"id_str": "1351173045470306309",
+		"full_text": "호의행 온천씬도 찍었다며..나도 묵연 상탈샷 봤다고..제발 광총당하지 않고 오게 해주세여..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351167179639713800,
+		"in_reply_to_status_id_str": "1351167179639713792",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "호의행 온천씬도 찍었다며..나도 묵연 상탈샷 봤다고..제발 광총당하지 않고 오게 해주세여.."
+	},
+	{
+		"created_at": "Mon Jan 18 13:58:53 +0000 2021",
+		"id": 1351167179639713800,
+		"id_str": "1351167179639713792",
+		"full_text": "묵연과 초만녕 둘만의 세상 보기좋다...(앞에 설몽 있음 https://t.co/fU74tGHNLv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351167075826479000,
+					"id_str": "1351167075826479105",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsBPS_LXMAEellR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsBPS_LXMAEellR.jpg",
+					"url": "https://t.co/fU74tGHNLv",
+					"display_url": "pic.twitter.com/fU74tGHNLv",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351167179639713792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 434,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351167075826479000,
+					"id_str": "1351167075826479105",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsBPS_LXMAEellR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsBPS_LXMAEellR.jpg",
+					"url": "https://t.co/fU74tGHNLv",
+					"display_url": "pic.twitter.com/fU74tGHNLv",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351167179639713792/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 434,
+							"h": 772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 772,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							217,
+							386
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsBPS_LXMAEellR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "묵연과 초만녕 둘만의 세상 보기좋다...(앞에 설몽 있음 https://t.co/fU74tGHNLv"
+	},
+	{
+		"created_at": "Mon Jan 18 11:31:31 +0000 2021",
+		"id": 1351130093238759400,
+		"id_str": "1351130093238759429",
+		"full_text": "어크 발할라 다했다~이제 디스코 엘리시움 가야지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어크 발할라 다했다~이제 디스코 엘리시움 가야지"
+	},
+	{
+		"created_at": "Mon Jan 18 11:18:50 +0000 2021",
+		"id": 1351126900085821400,
+		"id_str": "1351126900085821443",
+		"full_text": "@sithclare 저도 같이 돌리고 있습니다😂 이렇게까지 준비하는데 그대로 묵히진 않겠지 하는 생각으로╭( ·ㅂ·)و",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351126229978648600,
+		"in_reply_to_status_id_str": "1351126229978648589",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 저도 같이 돌리고 있습니다😂 이렇게까지 준비하는데 그대로 묵히진 않겠지 하는 생각으로╭( ·ㅂ·)و"
+	},
+	{
+		"created_at": "Mon Jan 18 11:15:33 +0000 2021",
+		"id": 1351117267648569300,
+		"id_str": "1351126073162002438",
+		"full_text": "호의행크랭크인하던날\n처음만난 답선군과초비\n아주서로쳐다보느라난리났음\n초비는촬영안할때는살랑살랑웃기바쁜데\n답선군은벌써부터진롱기국시전하기3초전눈빛임\n진비우자꾸라운희쳐다보고또슬쩍보고\n시선느낀라운희가봐주니까또쳐다보고\n고장난답선군되어버림ㅠㅠㅠㅠ https://t.co/7fjKLXl3ZQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351117141077061600,
+					"id_str": "1351117141077061632",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351117141077061632/pu/img/R7WnsID7q9C9D7PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351117141077061632/pu/img/R7WnsID7q9C9D7PW.jpg",
+					"url": "https://t.co/7fjKLXl3ZQ",
+					"display_url": "pic.twitter.com/7fjKLXl3ZQ",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1351117267648569345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351117141077061600,
+					"id_str": "1351117141077061632",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351117141077061632/pu/img/R7WnsID7q9C9D7PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351117141077061632/pu/img/R7WnsID7q9C9D7PW.jpg",
+					"url": "https://t.co/7fjKLXl3ZQ",
+					"display_url": "pic.twitter.com/7fjKLXl3ZQ",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1351117267648569345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27649,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351117141077061632/pu/vid/640x360/uDdYQVBNa9OYy--X.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351117141077061632/pu/vid/1280x720/Mo7PWUQq6EPmXUz0.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351117141077061632/pu/vid/480x270/mHOPOR64r6ukjoqj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351117141077061632/pu/pl/cyp_dyj7IwaBusa-.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309140667185102800,
+			"id_str": "1309140667185102851",
+			"name": "덕배",
+			"screen_name": "xxx___999N",
+			"location": "라운희보면서개호로잡놈의야망가같은생각만함",
+			"description": "바이오에 적힌 거 외 관심 없음                                                                                                2ha • 호의행, rps fyx 페이윈 진비우 라운희",
+			"url": "https://t.co/Dg7uqAtcSe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dg7uqAtcSe",
+							"expanded_url": "https://peing.net/ko/xxx___999n",
+							"display_url": "peing.net/ko/xxx___999n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 843,
+			"friends_count": 37,
+			"listed_count": 5,
+			"created_at": "Thu Sep 24 14:40:40 +0000 2020",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309140667185102851/1600958557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호의행크랭크인하던날\n처음만난 답선군과초비\n아주서로쳐다보느라난리났음\n초비는촬영안할때는살랑살랑웃기바쁜데\n답선군은벌써부터진롱기국시전하기3초전눈빛임\n진비우자꾸라운희쳐다보고또슬쩍보고\n시선느낀라운희가봐주니까또쳐다보고\n고장난답선군되어버림ㅠㅠㅠㅠ https://t.co/7fjKLXl3ZQ"
+	},
+	{
+		"created_at": "Mon Jan 18 11:14:58 +0000 2021",
+		"id": 1351125929054122000,
+		"id_str": "1351125929054121984",
+		"full_text": "@sithclare 오늘 매함설, 설몽 주연의 스핀오프 크랭크인했다고 뜨더라구요😂 뭔가 호의행 관련해서 준비는 많이 하는 것 같은데 그래서 본편 방영은..!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351116927813480400,
+		"in_reply_to_status_id_str": "1351116927813480450",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 오늘 매함설, 설몽 주연의 스핀오프 크랭크인했다고 뜨더라구요😂 뭔가 호의행 관련해서 준비는 많이 하는 것 같은데 그래서 본편 방영은..!"
+	},
+	{
+		"created_at": "Mon Jan 18 10:24:36 +0000 2021",
+		"id": 1351113252802093000,
+		"id_str": "1351113252802093062",
+		"full_text": "아니 호의행 방영은 커녕 트레일러도 안 떴는데 스핀오프 영화 촬영 시작이라니...아니 스틸컷이라도 달라구요..(그리고 사라진 진정령 3번째 외전 영화",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아니 호의행 방영은 커녕 트레일러도 안 떴는데 스핀오프 영화 촬영 시작이라니...아니 스틸컷이라도 달라구요..(그리고 사라진 진정령 3번째 외전 영화"
+	},
+	{
+		"created_at": "Mon Jan 18 07:35:00 +0000 2021",
+		"id": 1351070571229028400,
+		"id_str": "1351070571229028353",
+		"full_text": "@sithclare ㅋㅋㅋ현실은 지금 죽기 전날까지 토익시험 신청 해놓을 판인데 덕질하려면 중국어가 필요한ㅋㅋㅋ 근데 영어에다 중국어까지 할 줄 알면 습득할 수 있는 정보량이 엄청 많아진다는 소리를 들은 적이 있어요╭( ·ㅂ·)و(합리화",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351069740899446800,
+		"in_reply_to_status_id_str": "1351069740899446796",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare ㅋㅋㅋ현실은 지금 죽기 전날까지 토익시험 신청 해놓을 판인데 덕질하려면 중국어가 필요한ㅋㅋㅋ 근데 영어에다 중국어까지 할 줄 알면 습득할 수 있는 정보량이 엄청 많아진다는 소리를 들은 적이 있어요╭( ·ㅂ·)و(합리화"
+	},
+	{
+		"created_at": "Mon Jan 18 07:28:42 +0000 2021",
+		"id": 1351068985823998000,
+		"id_str": "1351068985823997952",
+		"full_text": "@sithclare 와아 오타쿠 엘리트 등극ㅋㅋㅋㅋㅋㅋ 중국어는  발음이랑 성조 때문에 학원 다녀야 한다 그러더라구요😭(하라는 영어 공부 할 생각은 안 하고!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351067492148457500,
+		"in_reply_to_status_id_str": "1351067492148457475",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 와아 오타쿠 엘리트 등극ㅋㅋㅋㅋㅋㅋ 중국어는  발음이랑 성조 때문에 학원 다녀야 한다 그러더라구요😭(하라는 영어 공부 할 생각은 안 하고!"
+	},
+	{
+		"created_at": "Mon Jan 18 07:17:24 +0000 2021",
+		"id": 1351066143138734000,
+		"id_str": "1351066143138734085",
+		"full_text": "@sithclare 따흐흑 동북아 3국 머선일이고\n저는 한자, 일본어 둘 다 자격증을 따놔서 덕질에 유용하게 써먹고 있습니다ヽ( ᐛ )ノ근데 요새는 또 중국어 못 하는 게 아쉽고 그러네요😂",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351065059586437000,
+		"in_reply_to_status_id_str": "1351065059586437122",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 따흐흑 동북아 3국 머선일이고\n저는 한자, 일본어 둘 다 자격증을 따놔서 덕질에 유용하게 써먹고 있습니다ヽ( ᐛ )ノ근데 요새는 또 중국어 못 하는 게 아쉽고 그러네요😂"
+	},
+	{
+		"created_at": "Mon Jan 18 07:13:17 +0000 2021",
+		"id": 1351065104176046000,
+		"id_str": "1351065104176046084",
+		"full_text": "호의행 언제 와..오늘도 성광대전 진비우를 대신 보며 달래는 이 마음.. https://t.co/fXqt5r75z1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351065046663778300,
+					"id_str": "1351065046663778306",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Er_ygG7XUAIPLbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er_ygG7XUAIPLbj.jpg",
+					"url": "https://t.co/fXqt5r75z1",
+					"display_url": "pic.twitter.com/fXqt5r75z1",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351065104176046084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 562,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351065046663778300,
+					"id_str": "1351065046663778306",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Er_ygG7XUAIPLbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er_ygG7XUAIPLbj.jpg",
+					"url": "https://t.co/fXqt5r75z1",
+					"display_url": "pic.twitter.com/fXqt5r75z1",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351065104176046084/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 562,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							500,
+							281
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Er_ygG7XUAIPLbj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호의행 언제 와..오늘도 성광대전 진비우를 대신 보며 달래는 이 마음.. https://t.co/fXqt5r75z1"
+	},
+	{
+		"created_at": "Mon Jan 18 07:10:40 +0000 2021",
+		"id": 1351064447364837400,
+		"id_str": "1351064447364837376",
+		"full_text": "@sithclare 중웹의 압박은 정말...한자 글자 자체는 읽어도 뜻을 알 수 없는 경우가 더 많더라구요😂",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sithclare",
+					"name": "🔥",
+					"id": 201194230,
+					"id_str": "201194230",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351063640951185400,
+		"in_reply_to_status_id_str": "1351063640951185411",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sithclare 중웹의 압박은 정말...한자 글자 자체는 읽어도 뜻을 알 수 없는 경우가 더 많더라구요😂"
+	},
+	{
 		"created_at": "Sun Jan 17 15:14:24 +0000 2021",
 		"id": 1350823794793881600,
 		"id_str": "1350823794793881606",
