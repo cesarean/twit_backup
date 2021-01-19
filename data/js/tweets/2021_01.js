@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 13:17:33 +0000 2021",
+		"id": 1351519165970960400,
+		"id_str": "1351519165970960384",
+		"full_text": "촬영이어도 이상하고 촬영이 아니어도 이상한 레전드 진비우라운희 짤... https://t.co/5ScoxG8Atw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351519149772529700,
+					"id_str": "1351519149772529668",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsGPgY1UYAQFLn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsGPgY1UYAQFLn-.jpg",
+					"url": "https://t.co/5ScoxG8Atw",
+					"display_url": "pic.twitter.com/5ScoxG8Atw",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351519165970960384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351519149772529700,
+					"id_str": "1351519149772529668",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsGPgY1UYAQFLn-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsGPgY1UYAQFLn-.jpg",
+					"url": "https://t.co/5ScoxG8Atw",
+					"display_url": "pic.twitter.com/5ScoxG8Atw",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351519165970960384/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 422,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 422,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							211
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsGPgY1UYAQFLn-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "촬영이어도 이상하고 촬영이 아니어도 이상한 레전드 진비우라운희 짤... https://t.co/5ScoxG8Atw"
+	},
+	{
+		"created_at": "Tue Jan 19 11:13:22 +0000 2021",
+		"id": 1351487911338799000,
+		"id_str": "1351487911338799120",
+		"full_text": "사존이 너무 좋아서 절로 웃음나는 묵연 그 자체... https://t.co/c4x5BIArfz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351487871731945500,
+					"id_str": "1351487871731945475",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsFzDxDU0AM24Ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsFzDxDU0AM24Ji.jpg",
+					"url": "https://t.co/c4x5BIArfz",
+					"display_url": "pic.twitter.com/c4x5BIArfz",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351487911338799120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 508,
+							"h": 508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 508,
+							"h": 508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351487871731945500,
+					"id_str": "1351487871731945475",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsFzDxDU0AM24Ji.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsFzDxDU0AM24Ji.jpg",
+					"url": "https://t.co/c4x5BIArfz",
+					"display_url": "pic.twitter.com/c4x5BIArfz",
+					"expanded_url": "https://twitter.com/celebaduial/status/1351487911338799120/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 508,
+							"h": 508,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 508,
+							"h": 508,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsFzDxDU0AM24Ji.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 21,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사존이 너무 좋아서 절로 웃음나는 묵연 그 자체... https://t.co/c4x5BIArfz"
+	},
+	{
+		"created_at": "Tue Jan 19 09:40:04 +0000 2021",
+		"id": 1351457536646410200,
+		"id_str": "1351464432853946368",
+		"full_text": "초비몸매\n진짜미쳤음\n허리24인치남성의여리여리한뒷모습\n라운희제일많이나갈때가57키로였다는데\n지금은53도안될거같음\n답선군이쳐다만봐도바스라질거같이한줌임ㅠ\n저몸을끼고8년간능욕한답선군\n어쨌거나무죄\n초비만유죄초비미모유죄초비허리사이즈유죄 https://t.co/fZAmmPMmVh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351457520154366000,
+					"id_str": "1351457520154365955",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFXdEnU0AMHu7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsFXdEnU0AMHu7_.jpg",
+					"url": "https://t.co/fZAmmPMmVh",
+					"display_url": "pic.twitter.com/fZAmmPMmVh",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1351457536646410241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1524,
+							"h": 1895,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351457520154366000,
+					"id_str": "1351457520154365955",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFXdEnU0AMHu7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsFXdEnU0AMHu7_.jpg",
+					"url": "https://t.co/fZAmmPMmVh",
+					"display_url": "pic.twitter.com/fZAmmPMmVh",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1351457536646410241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1524,
+							"h": 1895,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1351457530254299100,
+					"id_str": "1351457530254299138",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFXdqPVkAIcAgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsFXdqPVkAIcAgy.jpg",
+					"url": "https://t.co/fZAmmPMmVh",
+					"display_url": "pic.twitter.com/fZAmmPMmVh",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1351457536646410241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 777,
+							"h": 1288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309140667185102800,
+			"id_str": "1309140667185102851",
+			"name": "덕배",
+			"screen_name": "xxx___999N",
+			"location": "라운희보면서개호로잡놈의야망가같은생각만함",
+			"description": "바이오에 적힌 거 외 관심 없음                                                                                                2ha • 호의행, rps fyx 페이윈 진비우 라운희",
+			"url": "https://t.co/Dg7uqAtcSe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dg7uqAtcSe",
+							"expanded_url": "https://peing.net/ko/xxx___999n",
+							"display_url": "peing.net/ko/xxx___999n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 865,
+			"friends_count": 37,
+			"listed_count": 5,
+			"created_at": "Thu Sep 24 14:40:40 +0000 2020",
+			"favourites_count": 754,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309140667185102851/1600958557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "초비몸매\n진짜미쳤음\n허리24인치남성의여리여리한뒷모습\n라운희제일많이나갈때가57키로였다는데\n지금은53도안될거같음\n답선군이쳐다만봐도바스라질거같이한줌임ㅠ\n저몸을끼고8년간능욕한답선군\n어쨌거나무죄\n초비만유죄초비미모유죄초비허리사이즈유죄 https://t.co/fZAmmPMmVh"
+	},
+	{
 		"created_at": "Mon Jan 18 14:22:12 +0000 2021",
 		"id": 1351173045470306300,
 		"id_str": "1351173045470306309",
