@@ -1,6 +1,810 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 15:05:24 +0000 2021",
+		"id": 1352271082628104200,
+		"id_str": "1352271082628104192",
+		"full_text": "초만녕이 침대에서 힘들다 그러면 혀 차면서도 한 번으로 끝내고 품에 안는 답선군이 보고싶네...반대로 미안하다고 어르고 달래면서도 결국 안 멈추는 묵연도 보고싶고..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "초만녕이 침대에서 힘들다 그러면 혀 차면서도 한 번으로 끝내고 품에 안는 답선군이 보고싶네...반대로 미안하다고 어르고 달래면서도 결국 안 멈추는 묵연도 보고싶고.."
+	},
+	{
+		"created_at": "Thu Jan 21 14:37:57 +0000 2021",
+		"id": 1352264172772343800,
+		"id_str": "1352264172772343815",
+		"full_text": "답선군이 질투하는 게 보고싶다. 너무 귀여울 듯() 허구헌날 묵종사 그놈이 나보다 더 좋냐고 초만녕 귀찮게 하기 같은 거...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "답선군이 질투하는 게 보고싶다. 너무 귀여울 듯() 허구헌날 묵종사 그놈이 나보다 더 좋냐고 초만녕 귀찮게 하기 같은 거..."
+	},
+	{
+		"created_at": "Thu Jan 21 14:25:50 +0000 2021",
+		"id": 1352256767757938700,
+		"id_str": "1352261123978874881",
+		"full_text": "사생지전 f4\n졸라벅차오른다아악\n사매설몽묵연그리고흰고양ㅇ..초만녕 https://t.co/5uScuwUN2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352256765597868000,
+					"id_str": "1352256765597868042",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EsQuXR6UYAoGwrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsQuXR6UYAoGwrt.jpg",
+					"url": "https://t.co/5uScuwUN2V",
+					"display_url": "pic.twitter.com/5uScuwUN2V",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1352256767757938688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1099,
+							"h": 818,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1099,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352256765597868000,
+					"id_str": "1352256765597868042",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EsQuXR6UYAoGwrt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsQuXR6UYAoGwrt.jpg",
+					"url": "https://t.co/5uScuwUN2V",
+					"display_url": "pic.twitter.com/5uScuwUN2V",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1352256767757938688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1099,
+							"h": 818,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1099,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309140667185102800,
+			"id_str": "1309140667185102851",
+			"name": "덕배",
+			"screen_name": "xxx___999N",
+			"location": "",
+			"description": "그래, 본좌다.                                                                               2ha 호의행 페이윈 진비우 라운희",
+			"url": "https://t.co/Dg7uqAKNJM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dg7uqAKNJM",
+							"expanded_url": "https://peing.net/ko/xxx___999n",
+							"display_url": "peing.net/ko/xxx___999n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 888,
+			"friends_count": 38,
+			"listed_count": 5,
+			"created_at": "Thu Sep 24 14:40:40 +0000 2020",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309140667185102851/1600958557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사생지전 f4\n졸라벅차오른다아악\n사매설몽묵연그리고흰고양ㅇ..초만녕 https://t.co/5uScuwUN2V"
+	},
+	{
+		"created_at": "Thu Jan 21 13:56:13 +0000 2021",
+		"id": 1191871739678072800,
+		"id_str": "1352253672369999872",
+		"full_text": "jiang xi,,,,,\n\n#二哈和他的白猫师尊 #2ha https://t.co/TtPSyhcjs3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "二哈和他的白猫师尊",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"text": "2ha",
+					"indices": [
+						26,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191867864539652000,
+					"id_str": "1191867864539652098",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EIpdgg0W4AIEjdh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIpdgg0W4AIEjdh.jpg",
+					"url": "https://t.co/TtPSyhcjs3",
+					"display_url": "pic.twitter.com/TtPSyhcjs3",
+					"expanded_url": "https://twitter.com/stariwei/status/1191871739678072832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 654,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 817,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191867864539652000,
+					"id_str": "1191867864539652098",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EIpdgg0W4AIEjdh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIpdgg0W4AIEjdh.jpg",
+					"url": "https://t.co/TtPSyhcjs3",
+					"display_url": "pic.twitter.com/TtPSyhcjs3",
+					"expanded_url": "https://twitter.com/stariwei/status/1191871739678072832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 654,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 817,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 370,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702188652558999600,
+			"id_str": "702188652558999552",
+			"name": "stari ☁️ commissions",
+			"screen_name": "stariwei",
+			"location": "📖广泽旧事",
+			"description": "qrt=block・20↑💕肉包💕danmei\ncommission info: https://t.co/CqYSgHr7XM\n❄️雪衣👕✧🦊梅梅姜🦚✧🔸岩魈🎐",
+			"url": "https://t.co/FQLwQHWrPy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQLwQHWrPy",
+							"expanded_url": "https://stariwei.carrd.co/",
+							"display_url": "stariwei.carrd.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CqYSgHr7XM",
+							"expanded_url": "http://stariscomms.carrd.co",
+							"display_url": "stariscomms.carrd.co",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14363,
+			"friends_count": 158,
+			"listed_count": 67,
+			"created_at": "Tue Feb 23 17:49:55 +0000 2016",
+			"favourites_count": 26217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C1F61",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300511431595626500/MuACfEUf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300511431595626500/MuACfEUf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702188652558999552/1597992904",
+			"profile_link_color": "B4DCB8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 713,
+		"favorite_count": 2174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "jiang xi,,,,,\n\n#二哈和他的白猫师尊 #2ha https://t.co/TtPSyhcjs3"
+	},
+	{
+		"created_at": "Thu Jan 21 11:58:43 +0000 2021",
+		"id": 1352224101121683500,
+		"id_str": "1352224101121683456",
+		"full_text": "호의행 유출짤들 보면 가발이 유난히 길고 찰랑찰랑해 보여서 좋다.. https://t.co/nDIP2qCOKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352224083572715500,
+					"id_str": "1352224083572715524",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsQQo74UcAQ4hSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsQQo74UcAQ4hSv.jpg",
+					"url": "https://t.co/nDIP2qCOKg",
+					"display_url": "pic.twitter.com/nDIP2qCOKg",
+					"expanded_url": "https://twitter.com/celebaduial/status/1352224101121683456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 368,
+							"h": 652,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 368,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 652,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352224083572715500,
+					"id_str": "1352224083572715524",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EsQQo74UcAQ4hSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EsQQo74UcAQ4hSv.jpg",
+					"url": "https://t.co/nDIP2qCOKg",
+					"display_url": "pic.twitter.com/nDIP2qCOKg",
+					"expanded_url": "https://twitter.com/celebaduial/status/1352224101121683456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 368,
+							"h": 652,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 368,
+							"h": 652,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 652,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							92,
+							163
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EsQQo74UcAQ4hSv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호의행 유출짤들 보면 가발이 유난히 길고 찰랑찰랑해 보여서 좋다.. https://t.co/nDIP2qCOKg"
+	},
+	{
+		"created_at": "Thu Jan 21 07:03:41 +0000 2021",
+		"id": 1352149855561412600,
+		"id_str": "1352149855561412609",
+		"full_text": "@la__fiamma 저도 뭐 싫거나 그러진 않은데 엥? 싶었던ㅋㅋㅋ엥?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1352148414767587300,
+		"in_reply_to_status_id_str": "1352148414767587329",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261990791322329090/vHnb14Q2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 저도 뭐 싫거나 그러진 않은데 엥? 싶었던ㅋㅋㅋ엥?"
+	},
+	{
 		"created_at": "Wed Jan 20 15:04:12 +0000 2021",
 		"id": 1351908391891845000,
 		"id_str": "1351908391891845123",
