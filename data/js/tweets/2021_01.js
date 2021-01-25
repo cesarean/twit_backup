@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 25 15:46:47 +0000 2021",
+		"id": 1353731046127227000,
+		"id_str": "1353731046127226880",
+		"full_text": "@la__fiamma 올해 기대작이라면서! 올해가 벌써 한달이 지나가는데!() ㅠㅠㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1353730547562897400,
+		"in_reply_to_status_id_str": "1353730547562897409",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 올해 기대작이라면서! 올해가 벌써 한달이 지나가는데!() ㅠㅠㅠㅠㅠ"
+	},
+	{
+		"created_at": "Mon Jan 25 15:42:36 +0000 2021",
+		"id": 1310671389561483300,
+		"id_str": "1353729993897988096",
+		"full_text": "#二哈和他的白猫师尊 #2ha https://t.co/mwfQd17pzi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "二哈和他的白猫师尊",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "2ha",
+					"indices": [
+						11,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310671105263194000,
+					"id_str": "1310671105263194114",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EjBwbQ6U0AIaM6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjBwbQ6U0AIaM6A.jpg",
+					"url": "https://t.co/mwfQd17pzi",
+					"display_url": "pic.twitter.com/mwfQd17pzi",
+					"expanded_url": "https://twitter.com/HARMONIA3784/status/1310671389561483266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310671105263194000,
+					"id_str": "1310671105263194114",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EjBwbQ6U0AIaM6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjBwbQ6U0AIaM6A.jpg",
+					"url": "https://t.co/mwfQd17pzi",
+					"display_url": "pic.twitter.com/mwfQd17pzi",
+					"expanded_url": "https://twitter.com/HARMONIA3784/status/1310671389561483266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310671125932720000,
+					"id_str": "1310671125932720128",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EjBwcd6UwAAzsuf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjBwcd6UwAAzsuf.jpg",
+					"url": "https://t.co/mwfQd17pzi",
+					"display_url": "pic.twitter.com/mwfQd17pzi",
+					"expanded_url": "https://twitter.com/HARMONIA3784/status/1310671389561483266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 402749862,
+			"id_str": "402749862",
+			"name": "하르모니아(NIA)",
+			"screen_name": "HARMONIA3784",
+			"location": "커미션 당분간 내립니다",
+			"description": "20⬆️/그리고싶은거 그려요/동숲/ff14/일상트,욕트,알티多/FUB자유/ 외주 문의-amandasu@naver.com\n/Don't repost my works anywhere",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39781,
+			"friends_count": 336,
+			"listed_count": 227,
+			"created_at": "Tue Nov 01 14:34:32 +0000 2011",
+			"favourites_count": 24537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352187940798038017/MKlvyjqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352187940798038017/MKlvyjqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/402749862/1611141827",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4440,
+		"favorite_count": 9933,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#二哈和他的白猫师尊 #2ha https://t.co/mwfQd17pzi"
+	},
+	{
+		"created_at": "Mon Jan 25 15:42:23 +0000 2021",
+		"id": 1353729942178041900,
+		"id_str": "1353729942178041856",
+		"full_text": "@la__fiamma 그러게요 계속 보다보니 강희 캐릭터에 어울리는 마스크 같기도 해요ㅋㅋㅋ어찌 됐든 드라마가 나와야😂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1353729012787384300,
+		"in_reply_to_status_id_str": "1353729012787384320",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 그러게요 계속 보다보니 강희 캐릭터에 어울리는 마스크 같기도 해요ㅋㅋㅋ어찌 됐든 드라마가 나와야😂"
+	},
+	{
+		"created_at": "Mon Jan 25 15:29:39 +0000 2021",
+		"id": 1353726735091548200,
+		"id_str": "1353726735091548161",
+		"full_text": "@la__fiamma 하기사 진정령에서도 책이나 애니에선 젊은 외모였던 부모세대 뻘 캐릭이 드라마에선 나잇대있는 배우들로 나오더군요ㅎㅎㅎ시청자들 몰입감 때문에 그런가봐요",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1353719493239816200,
+		"in_reply_to_status_id_str": "1353719493239816196",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 하기사 진정령에서도 책이나 애니에선 젊은 외모였던 부모세대 뻘 캐릭이 드라마에선 나잇대있는 배우들로 나오더군요ㅎㅎㅎ시청자들 몰입감 때문에 그런가봐요"
+	},
+	{
+		"created_at": "Mon Jan 25 14:19:08 +0000 2021",
+		"id": 1353708990488744000,
+		"id_str": "1353708990488743936",
+		"full_text": "호의행..육아드라마로 각색인가...(아님 https://t.co/NHDlbg8nHP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1353708986843893800,
+					"id_str": "1353708986843893761",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EslXJroVkAE_LNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EslXJroVkAE_LNp.jpg",
+					"url": "https://t.co/NHDlbg8nHP",
+					"display_url": "pic.twitter.com/NHDlbg8nHP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1353708990488743936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1357,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353708986843893800,
+					"id_str": "1353708986843893761",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EslXJroVkAE_LNp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EslXJroVkAE_LNp.jpg",
+					"url": "https://t.co/NHDlbg8nHP",
+					"display_url": "pic.twitter.com/NHDlbg8nHP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1353708990488743936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1357,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "호의행..육아드라마로 각색인가...(아님 https://t.co/NHDlbg8nHP"
+	},
+	{
+		"created_at": "Mon Jan 25 14:08:26 +0000 2021",
+		"id": 1353706296965353500,
+		"id_str": "1353706296965353472",
+		"full_text": "에? 강희 책에서 20대 외모라 드라마도 그런 줄 알았는데 아닌가보오..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "에? 강희 책에서 20대 외모라 드라마도 그런 줄 알았는데 아닌가보오.."
+	},
+	{
 		"created_at": "Sun Jan 24 00:10:23 +0000 2021",
 		"id": 1337093789828014000,
 		"id_str": "1353133006827921408",
