@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 13:06:20 +0000 2021",
+		"id": 1362025590203682800,
+		"id_str": "1362025590203682816",
+		"full_text": "@la__fiamma ㅁㅈㅇㅁㅈㅇ 그리고 버드나무 가지가 구부러졌다가도 다시 펴지는 특성때문에 돌아온다는 걸 뜻한다고도 하고 버드나무 류柳 가 머무를 류留랑 음이 비슷해서라는 소리도 있더라구요ㅎㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1362001129844838400,
+		"in_reply_to_status_id_str": "1362001129844838403",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(이합화타·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma ㅁㅈㅇㅁㅈㅇ 그리고 버드나무 가지가 구부러졌다가도 다시 펴지는 특성때문에 돌아온다는 걸 뜻한다고도 하고 버드나무 류柳 가 머무를 류留랑 음이 비슷해서라는 소리도 있더라구요ㅎㅎㅎ"
+	},
+	{
 		"created_at": "Mon Feb 15 13:52:38 +0000 2021",
 		"id": 1361312465506631700,
 		"id_str": "1361312465506631687",
