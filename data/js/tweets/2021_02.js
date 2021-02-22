@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 13:30:57 +0000 2021",
+		"id": 1363843725080727600,
+		"id_str": "1363843725080727552",
+		"full_text": "비우묵연은 정말 갓이야...답선군 모습일 때는 묵연일 때랑 느낌 또 다름 하.. https://t.co/XSZL5ODKCa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363843722132156400,
+					"id_str": "1363843722132156421",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu1Yo6rVcAUZ0Du.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu1Yo6rVcAUZ0Du.jpg",
+					"url": "https://t.co/XSZL5ODKCa",
+					"display_url": "pic.twitter.com/XSZL5ODKCa",
+					"expanded_url": "https://twitter.com/celebaduial/status/1363843725080727552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 792,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 1377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363843722132156400,
+					"id_str": "1363843722132156421",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu1Yo6rVcAUZ0Du.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu1Yo6rVcAUZ0Du.jpg",
+					"url": "https://t.co/XSZL5ODKCa",
+					"display_url": "pic.twitter.com/XSZL5ODKCa",
+					"expanded_url": "https://twitter.com/celebaduial/status/1363843725080727552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 792,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 909,
+							"h": 1377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비우묵연은 정말 갓이야...답선군 모습일 때는 묵연일 때랑 느낌 또 다름 하.. https://t.co/XSZL5ODKCa"
+	},
+	{
+		"created_at": "Mon Feb 22 13:24:58 +0000 2021",
+		"id": 1363838231272333300,
+		"id_str": "1363842216561532936",
+		"full_text": "묵미우와진비우\n교차영상\n확실히\n묵연일때\n묘하게분위기가다르다싶음\n완전히역할에몰입한표정아니냐\n눈에서0.5가왈칵쏟아져나옴 https://t.co/Ja2YqqXYEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363838184426139600,
+					"id_str": "1363838184426139651",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363838184426139651/pu/img/WZzL61apuwKEX3XB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363838184426139651/pu/img/WZzL61apuwKEX3XB.jpg",
+					"url": "https://t.co/Ja2YqqXYEz",
+					"display_url": "pic.twitter.com/Ja2YqqXYEz",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1363838231272333313/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363838184426139600,
+					"id_str": "1363838184426139651",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363838184426139651/pu/img/WZzL61apuwKEX3XB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363838184426139651/pu/img/WZzL61apuwKEX3XB.jpg",
+					"url": "https://t.co/Ja2YqqXYEz",
+					"display_url": "pic.twitter.com/Ja2YqqXYEz",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1363838231272333313/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							5
+						],
+						"duration_millis": 11826,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1363838184426139651/pu/pl/lxNj1_2Cg4Ijfk_q.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363838184426139651/pu/vid/720x1200/8oy-ANMtvwUF0BvW.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363838184426139651/pu/vid/320x532/bajAxgVCeCQPT0jG.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363838184426139651/pu/vid/360x600/LyrCAKJbI4dYuhc_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309140667185102800,
+			"id_str": "1309140667185102851",
+			"name": "덕배",
+			"screen_name": "xxx___999N",
+			"location": "본좌는 너를 평생 괴롭히고 싶으니까.",
+			"description": "그래, 본좌다.                                                                                                                    - 2ha, 호의행 페이윈 진비우 라운희  #Immortality",
+			"url": "https://t.co/Dg7uqAKNJM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dg7uqAKNJM",
+							"expanded_url": "https://peing.net/ko/xxx___999n",
+							"display_url": "peing.net/ko/xxx___999n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1612,
+			"friends_count": 36,
+			"listed_count": 11,
+			"created_at": "Thu Sep 24 14:40:40 +0000 2020",
+			"favourites_count": 1065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309140667185102851/1600958557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "묵미우와진비우\n교차영상\n확실히\n묵연일때\n묘하게분위기가다르다싶음\n완전히역할에몰입한표정아니냐\n눈에서0.5가왈칵쏟아져나옴 https://t.co/Ja2YqqXYEz"
+	},
+	{
 		"created_at": "Sun Feb 21 15:58:12 +0000 2021",
 		"id": 1363518393643536400,
 		"id_str": "1363518393643536390",
