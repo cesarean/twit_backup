@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 14:15:35 +0000 2021",
+		"id": 1364203641872081000,
+		"id_str": "1364217343035854852",
+		"full_text": "이거실시간으로\n방금도착해서\n폰확인하는진비우반응이라는데\n갑자기몸일으키먼서눈커짐\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n본걸까\n흰고양이가앞발로좋아요눌렀다가놀라서얼른취소하고도망쳤다는거 https://t.co/eBO8RchJMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364203592547143700,
+					"id_str": "1364203592547143689",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu6f8IcVkAkznD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu6f8IcVkAkznD4.jpg",
+					"url": "https://t.co/eBO8RchJMa",
+					"display_url": "pic.twitter.com/eBO8RchJMa",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1364203641872080907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 864,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364203592547143700,
+					"id_str": "1364203592547143689",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu6f8IcVkAkznD4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu6f8IcVkAkznD4.jpg",
+					"url": "https://t.co/eBO8RchJMa",
+					"display_url": "pic.twitter.com/eBO8RchJMa",
+					"expanded_url": "https://twitter.com/xxx___999N/status/1364203641872080907/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 864,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							6
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eu6f8IcVkAkznD4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1309140667185102800,
+			"id_str": "1309140667185102851",
+			"name": "덕배",
+			"screen_name": "xxx___999N",
+			"location": "본좌는 너를 평생 괴롭히고 싶으니까.",
+			"description": "그래, 본좌다.                                                                                                                    - 2ha, 호의행 페이윈 진비우 라운희  #Immortality",
+			"url": "https://t.co/Dg7uqAKNJM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dg7uqAKNJM",
+							"expanded_url": "https://peing.net/ko/xxx___999n",
+							"display_url": "peing.net/ko/xxx___999n",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1660,
+			"friends_count": 36,
+			"listed_count": 11,
+			"created_at": "Thu Sep 24 14:40:40 +0000 2020",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351092871961731076/6XEuSrde_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309140667185102851/1600958557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거실시간으로\n방금도착해서\n폰확인하는진비우반응이라는데\n갑자기몸일으키먼서눈커짐\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n본걸까\n흰고양이가앞발로좋아요눌렀다가놀라서얼른취소하고도망쳤다는거 https://t.co/eBO8RchJMa"
+	},
+	{
+		"created_at": "Tue Feb 23 13:50:14 +0000 2021",
+		"id": 1364210965722456000,
+		"id_str": "1364210965722456068",
+		"full_text": "본좌의 아내 타령 들으면 기겁하고 질색하는 초만녕과 부군 소리 한 번 듣고 싶어서 두근두근하는 답선군이 좋다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352644200051789831/Qaaxx8CZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "본좌의 아내 타령 들으면 기겁하고 질색하는 초만녕과 부군 소리 한 번 듣고 싶어서 두근두근하는 답선군이 좋다"
+	},
+	{
 		"created_at": "Mon Feb 22 13:30:57 +0000 2021",
 		"id": 1363843725080727600,
 		"id_str": "1363843725080727552",
