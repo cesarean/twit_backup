@@ -1,6 +1,1365 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 02 17:02:14 +0000 2021",
+		"id": 1366795999302230000,
+		"id_str": "1366795999302230017",
+		"full_text": "@la__fiamma 앗 아아 천열 사건ㅠㅠㅠ그 때 느낀 고독감과 외로움 속에서 꽃이 처음으로 피어난건가요ㅠ 여기의 묵연도 그 사실을 알면 마음아파서 울어버릴 것 같아요ㅠ\n흑흑 넘나 흥미진진한데 제가 잘 시간이 넘어서 그만ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366794517509066800,
+		"in_reply_to_status_id_str": "1366794517509066760",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 앗 아아 천열 사건ㅠㅠㅠ그 때 느낀 고독감과 외로움 속에서 꽃이 처음으로 피어난건가요ㅠ 여기의 묵연도 그 사실을 알면 마음아파서 울어버릴 것 같아요ㅠ\n흑흑 넘나 흥미진진한데 제가 잘 시간이 넘어서 그만ㅠㅠ"
+	},
+	{
+		"created_at": "Tue Mar 02 16:49:52 +0000 2021",
+		"id": 1366792886369489000,
+		"id_str": "1366792886369488900",
+		"full_text": "@la__fiamma 오 그럴수도 있겠네요 아예 묵연이 아무것도 몰랐던 세계..그렇다면 과연 우리의 쟈근 묵연은 어떻게 진상을 추리해갈지...!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366791870253174800,
+		"in_reply_to_status_id_str": "1366791870253174785",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 오 그럴수도 있겠네요 아예 묵연이 아무것도 몰랐던 세계..그렇다면 과연 우리의 쟈근 묵연은 어떻게 진상을 추리해갈지...!"
+	},
+	{
+		"created_at": "Tue Mar 02 16:44:21 +0000 2021",
+		"id": 1366791498893697000,
+		"id_str": "1366791498893697034",
+		"full_text": "@la__fiamma 흑흑 쟈근 묵연( ˃̣̣̥᷄⌓˂̣̣̥᷅ ) 그럼 여기서는 사존이 대신 꽃에 먹히겠다고 자처한 세계일까요ㅠㅠ 더 많은 사람들을 구하고 싶어서 천문같은 신무를 원했던 해맑은 제자 대신 자기가 하겠다고 나서서...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366790687631368200,
+		"in_reply_to_status_id_str": "1366790687631368194",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 흑흑 쟈근 묵연( ˃̣̣̥᷄⌓˂̣̣̥᷅ ) 그럼 여기서는 사존이 대신 꽃에 먹히겠다고 자처한 세계일까요ㅠㅠ 더 많은 사람들을 구하고 싶어서 천문같은 신무를 원했던 해맑은 제자 대신 자기가 하겠다고 나서서..."
+	},
+	{
+		"created_at": "Tue Mar 02 16:36:44 +0000 2021",
+		"id": 1366789579626348500,
+		"id_str": "1366789579626348545",
+		"full_text": "@la__fiamma 하지만 어쩌겠느냐 이제 내 옆에는 너밖에 없다 이래서 묵연 거기에 또 뭉클해버린다거나요. 초만녕은 그 때 통천탑 아래에서 나를 사존으로 선택한 것이 너의 업이다, 그러지않았으면 설자명이나 사명정이 내 옆에 남았을텐데 하는데 다시 그 날로 돌아가도 같은 선택을 할 거라는 묵연...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366788282185474000,
+		"in_reply_to_status_id_str": "1366788282185474049",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 하지만 어쩌겠느냐 이제 내 옆에는 너밖에 없다 이래서 묵연 거기에 또 뭉클해버린다거나요. 초만녕은 그 때 통천탑 아래에서 나를 사존으로 선택한 것이 너의 업이다, 그러지않았으면 설자명이나 사명정이 내 옆에 남았을텐데 하는데 다시 그 날로 돌아가도 같은 선택을 할 거라는 묵연..."
+	},
+	{
+		"created_at": "Tue Mar 02 16:26:39 +0000 2021",
+		"id": 1366787044861616000,
+		"id_str": "1366787044861616134",
+		"full_text": "@la__fiamma 그러면서도 하는 말은 너도 이런 나이든 사내를 억지로 안으려니 탐탁치않겠지 이딴 소리나 해서 묵연 마음 더 아팠으면...초만녕은 어디까지나 자기가 명령했기 때문에 묵연이 침상에도 든다고 믿으면 좋겠네요 엇갈리는 마음~",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366785897367183400,
+		"in_reply_to_status_id_str": "1366785897367183360",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 그러면서도 하는 말은 너도 이런 나이든 사내를 억지로 안으려니 탐탁치않겠지 이딴 소리나 해서 묵연 마음 더 아팠으면...초만녕은 어디까지나 자기가 명령했기 때문에 묵연이 침상에도 든다고 믿으면 좋겠네요 엇갈리는 마음~"
+	},
+	{
+		"created_at": "Tue Mar 02 16:15:45 +0000 2021",
+		"id": 1366784300822061000,
+		"id_str": "1366784300822061056",
+		"full_text": "@la__fiamma 그러게요 아무래도 그것이 누군가에게 순수한 호의를 받은 행복한 기억이었을테니까요ㅠ때론 무미건조한 얼굴을 하고도 발치에 매달린 묵연의 머리를 무의식적으로 쓰다듬는다거나 하면 좋겠네요ㅠㅠ 아니면 가끔 묵연이 다칠것같은 상황일 때 자기가 먼저 나서서 정리해버린다거나..",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366783579724812300,
+		"in_reply_to_status_id_str": "1366783579724812290",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 그러게요 아무래도 그것이 누군가에게 순수한 호의를 받은 행복한 기억이었을테니까요ㅠ때론 무미건조한 얼굴을 하고도 발치에 매달린 묵연의 머리를 무의식적으로 쓰다듬는다거나 하면 좋겠네요ㅠㅠ 아니면 가끔 묵연이 다칠것같은 상황일 때 자기가 먼저 나서서 정리해버린다거나.."
+	},
+	{
+		"created_at": "Tue Mar 02 16:08:28 +0000 2021",
+		"id": 1366782465575035000,
+		"id_str": "1366782465575034883",
+		"full_text": "@la__fiamma 여기서 초만녕의 마음은 이미 얼어붙었을테니 묵연도 감정없이 대하겠지요?ㅠㅠ 철저히 자기가 쓰는 도구로만 생각해서 묵연이 다쳐오든 말든 신경도 안 쓰는데 묵연은 지치지도 않고 사존에게 돌아와서 그 곁을 지키려고 하고..",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366780810410430500,
+		"in_reply_to_status_id_str": "1366780810410430466",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 여기서 초만녕의 마음은 이미 얼어붙었을테니 묵연도 감정없이 대하겠지요?ㅠㅠ 철저히 자기가 쓰는 도구로만 생각해서 묵연이 다쳐오든 말든 신경도 안 쓰는데 묵연은 지치지도 않고 사존에게 돌아와서 그 곁을 지키려고 하고.."
+	},
+	{
+		"created_at": "Tue Mar 02 15:56:32 +0000 2021",
+		"id": 1366779463992709000,
+		"id_str": "1366779463992709124",
+		"full_text": "@la__fiamma 북두선존이 첫번째 신무를 보이면 무릎꿇어 빌고 두번째 신무를 보이면 아무 소리없이 받아들이고 세번째 신무를 보이면 도망가고 네번째 신무를 보이면 다 끝이라고 생각해라-뭐 이런 말이 돈다거나요. 저런 상황이라면 묵연은 최대한 감정을 배제하고 오직 사존을 지키려고만 하지 않을까요ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366778060792467500,
+		"in_reply_to_status_id_str": "1366778060792467456",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 북두선존이 첫번째 신무를 보이면 무릎꿇어 빌고 두번째 신무를 보이면 아무 소리없이 받아들이고 세번째 신무를 보이면 도망가고 네번째 신무를 보이면 다 끝이라고 생각해라-뭐 이런 말이 돈다거나요. 저런 상황이라면 묵연은 최대한 감정을 배제하고 오직 사존을 지키려고만 하지 않을까요ㅠ"
+	},
+	{
+		"created_at": "Tue Mar 02 15:46:27 +0000 2021",
+		"id": 1366776926979809300,
+		"id_str": "1366776926979809289",
+		"full_text": "@la__fiamma 헉 이거 상상하니 넘 좋아요 누구보다 경애하고 사랑하는 사존의 가장 강력한, 살아있는 신무가 된 묵연...ㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366775786389217300,
+		"in_reply_to_status_id_str": "1366775786389217282",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 헉 이거 상상하니 넘 좋아요 누구보다 경애하고 사랑하는 사존의 가장 강력한, 살아있는 신무가 된 묵연...ㅠㅠㅠ"
+	},
+	{
+		"created_at": "Tue Mar 02 12:21:56 +0000 2021",
+		"id": 1366725457383551000,
+		"id_str": "1366725457383550979",
+		"full_text": "가끔은 묵연이 답선군 질투하는 것도 보고싶네.  답선군과 만녕이 너무 자연스러운 부부 바이브가 나올 때라든가...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가끔은 묵연이 답선군 질투하는 것도 보고싶네.  답선군과 만녕이 너무 자연스러운 부부 바이브가 나올 때라든가..."
+	},
+	{
+		"created_at": "Tue Mar 02 07:12:31 +0000 2021",
+		"id": 1366647590448603100,
+		"id_str": "1366647590448603139",
+		"full_text": "@la__fiamma 진짜 무슨 영혼에 새겨진 수준으로😂 휴 외전 발매까지 다시 읽고 있으니 좋네요..호의행도 간절해지고...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366646278298341400,
+		"in_reply_to_status_id_str": "1366646278298341376",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 진짜 무슨 영혼에 새겨진 수준으로😂 휴 외전 발매까지 다시 읽고 있으니 좋네요..호의행도 간절해지고..."
+	},
+	{
+		"created_at": "Tue Mar 02 06:54:53 +0000 2021",
+		"id": 1366643152195514400,
+		"id_str": "1366643152195514368",
+		"full_text": "@la__fiamma 1.0 오랜만에 다시 보니 진짜 애샛기네요 허허허 그래도 얼핏얼핏 보이는 초만녕을 향한 집념이 절 울게 하는😭",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366642586614567000,
+		"in_reply_to_status_id_str": "1366642586614566916",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 1.0 오랜만에 다시 보니 진짜 애샛기네요 허허허 그래도 얼핏얼핏 보이는 초만녕을 향한 집념이 절 울게 하는😭"
+	},
+	{
+		"created_at": "Tue Mar 02 06:48:14 +0000 2021",
+		"id": 1366641479871991800,
+		"id_str": "1366641479871991808",
+		"full_text": "@la__fiamma 그러니까요ㅠㅠㅠ 지금 다시 보니 이런 복선이 있었네요ㅠㅠ 고기만두 당신은 대체...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "고월야 6407번째 제자",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366641260727967700,
+		"in_reply_to_status_id_str": "1366641260727967746",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 그러니까요ㅠㅠㅠ 지금 다시 보니 이런 복선이 있었네요ㅠㅠ 고기만두 당신은 대체..."
+	},
+	{
+		"created_at": "Tue Mar 02 06:24:00 +0000 2021",
+		"id": 1366635382352138200,
+		"id_str": "1366635382352138243",
+		"full_text": "이게 전생에서의 초비와 같은 행동이었다니ㅠㅠㅠ https://t.co/0HachfnSUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1366635378891841500,
+					"id_str": "1366635378891841536",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EvdDouhUYAAEGtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvdDouhUYAAEGtE.jpg",
+					"url": "https://t.co/0HachfnSUU",
+					"display_url": "pic.twitter.com/0HachfnSUU",
+					"expanded_url": "https://twitter.com/celebaduial/status/1366635382352138243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1366635378891841500,
+					"id_str": "1366635378891841536",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/EvdDouhUYAAEGtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvdDouhUYAAEGtE.jpg",
+					"url": "https://t.co/0HachfnSUU",
+					"display_url": "pic.twitter.com/0HachfnSUU",
+					"expanded_url": "https://twitter.com/celebaduial/status/1366635382352138243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1366635131692195800,
+		"in_reply_to_status_id_str": "1366635131692195840",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(진정령) 명결회상/(얼하·호의행)묵연만녕 성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게 전생에서의 초비와 같은 행동이었다니ㅠㅠㅠ https://t.co/0HachfnSUU"
+	},
+	{
 		"created_at": "Mon Mar 01 16:12:35 +0000 2021",
 		"id": 1366421115854229500,
 		"id_str": "1366421115854229504",
