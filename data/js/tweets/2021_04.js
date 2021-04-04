@@ -1,6 +1,1371 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 04 15:50:54 +0000 2021",
+		"id": 1378736845765238800,
+		"id_str": "1378736845765238784",
+		"full_text": "@la__fiamma 그러게요 사실 백 프로 보안이 유지됐을까 싶기도 하구요😆답선군 열받으면 초비가 어쩌구 하다가 무의식적으로 사존이 어쩌구 이러기도 했을 것 같단 말이죠ㅋㅋㅋㅋ다들 첨 알았을 때는 충격적이었지만 뭐라 말할 수도 없으니()어쩐지 그렇게 합방을 하는데 회임 소식이 없더라 이런 감상만&lt;",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378734119505469400,
+		"in_reply_to_status_id_str": "1378734119505469440",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 그러게요 사실 백 프로 보안이 유지됐을까 싶기도 하구요😆답선군 열받으면 초비가 어쩌구 하다가 무의식적으로 사존이 어쩌구 이러기도 했을 것 같단 말이죠ㅋㅋㅋㅋ다들 첨 알았을 때는 충격적이었지만 뭐라 말할 수도 없으니()어쩐지 그렇게 합방을 하는데 회임 소식이 없더라 이런 감상만&lt;"
+	},
+	{
+		"created_at": "Sun Apr 04 15:17:47 +0000 2021",
+		"id": 1378728511431528400,
+		"id_str": "1378728511431528450",
+		"full_text": "@la__fiamma 염탐을 해도 속만 터질 정보뿐이군요ㅋㅋㅋㅋ황제가 자주 드나드니 초비와 친해져 덕 좀 보려고 홍련수사에 가까이 가려 해도 답선군이 꽁꽁 쳐놓은 결계에 감지되고😂어설프게 접근한 사람들은 쥐도 새도 모르게 사라지겠지요...바깥 출입을 안 하니 해치려해도 해칠 수도 없고..",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378727171431141400,
+		"in_reply_to_status_id_str": "1378727171431141376",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 염탐을 해도 속만 터질 정보뿐이군요ㅋㅋㅋㅋ황제가 자주 드나드니 초비와 친해져 덕 좀 보려고 홍련수사에 가까이 가려 해도 답선군이 꽁꽁 쳐놓은 결계에 감지되고😂어설프게 접근한 사람들은 쥐도 새도 모르게 사라지겠지요...바깥 출입을 안 하니 해치려해도 해칠 수도 없고.."
+	},
+	{
+		"created_at": "Sun Apr 04 15:09:32 +0000 2021",
+		"id": 1378726436941430800,
+		"id_str": "1378726436941430785",
+		"full_text": "@la__fiamma 악ㅋㅋㅋㅋㅋ그리고 어떻게 군주를 유혹하나 했더니 초비마마는 교태나 미소는 커녕 폐하께 나가라며 소리를 쳤습니다. 폐하께서 버티고 계시자 아예 손찌검까지 하셨으니 이는 평상시와 같습니다&lt;--이런 보고만 가득할듯요ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378725171284992000,
+		"in_reply_to_status_id_str": "1378725171284992000",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 악ㅋㅋㅋㅋㅋ그리고 어떻게 군주를 유혹하나 했더니 초비마마는 교태나 미소는 커녕 폐하께 나가라며 소리를 쳤습니다. 폐하께서 버티고 계시자 아예 손찌검까지 하셨으니 이는 평상시와 같습니다&lt;--이런 보고만 가득할듯요ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Apr 04 15:00:45 +0000 2021",
+		"id": 1378724225104552000,
+		"id_str": "1378724225104551942",
+		"full_text": "@la__fiamma 송추동은 그나마 답선군을 자주 봐서 그 쎄함을 아는만큼 첨에 손톱 고문 외엔 안 건드리지만 다른 비빈들은 알 리가 없으니 어떻게든 초비에 대해 캐내려 할 것 같아요. 홍련수사 궁인을 매수해서 탐문하려 한다거나 사람을 시켜 홍련수사를 염탐하려 한다거나...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378722311763730400,
+		"in_reply_to_status_id_str": "1378722311763730434",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 송추동은 그나마 답선군을 자주 봐서 그 쎄함을 아는만큼 첨에 손톱 고문 외엔 안 건드리지만 다른 비빈들은 알 리가 없으니 어떻게든 초비에 대해 캐내려 할 것 같아요. 홍련수사 궁인을 매수해서 탐문하려 한다거나 사람을 시켜 홍련수사를 염탐하려 한다거나..."
+	},
+	{
+		"created_at": "Sun Apr 04 14:50:27 +0000 2021",
+		"id": 1378721633309913000,
+		"id_str": "1378721633309913089",
+		"full_text": "@la__fiamma 후궁만녕전 좋아요ㅋㅋㅋㅋㅋ비이면서 내명부 일에 참여도 안 하고 윗전에 예의를 다 하지도 않지만 황제의 총애는 독차지한 초만녕을 향한 억측과 질시와 호기심, 음모들ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378720544028196900,
+		"in_reply_to_status_id_str": "1378720544028196874",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 후궁만녕전 좋아요ㅋㅋㅋㅋㅋ비이면서 내명부 일에 참여도 안 하고 윗전에 예의를 다 하지도 않지만 황제의 총애는 독차지한 초만녕을 향한 억측과 질시와 호기심, 음모들ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Apr 04 14:44:49 +0000 2021",
+		"id": 1378720214318149600,
+		"id_str": "1378720214318149632",
+		"full_text": "@la__fiamma 흐흑 답선군 녀석ㅠㅠㅠ\n근데 저 가끔은 초비와 홍련수사로 후궁 암투물을 보고싶기도 해요😂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378717525949567000,
+		"in_reply_to_status_id_str": "1378717525949566979",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 흐흑 답선군 녀석ㅠㅠㅠ\n근데 저 가끔은 초비와 홍련수사로 후궁 암투물을 보고싶기도 해요😂"
+	},
+	{
+		"created_at": "Sun Apr 04 14:29:38 +0000 2021",
+		"id": 1378716394171166700,
+		"id_str": "1378716394171166726",
+		"full_text": "@la__fiamma 마자요ㅠ의지할데도 없으니 정을 주고 싶었지만 답선군이 난리칠까봐 일부러 무심히 대했을듯요. 결국 홍련수사에 남은 궁인들은 나서지않고 눈치는 있지만 묵묵히 할 일 하는 사람들만 남았을 것 같아요. 그래서 답선군과 초비의 기묘한 관계를 알고도 떠벌리지않고 눈치껏 처신할..",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378713911285833700,
+		"in_reply_to_status_id_str": "1378713911285833730",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 마자요ㅠ의지할데도 없으니 정을 주고 싶었지만 답선군이 난리칠까봐 일부러 무심히 대했을듯요. 결국 홍련수사에 남은 궁인들은 나서지않고 눈치는 있지만 묵묵히 할 일 하는 사람들만 남았을 것 같아요. 그래서 답선군과 초비의 기묘한 관계를 알고도 떠벌리지않고 눈치껏 처신할.."
+	},
+	{
+		"created_at": "Sun Apr 04 13:41:44 +0000 2021",
+		"id": 1378704338957213700,
+		"id_str": "1378704338957213696",
+		"full_text": "@la__fiamma 죽음으로 인한 퇴사밖에 없....!\n그러고보면 초비는 궁인들이랑 어떻게 지냈을지도 궁금하네요. 막 살갑게 굴진 않았겠지만 그래도 나름 비즈니스적으로는 잘 지냈을지, 괜히 얼굴 익히고 정 주다 답선군 명으로 갑자기 죽을까봐 일부러라도 냉랭히 대했을지..",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378703220915150800,
+		"in_reply_to_status_id_str": "1378703220915150851",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 죽음으로 인한 퇴사밖에 없....!\n그러고보면 초비는 궁인들이랑 어떻게 지냈을지도 궁금하네요. 막 살갑게 굴진 않았겠지만 그래도 나름 비즈니스적으로는 잘 지냈을지, 괜히 얼굴 익히고 정 주다 답선군 명으로 갑자기 죽을까봐 일부러라도 냉랭히 대했을지.."
+	},
+	{
+		"created_at": "Sun Apr 04 13:34:55 +0000 2021",
+		"id": 1378702624975822800,
+		"id_str": "1378702624975822854",
+		"full_text": "@la__fiamma 정말 챙겨도 지가 챙기고 홀대해도 지가 홀대하게 만들어야() 묵연이 직접 물건들과 함께 행차하는 거 보고 안도했다가 얼마 안 있어 또 와장창 싸우고는(주로 혼자 분해하는) 홍련수사에 있는 거 다 치워버리라고 소리치고 나가는 폐하보고 이마짚는 궁인들...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378701877248856000,
+		"in_reply_to_status_id_str": "1378701877248856064",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 정말 챙겨도 지가 챙기고 홀대해도 지가 홀대하게 만들어야() 묵연이 직접 물건들과 함께 행차하는 거 보고 안도했다가 얼마 안 있어 또 와장창 싸우고는(주로 혼자 분해하는) 홍련수사에 있는 거 다 치워버리라고 소리치고 나가는 폐하보고 이마짚는 궁인들..."
+	},
+	{
+		"created_at": "Sun Apr 04 13:24:27 +0000 2021",
+		"id": 1378699989078003700,
+		"id_str": "1378699989078003720",
+		"full_text": "@la__fiamma 마자요 답선군 심기도 안 거스르고 초비 자존심도 안 상하도록 처리할 수 있는 사람 유공뿐이었을듯요. 비단 같은거 올라오면 슬쩍 이번에 진상된 비단 중 해당화를 수놓은 것이 제일 아름답다고 해서 답선군이 자연히 초비를 떠올리게 한다거나요. 답선군이 직접 초비에게 갖다주라고 명하도록ㅇㅇ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378697333437722600,
+		"in_reply_to_status_id_str": "1378697333437722625",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 마자요 답선군 심기도 안 거스르고 초비 자존심도 안 상하도록 처리할 수 있는 사람 유공뿐이었을듯요. 비단 같은거 올라오면 슬쩍 이번에 진상된 비단 중 해당화를 수놓은 것이 제일 아름답다고 해서 답선군이 자연히 초비를 떠올리게 한다거나요. 답선군이 직접 초비에게 갖다주라고 명하도록ㅇㅇ"
+	},
+	{
+		"created_at": "Sun Apr 04 12:58:03 +0000 2021",
+		"id": 1378693345392746500,
+		"id_str": "1378693345392746503",
+		"full_text": "@la__fiamma 삐끗하면 목이 달아나는 이런 직장...홍련수사를 무관심하게 버려두는 듯 싶으면서도 적당히 티 안 나게 부족함없이 대접하는 스킬이 필요했을듯요. 도와줘요 유공!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1378692607115595800,
+		"in_reply_to_status_id_str": "1378692607115595782",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 삐끗하면 목이 달아나는 이런 직장...홍련수사를 무관심하게 버려두는 듯 싶으면서도 적당히 티 안 나게 부족함없이 대접하는 스킬이 필요했을듯요. 도와줘요 유공!"
+	},
+	{
+		"created_at": "Sun Apr 04 12:51:14 +0000 2021",
+		"id": 1378691631637954600,
+		"id_str": "1378691631637954561",
+		"full_text": "무산전 시절 궁인들 엄청 오락가락했을 듯. 황제가 초비를 모욕주고 증오하니 진상품도 안 나눠주고 홍련수사의 물품도 안 채우다가 누가 본좌의 사존을 홀대하냐며 답선군한테 사달남. 이후엔 황제가 초비를 총애하는 거 보고 알아서 상등품 올리다가 또 이 자한테 누가 잘해주라 했냐고 피바람 붐()",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "무산전 시절 궁인들 엄청 오락가락했을 듯. 황제가 초비를 모욕주고 증오하니 진상품도 안 나눠주고 홍련수사의 물품도 안 채우다가 누가 본좌의 사존을 홀대하냐며 답선군한테 사달남. 이후엔 황제가 초비를 총애하는 거 보고 알아서 상등품 올리다가 또 이 자한테 누가 잘해주라 했냐고 피바람 붐()"
+	},
+	{
+		"created_at": "Sun Apr 04 08:06:57 +0000 2021",
+		"id": 1378620090552176600,
+		"id_str": "1378620090552176644",
+		"full_text": "이거 레알...커피를 안 먹다보니 카페가서도 차를 먼저 보게 되는데 대다수가 이러므로 밖에서 차를 먹는 게 굉장히 아깝게 느껴짐. 하기사 우리나라 호텔 애프터눈티란 것들도 많은 수가 포트에 티백 담아주면서 리필은 끓인 물이나 더 주는 정도니... https://t.co/lSdasKNUwL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lSdasKNUwL",
+					"expanded_url": "https://twitter.com/TiA_teatime/status/1357603795077722112",
+					"display_url": "twitter.com/TiA_teatime/st…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1357603795077722000,
+		"quoted_status_id_str": "1357603795077722112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lSdasKNUwL",
+			"expanded": "https://twitter.com/TiA_teatime/status/1357603795077722112",
+			"display": "twitter.com/TiA_teatime/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 05 08:15:42 +0000 2021",
+			"id": 1357603795077722000,
+			"id_str": "1357603795077722112",
+			"full_text": "에버티가 굵직하게 한마디 때려주네 (ㅋㅋ) 진짜 티백하나 담궈주고 5천원씩 받는건 커피전문점에서 아메리카노 시켰는데 카누 한봉 타주고 5천원 받는거랑 다를바가 없는데 😞 https://t.co/5IILAOFdTF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1357603791055409200,
+						"id_str": "1357603791055409154",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EtctdH-U0AIIf0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtctdH-U0AIIf0j.jpg",
+						"url": "https://t.co/5IILAOFdTF",
+						"display_url": "pic.twitter.com/5IILAOFdTF",
+						"expanded_url": "https://twitter.com/TiA_teatime/status/1357603795077722112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 560,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 599,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1357603791055409200,
+						"id_str": "1357603791055409154",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/EtctdH-U0AIIf0j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtctdH-U0AIIf0j.jpg",
+						"url": "https://t.co/5IILAOFdTF",
+						"display_url": "pic.twitter.com/5IILAOFdTF",
+						"expanded_url": "https://twitter.com/TiA_teatime/status/1357603795077722112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 560,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1284,
+								"h": 599,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1054632609643282400,
+				"id_str": "1054632609643282432",
+				"name": "тια @얼그레이젤리곰",
+				"screen_name": "TiA_teatime",
+				"location": "얼그레이 좋아하는 거대곰🐻",
+				"description": "차(茶)계 + 약간의 일상",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 699,
+				"friends_count": 56,
+				"listed_count": 7,
+				"created_at": "Tue Oct 23 07:16:23 +0000 2018",
+				"favourites_count": 1488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067802264419557377/V9ah5afr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067802264419557377/V9ah5afr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1054632609643282432/1599417884",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 623,
+			"favorite_count": 241,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 레알...커피를 안 먹다보니 카페가서도 차를 먼저 보게 되는데 대다수가 이러므로 밖에서 차를 먹는 게 굉장히 아깝게 느껴짐. 하기사 우리나라 호텔 애프터눈티란 것들도 많은 수가 포트에 티백 담아주면서 리필은 끓인 물이나 더 주는 정도니... https://t.co/lSdasKNUwL"
+	},
+	{
 		"created_at": "Sat Apr 03 11:44:05 +0000 2021",
 		"id": 1378312342899814400,
 		"id_str": "1378312342899814409",
