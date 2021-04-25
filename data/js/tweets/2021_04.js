@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 15:18:18 +0000 2021",
+		"id": 1386338788624920600,
+		"id_str": "1386338788624920578",
+		"full_text": "몽강 꿈꾼 설몽 상태 https://t.co/4qWW8jdpFV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386338785940500500,
+					"id_str": "1386338785940500481",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez1Dx9pUcAEnG7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez1Dx9pUcAEnG7B.jpg",
+					"url": "https://t.co/4qWW8jdpFV",
+					"display_url": "pic.twitter.com/4qWW8jdpFV",
+					"expanded_url": "https://twitter.com/celebaduial/status/1386338788624920578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 840,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386338785940500500,
+					"id_str": "1386338785940500481",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez1Dx9pUcAEnG7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez1Dx9pUcAEnG7B.jpg",
+					"url": "https://t.co/4qWW8jdpFV",
+					"display_url": "pic.twitter.com/4qWW8jdpFV",
+					"expanded_url": "https://twitter.com/celebaduial/status/1386338788624920578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 840,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몽강 꿈꾼 설몽 상태 https://t.co/4qWW8jdpFV"
+	},
+	{
+		"created_at": "Sun Apr 25 13:43:19 +0000 2021",
+		"id": 1386314883612897300,
+		"id_str": "1386314883612897288",
+		"full_text": "@la__fiamma ㅋㅋㅋㅋㅋ수련밖에 모른다더니 말만 요란했던 거냐, 어찌 정기가 이리 흐트러져서 왔냐 하는 강미인의 설교에 한순간이나마 넋놓고 쳐다봤던 자기가 미쳤다고 생각하는 설몽이겠지요ㅋㅋ아 남이사! 결혼은 무슨! 하고 소리 빽 질렀다가 속으로 적당한 처자의 조건 생각하던 강미인의 눈총받기...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386313079089098800,
+		"in_reply_to_status_id_str": "1386313079089098756",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma ㅋㅋㅋㅋㅋ수련밖에 모른다더니 말만 요란했던 거냐, 어찌 정기가 이리 흐트러져서 왔냐 하는 강미인의 설교에 한순간이나마 넋놓고 쳐다봤던 자기가 미쳤다고 생각하는 설몽이겠지요ㅋㅋ아 남이사! 결혼은 무슨! 하고 소리 빽 질렀다가 속으로 적당한 처자의 조건 생각하던 강미인의 눈총받기..."
+	},
+	{
+		"created_at": "Sun Apr 25 13:31:31 +0000 2021",
+		"id": 1386311913240289300,
+		"id_str": "1386311913240289285",
+		"full_text": "@la__fiamma 그동안은 수련에 매진해서 욕구불만 같은 것도 없었는데 꿈과 색정조롱박 이후로 이상해진 설몽인가요🤭자꾸 젖는 속옷 때문에 매일 아침 빡쳐서 일어나는 설몽ㅋㅋㅋ몸 이상해진 줄 알고 고월야에 진료받으러 가기&lt;",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386310758594617300,
+		"in_reply_to_status_id_str": "1386310758594617347",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 그동안은 수련에 매진해서 욕구불만 같은 것도 없었는데 꿈과 색정조롱박 이후로 이상해진 설몽인가요🤭자꾸 젖는 속옷 때문에 매일 아침 빡쳐서 일어나는 설몽ㅋㅋㅋ몸 이상해진 줄 알고 고월야에 진료받으러 가기&lt;"
+	},
+	{
+		"created_at": "Sun Apr 25 13:10:35 +0000 2021",
+		"id": 1386306646121468000,
+		"id_str": "1386306646121467904",
+		"full_text": "@la__fiamma 제자들이 존주 어쩌다 실패하셨어요!?하는데 얼굴 시뻘개져서 비틀대며 나오는 설몽인가요ㅋㅋㅋ존주처럼 정결하신 분이 어쩌다! 대체 누구를 보았길래! 하고제자들이 와글와글하는데 강미인이 침상에 길복입고 곱게 앉아있었다고 절대 말할 수 없는 설몽😂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "돈많은강여사안무서운부계정",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386303898525175800,
+		"in_reply_to_status_id_str": "1386303898525175810",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@la__fiamma 제자들이 존주 어쩌다 실패하셨어요!?하는데 얼굴 시뻘개져서 비틀대며 나오는 설몽인가요ㅋㅋㅋ존주처럼 정결하신 분이 어쩌다! 대체 누구를 보았길래! 하고제자들이 와글와글하는데 강미인이 침상에 길복입고 곱게 앉아있었다고 절대 말할 수 없는 설몽😂"
+	},
+	{
+		"created_at": "Sun Apr 25 12:14:30 +0000 2021",
+		"id": 1386292531390861300,
+		"id_str": "1386292531390861315",
+		"full_text": "고월야 그 사람의 흐트러진 얼굴. 설몽 바로 으와아 시이발! 하며 당장 꿈에서 깰 것 같음()\n몽강...어떻게 하면 이루어진단 말인가...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386292399102587000,
+		"in_reply_to_status_id_str": "1386292399102586886",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "고월야 그 사람의 흐트러진 얼굴. 설몽 바로 으와아 시이발! 하며 당장 꿈에서 깰 것 같음()\n몽강...어떻게 하면 이루어진단 말인가..."
+	},
+	{
+		"created_at": "Sun Apr 25 12:13:58 +0000 2021",
+		"id": 1386292399102587000,
+		"id_str": "1386292399102586886",
+		"full_text": "그런데 뭔가 기분은 엄청 좋고 어렴풋이 보이는 상대방도 느낌으로는 굉장히 미인인 것 같은 거지. 몽중인데도 짜릿한 그 감각에 마구 움직이는데 강하게 쳐올릴수록 흐릿했던 상대의 모습이 선명해져감. 누군지 확인하고 싶지만 알고싶지 않은 이중적인 감정 속에 계속 허릿짓을 했는데 나타난 건",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1386292340097052700,
+		"in_reply_to_status_id_str": "1386292340097052677",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그런데 뭔가 기분은 엄청 좋고 어렴풋이 보이는 상대방도 느낌으로는 굉장히 미인인 것 같은 거지. 몽중인데도 짜릿한 그 감각에 마구 움직이는데 강하게 쳐올릴수록 흐릿했던 상대의 모습이 선명해져감. 누군지 확인하고 싶지만 알고싶지 않은 이중적인 감정 속에 계속 허릿짓을 했는데 나타난 건"
+	},
+	{
+		"created_at": "Sun Apr 25 12:13:44 +0000 2021",
+		"id": 1386292340097052700,
+		"id_str": "1386292340097052677",
+		"full_text": "어제 싯님과 몽강 얘기했더니 더욱 깊어진 몽강에 대한 열망...그런 의미에서 야한 꿈꿨는데 거기에 큰공작 나오는 설몽 보고 싶다. 꿈 속에서 누군지 모를 상대랑 함뜨중이어서 꿈인데도 내가 이렇게 파렴치한 짓을 하고있다니! 싶은 설몽. 거기다 상대가 남자인 느낌이라 더 경악스러운 거임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 싯님과 몽강 얘기했더니 더욱 깊어진 몽강에 대한 열망...그런 의미에서 야한 꿈꿨는데 거기에 큰공작 나오는 설몽 보고 싶다. 꿈 속에서 누군지 모를 상대랑 함뜨중이어서 꿈인데도 내가 이렇게 파렴치한 짓을 하고있다니! 싶은 설몽. 거기다 상대가 남자인 느낌이라 더 경악스러운 거임."
+	},
+	{
 		"created_at": "Sat Apr 24 16:47:12 +0000 2021",
 		"id": 1385998773449461800,
 		"id_str": "1385998773449461763",
