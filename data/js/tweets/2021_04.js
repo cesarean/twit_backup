@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 27 18:18:06 +0000 2021",
+		"id": 1387108812063056000,
+		"id_str": "1387108812063055873",
+		"full_text": "붉은 모로코 스타일 드레스...! 페아노르한테 너무 잘 어울릴듯😆 https://t.co/Xa9fBExlCZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1387108806904062000,
+					"id_str": "1387108806904061952",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E0AAHFRVIAAmXjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0AAHFRVIAAmXjQ.jpg",
+					"url": "https://t.co/Xa9fBExlCZ",
+					"display_url": "pic.twitter.com/Xa9fBExlCZ",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387108812063055873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 869,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387108806904062000,
+					"id_str": "1387108806904061952",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E0AAHFRVIAAmXjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0AAHFRVIAAmXjQ.jpg",
+					"url": "https://t.co/Xa9fBExlCZ",
+					"display_url": "pic.twitter.com/Xa9fBExlCZ",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387108812063055873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 869,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1387108809718468600,
+					"id_str": "1387108809718468609",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E0AAHPwVkAEIsQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0AAHPwVkAEIsQs.jpg",
+					"url": "https://t.co/Xa9fBExlCZ",
+					"display_url": "pic.twitter.com/Xa9fBExlCZ",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387108812063055873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1387101273552420900,
+		"in_reply_to_status_id_str": "1387101273552420864",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "붉은 모로코 스타일 드레스...! 페아노르한테 너무 잘 어울릴듯😆 https://t.co/Xa9fBExlCZ"
+	},
+	{
+		"created_at": "Tue Apr 27 17:48:09 +0000 2021",
+		"id": 1387101273552420900,
+		"id_str": "1387101273552420864",
+		"full_text": "나는 항상 놀도르들 주택 양식이 모로코 스타일같았음 좋겠다고 생각했는데 의복도 모로코의 카프탄 스타일 비슷하면 좋을 것 같음. 이 색깔, 자수,장식 모두 페아노르가 이런 스타일 로브를 입는다고 생각하면...! https://t.co/zQ8lUygEVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1387101262387159000,
+					"id_str": "1387101262387159042",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_5P7wVIAID2yh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_5P7wVIAID2yh.jpg",
+					"url": "https://t.co/zQ8lUygEVP",
+					"display_url": "pic.twitter.com/zQ8lUygEVP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387101273552420864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387101262387159000,
+					"id_str": "1387101262387159042",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_5P7wVIAID2yh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_5P7wVIAID2yh.jpg",
+					"url": "https://t.co/zQ8lUygEVP",
+					"display_url": "pic.twitter.com/zQ8lUygEVP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387101273552420864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1387101265096708000,
+					"id_str": "1387101265096708096",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_5QF2VkAABkFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_5QF2VkAABkFv.jpg",
+					"url": "https://t.co/zQ8lUygEVP",
+					"display_url": "pic.twitter.com/zQ8lUygEVP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387101273552420864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 549,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 311,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1387101268041101300,
+					"id_str": "1387101268041101315",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_5QQ0VcAMeonL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_5QQ0VcAMeonL.jpg",
+					"url": "https://t.co/zQ8lUygEVP",
+					"display_url": "pic.twitter.com/zQ8lUygEVP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387101273552420864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1387101271207776300,
+					"id_str": "1387101271207776256",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez_5QcnVEAARQxs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez_5QcnVEAARQxs.jpg",
+					"url": "https://t.co/zQ8lUygEVP",
+					"display_url": "pic.twitter.com/zQ8lUygEVP",
+					"expanded_url": "https://twitter.com/celebaduial/status/1387101273552420864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 919,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 항상 놀도르들 주택 양식이 모로코 스타일같았음 좋겠다고 생각했는데 의복도 모로코의 카프탄 스타일 비슷하면 좋을 것 같음. 이 색깔, 자수,장식 모두 페아노르가 이런 스타일 로브를 입는다고 생각하면...! https://t.co/zQ8lUygEVP"
+	},
+	{
+		"created_at": "Tue Apr 27 17:28:07 +0000 2021",
+		"id": 1387096234301612000,
+		"id_str": "1387096234301612036",
+		"full_text": "묵연 좀 감동했다가 이내 짖궂게 그럼..거기가 작았으면요..?하고 씩 웃을 듯. 근데 이제까지 다 시원시원하게 답했던 만녕이 순간 정지돼서 어.....한다거나🤭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1387096198243180500,
+		"in_reply_to_status_id_str": "1387096198243180544",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안 위주/(얼하·호의행)묵연만녕·페이윈⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 22,
+			"friends_count": 54,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 5727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366650939571019777/QKdVJxOM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "묵연 좀 감동했다가 이내 짖궂게 그럼..거기가 작았으면요..?하고 씩 웃을 듯. 근데 이제까지 다 시원시원하게 답했던 만녕이 순간 정지돼서 어.....한다거나🤭"
+	},
+	{
 		"created_at": "Tue Apr 27 16:56:57 +0000 2021",
 		"id": 1387088388579160000,
 		"id_str": "1387088388579160065",
