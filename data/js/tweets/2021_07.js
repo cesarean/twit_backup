@@ -1,6 +1,108 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 12:22:44 +0000 2021",
+		"id": 1416730871613182000,
+		"id_str": "1416735185421275147",
+		"full_text": "이합화타적백묘사존 제 294장 만화\n광풍취고당(@ maotuanxjj)님의 번역 및 복제=공개 승인으로 번역 작업을 한 만화입니다. 표기 오류로 재업.\n🔞🔞🔞🔞\n후원 절대 금지\n#2ha\nhttps://t.co/43PsTOHfGH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2ha",
+					"indices": [
+						99,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/43PsTOHfGH",
+					"expanded_url": "https://byeolsol.postype.com/post/10314832",
+					"display_url": "byeolsol.postype.com/post/10314832",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4713527960,
+			"id_str": "4713527960",
+			"name": "🦋🌸별솔🌸🦋",
+			"screen_name": "Byeol_Sol_134",
+			"location": "보제마을",
+			"description": "20⬆️ | 천관사복 | 마도조사  | 2ha  | 사반 | ((((모두 완독 | 공컾깨 차단 | ❤많이 눌러요 | 부끄러운 글은 종종 삭제...\n프로필 : 모래님❣❣",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 440,
+			"listed_count": 4,
+			"created_at": "Tue Jan 05 12:23:17 +0000 2016",
+			"favourites_count": 8205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405549921185374208/1Q_SKtXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405549921185374208/1Q_SKtXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4713527960/1624628011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 49,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이합화타적백묘사존 제 294장 만화\n광풍취고당(@ maotuanxjj)님의 번역 및 복제=공개 승인으로 번역 작업을 한 만화입니다. 표기 오류로 재업.\n🔞🔞🔞🔞\n후원 절대 금지\n#2ha\nhttps://t.co/43PsTOHfGH"
+	},
+	{
 		"created_at": "Sat Jul 17 14:35:14 +0000 2021",
 		"id": 1416406144189300700,
 		"id_str": "1416406144189300736",
