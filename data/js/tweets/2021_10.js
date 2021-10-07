@@ -1,6 +1,1224 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 17:15:51 +0000 2021",
+		"id": 1446162366459101200,
+		"id_str": "1446162366459101185",
+		"full_text": "@la__fiamma 😆",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "la__fiamma",
+					"name": "저는 행복합니다 관객이라 행복",
+					"id": 1011371544,
+					"id_str": "1011371544",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446161726555103200,
+		"in_reply_to_status_id_str": "1446161726555103239",
+		"in_reply_to_user_id": 1011371544,
+		"in_reply_to_user_id_str": "1011371544",
+		"in_reply_to_screen_name": "la__fiamma",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@la__fiamma 😆"
+	},
+	{
+		"created_at": "Thu Oct 07 17:12:56 +0000 2021",
+		"id": 1446161635597426700,
+		"id_str": "1446161635597426691",
+		"full_text": "언젠가는 위칭이 다정하게 사귀는 모습을 보길 바라며..향후 캐해가 달라지더라도 지금은 나만의 길을 간다()",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446160893851562000,
+		"in_reply_to_status_id_str": "1446160893851561984",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "언젠가는 위칭이 다정하게 사귀는 모습을 보길 바라며..향후 캐해가 달라지더라도 지금은 나만의 길을 간다()"
+	},
+	{
+		"created_at": "Thu Oct 07 17:10:00 +0000 2021",
+		"id": 1446160893851562000,
+		"id_str": "1446160893851561984",
+		"full_text": "연성의 주 무대인 호텔의 모델은 반얀트리 상하이 온더 번드로 스위트룸? 욕실 모습은 이런 듯 하다 https://t.co/GyiwOu4wLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446160890521264000,
+					"id_str": "1446160890521264128",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FBHLqveVIAADnlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBHLqveVIAADnlv.jpg",
+					"url": "https://t.co/GyiwOu4wLA",
+					"display_url": "pic.twitter.com/GyiwOu4wLA",
+					"expanded_url": "https://twitter.com/celebaduial/status/1446160893851561984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1073,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446160890521264000,
+					"id_str": "1446160890521264128",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FBHLqveVIAADnlv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBHLqveVIAADnlv.jpg",
+					"url": "https://t.co/GyiwOu4wLA",
+					"display_url": "pic.twitter.com/GyiwOu4wLA",
+					"expanded_url": "https://twitter.com/celebaduial/status/1446160893851561984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1073,
+							"h": 734,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1073,
+							"h": 734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446159866213515300,
+		"in_reply_to_status_id_str": "1446159866213515264",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연성의 주 무대인 호텔의 모델은 반얀트리 상하이 온더 번드로 스위트룸? 욕실 모습은 이런 듯 하다 https://t.co/GyiwOu4wLA"
+	},
+	{
+		"created_at": "Thu Oct 07 17:05:55 +0000 2021",
+		"id": 1446159866213515300,
+		"id_str": "1446159866213515264",
+		"full_text": "개장!\n느닷없는 포타의 개장, 이유는 터무니없다. 병안본이 너무 좋고 호의행은 안 나오기 때문이다\nhttps://t.co/D0H1JfhWiL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D0H1JfhWiL",
+					"expanded_url": "https://posty.pe/9lao7k",
+					"display_url": "posty.pe/9lao7k",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개장!\n느닷없는 포타의 개장, 이유는 터무니없다. 병안본이 너무 좋고 호의행은 안 나오기 때문이다\nhttps://t.co/D0H1JfhWiL"
+	},
+	{
+		"created_at": "Thu Oct 07 15:47:25 +0000 2021",
+		"id": 1446140110806737000,
+		"id_str": "1446140110806736903",
+		"full_text": "연하남들아 이럴 때 믿음직스럽게 기대게 해줘야지!(진강포인트를 충전하며",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446138980769026000,
+		"in_reply_to_status_id_str": "1446138980769026055",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "연하남들아 이럴 때 믿음직스럽게 기대게 해줘야지!(진강포인트를 충전하며"
+	},
+	{
+		"created_at": "Thu Oct 07 15:42:55 +0000 2021",
+		"id": 1446138980769026000,
+		"id_str": "1446138980769026055",
+		"full_text": "아무한테도 힘든 거 안 내보이는 사람이라 그렇지 지금 엄청 지쳤을 거 같은데..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446135324711686100,
+		"in_reply_to_status_id_str": "1446135324711686155",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아무한테도 힘든 거 안 내보이는 사람이라 그렇지 지금 엄청 지쳤을 거 같은데.."
+	},
+	{
+		"created_at": "Thu Oct 07 15:28:23 +0000 2021",
+		"id": 1446135324711686100,
+		"id_str": "1446135324711686155",
+		"full_text": "허위가 결국 모른 척 못 하고 계속 지켜보는 것 같은데 휴..셰칭청네 집 테러가 생각보다 심각한 건 아니었지만 앞으로 어찌될지...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446135122114211800,
+		"in_reply_to_status_id_str": "1446135122114211849",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "허위가 결국 모른 척 못 하고 계속 지켜보는 것 같은데 휴..셰칭청네 집 테러가 생각보다 심각한 건 아니었지만 앞으로 어찌될지..."
+	},
+	{
+		"created_at": "Thu Oct 07 15:27:35 +0000 2021",
+		"id": 1446135122114211800,
+		"id_str": "1446135122114211849",
+		"full_text": "그리고 쳔만은 좀더 적극적으로 셰형을 보호한다고 해도 되지 않을까?ㅠㅠ 한 걸음 더 나가도 되지 않을까...?😭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446134928542822400,
+		"in_reply_to_status_id_str": "1446134928542822416",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그리고 쳔만은 좀더 적극적으로 셰형을 보호한다고 해도 되지 않을까?ㅠㅠ 한 걸음 더 나가도 되지 않을까...?😭"
+	},
+	{
+		"created_at": "Thu Oct 07 15:26:49 +0000 2021",
+		"id": 1446134928542822400,
+		"id_str": "1446134928542822416",
+		"full_text": "오늘자 병안본...셰칭청 넘 힘들어보여..그 폭파 사태 겪고 허위랑 대판하고 강제로 당하기까지 했는데 집에 사람들까지 몰려들고..인간이 이걸 연속으로 버틸 수 있는거냐ㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘자 병안본...셰칭청 넘 힘들어보여..그 폭파 사태 겪고 허위랑 대판하고 강제로 당하기까지 했는데 집에 사람들까지 몰려들고..인간이 이걸 연속으로 버틸 수 있는거냐ㅠㅠㅠ"
+	},
+	{
+		"created_at": "Thu Oct 07 07:15:15 +0000 2021",
+		"id": 1446011223678460000,
+		"id_str": "1446011223678459909",
+		"full_text": "커플 문신 뭔데 진짜ㅋㅋㅋㅋ큐ㅠㅠㅠ 얼마나 좋으면 바로 문신을...하 이러니 셰칭청이 계약 운운하면서 떠날 때 배신감 오지게 느꼈지ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1446010808450748400,
+		"in_reply_to_status_id_str": "1446010808450748421",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "커플 문신 뭔데 진짜ㅋㅋㅋㅋ큐ㅠㅠㅠ 얼마나 좋으면 바로 문신을...하 이러니 셰칭청이 계약 운운하면서 떠날 때 배신감 오지게 느꼈지ㅠㅠ"
+	},
+	{
+		"created_at": "Thu Oct 07 07:13:36 +0000 2021",
+		"id": 1446010808450748400,
+		"id_str": "1446010808450748421",
+		"full_text": "병안본 57화: 어린 허위 진짜 셰칭청 좋아했구나ㅠㅠ\n\"당신 하나도 안 잘생겼고, 하나도 멋있지 않거든요. 당신 취향도 하나도 안 좋아하고\"&lt;&lt;당신 진짜 잘 생겼고 엄청 멋있고 취향도 너무 좋아요 이 소리 아니냐ㅠㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 23,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410615171525931014/7e5xg_Gh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "병안본 57화: 어린 허위 진짜 셰칭청 좋아했구나ㅠㅠ\n\"당신 하나도 안 잘생겼고, 하나도 멋있지 않거든요. 당신 취향도 하나도 안 좋아하고\"&lt;&lt;당신 진짜 잘 생겼고 엄청 멋있고 취향도 너무 좋아요 이 소리 아니냐ㅠㅠㅠㅠ"
+	},
+	{
+		"created_at": "Thu Oct 07 07:04:10 +0000 2021",
+		"id": 1446008230245638100,
+		"id_str": "1446008430947287042",
+		"full_text": "병안본 57화 번역\n\nPercy Bysshe Shelley (1792~1822, 영국)\n\nhttps://t.co/2LI96xB60V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2LI96xB60V",
+					"expanded_url": "https://dayrhyme.tistory.com/91",
+					"display_url": "dayrhyme.tistory.com/91",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445595066815291400,
+		"in_reply_to_status_id_str": "1445595066815291409",
+		"in_reply_to_user_id": 128148364,
+		"in_reply_to_user_id_str": "128148364",
+		"in_reply_to_screen_name": "dayrhyme",
+		"user": {
+			"id": 128148364,
+			"id_str": "128148364",
+			"name": "레몬レモン",
+			"screen_name": "dayrhyme",
+			"location": "",
+			"description": "20⬆️/장르팔로 비추/Korean, 日本語 only",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7283,
+			"friends_count": 238,
+			"listed_count": 41,
+			"created_at": "Wed Mar 31 07:04:40 +0000 2010",
+			"favourites_count": 9922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128148364/1624726472",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병안본 57화 번역\n\nPercy Bysshe Shelley (1792~1822, 영국)\n\nhttps://t.co/2LI96xB60V"
+	},
+	{
 		"created_at": "Wed Oct 06 16:38:41 +0000 2021",
 		"id": 1445790625937313800,
 		"id_str": "1445790625937313801",
