@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 13:03:16 +0000 2021",
+		"id": 1474364731976974300,
+		"id_str": "1474365056641286144",
+		"full_text": "병안본 128~129화 업데이트\n메리 크리스마스! \n\nhttps://t.co/qde8BKfchl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qde8BKfchl",
+					"expanded_url": "https://dayrhyme.tistory.com/179",
+					"display_url": "dayrhyme.tistory.com/179",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1473977969144402000,
+		"in_reply_to_status_id_str": "1473977969144401922",
+		"in_reply_to_user_id": 128148364,
+		"in_reply_to_user_id_str": "128148364",
+		"in_reply_to_screen_name": "dayrhyme",
+		"user": {
+			"id": 128148364,
+			"id_str": "128148364",
+			"name": "레몬レモン",
+			"screen_name": "dayrhyme",
+			"location": "",
+			"description": "20⬆️/장르팔로 비추/Korean, 日本語 only/https://t.co/KLuicQqfzw",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KLuicQqfzw",
+							"expanded_url": "https://peing.net/ko/dayrhyme",
+							"display_url": "peing.net/ko/dayrhyme",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7354,
+			"friends_count": 232,
+			"listed_count": 47,
+			"created_at": "Wed Mar 31 07:04:40 +0000 2010",
+			"favourites_count": 10080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128148364/1624726472",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병안본 128~129화 업데이트\n메리 크리스마스! \n\nhttps://t.co/qde8BKfchl"
+	},
+	{
 		"created_at": "Thu Dec 23 11:29:21 +0000 2021",
 		"id": 1473977969144402000,
 		"id_str": "1473979032102268928",
