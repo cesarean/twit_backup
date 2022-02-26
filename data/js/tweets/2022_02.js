@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 13:40:43 +0000 2022",
+		"id": 1497566909747064800,
+		"id_str": "1497567304598503424",
+		"full_text": "병안본 198화 업데이트\n199화는 작업중~\n\nhttps://t.co/ipHZpAdrVk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ipHZpAdrVk",
+					"expanded_url": "https://dayrhyme.tistory.com/252",
+					"display_url": "dayrhyme.tistory.com/252",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1497196634035617800,
+		"in_reply_to_status_id_str": "1497196634035617796",
+		"in_reply_to_user_id": 128148364,
+		"in_reply_to_user_id_str": "128148364",
+		"in_reply_to_screen_name": "dayrhyme",
+		"user": {
+			"id": 128148364,
+			"id_str": "128148364",
+			"name": "레몬レモン@DREAM BREAKER",
+			"screen_name": "dayrhyme",
+			"location": "",
+			"description": "20⬆️/장르팔로 비추/Korean, 日本語 only/https://t.co/KLuicQIoNE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KLuicQIoNE",
+							"expanded_url": "https://peing.net/ko/dayrhyme",
+							"display_url": "peing.net/ko/dayrhyme",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7330,
+			"friends_count": 227,
+			"listed_count": 48,
+			"created_at": "Wed Mar 31 07:04:40 +0000 2010",
+			"favourites_count": 10188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128148364/1624726472",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병안본 198화 업데이트\n199화는 작업중~\n\nhttps://t.co/ipHZpAdrVk"
+	},
+	{
+		"created_at": "Sat Feb 26 12:50:31 +0000 2022",
+		"id": 1497554669953978400,
+		"id_str": "1497554669953978368",
+		"full_text": "병안본 셰칭청 나중에 크게 상심한 얼굴로, 계속 빈정대는 허위에게 너도 셰리션이랑 자지 않았냐고, 매일 그를 안지 않았냐고 따지는 거 보고싶다. 허위 완전 인상 구기면서 무슨 거지같은 헛소리냐고 한다거나()",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 24,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483087262296330240/2HZQEz6e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483087262296330240/2HZQEz6e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "병안본 셰칭청 나중에 크게 상심한 얼굴로, 계속 빈정대는 허위에게 너도 셰리션이랑 자지 않았냐고, 매일 그를 안지 않았냐고 따지는 거 보고싶다. 허위 완전 인상 구기면서 무슨 거지같은 헛소리냐고 한다거나()"
+	},
+	{
+		"created_at": "Sat Feb 26 12:31:07 +0000 2022",
+		"id": 1497549790120267800,
+		"id_str": "1497549790120267776",
+		"full_text": "조카로는 부족하지 않냐고, 진짜 당신 자식을 갖게 해주겠다며 밀어붙이는 허위 보고싶네. 쳔만놈 애를 먼저 배게 둘 수는 없다고 미친 소리해가며&lt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1497549509752017000,
+		"in_reply_to_status_id_str": "1497549509752016903",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 24,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483087262296330240/2HZQEz6e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483087262296330240/2HZQEz6e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "조카로는 부족하지 않냐고, 진짜 당신 자식을 갖게 해주겠다며 밀어붙이는 허위 보고싶네. 쳔만놈 애를 먼저 배게 둘 수는 없다고 미친 소리해가며&lt;"
+	},
+	{
+		"created_at": "Sat Feb 26 12:30:00 +0000 2022",
+		"id": 1497549509752017000,
+		"id_str": "1497549509752016903",
+		"full_text": "셰칭청도 티는 안 내지만 안토니 때문에 신경쓰이는 거 같은데 하 너무 좋다고...위칭 둘 다 서로 오해할만한 상황 한 번 나와주면 좋겠네😆",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1497549150971252700,
+		"in_reply_to_status_id_str": "1497549150971252738",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 24,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483087262296330240/2HZQEz6e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483087262296330240/2HZQEz6e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "셰칭청도 티는 안 내지만 안토니 때문에 신경쓰이는 거 같은데 하 너무 좋다고...위칭 둘 다 서로 오해할만한 상황 한 번 나와주면 좋겠네😆"
+	},
+	{
 		"created_at": "Fri Feb 25 14:04:23 +0000 2022",
 		"id": 1497210871600140300,
 		"id_str": "1497210871600140293",
