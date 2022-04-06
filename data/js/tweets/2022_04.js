@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 12:04:49 +0000 2022",
+		"id": 1511617687968882700,
+		"id_str": "1511676295490392067",
+		"full_text": "병안본 238화\n&lt;죄수실 안에서&gt;\n\nhttps://t.co/1PS8z5J3xb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1PS8z5J3xb",
+					"expanded_url": "https://dayrhyme.tistory.com/294",
+					"display_url": "dayrhyme.tistory.com/294",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1511029656249507800,
+		"in_reply_to_status_id_str": "1511029656249507846",
+		"in_reply_to_user_id": 128148364,
+		"in_reply_to_user_id_str": "128148364",
+		"in_reply_to_screen_name": "dayrhyme",
+		"user": {
+			"id": 128148364,
+			"id_str": "128148364",
+			"name": "레몬レモン@DREAM BREAKER",
+			"screen_name": "dayrhyme",
+			"location": "",
+			"description": "20⬆️/장르팔로 비추/Korean, 日本語 only/https://t.co/KLuicQIoNE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KLuicQIoNE",
+							"expanded_url": "https://peing.net/ko/dayrhyme",
+							"display_url": "peing.net/ko/dayrhyme",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7346,
+			"friends_count": 216,
+			"listed_count": 48,
+			"created_at": "Wed Mar 31 07:04:40 +0000 2010",
+			"favourites_count": 10187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445768289473339401/Vncny1Rc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128148364/1624726472",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "병안본 238화\n&lt;죄수실 안에서&gt;\n\nhttps://t.co/1PS8z5J3xb"
+	},
+	{
 		"created_at": "Tue Apr 05 13:48:45 +0000 2022",
 		"id": 1511340064756084700,
 		"id_str": "1511340064756084737",
