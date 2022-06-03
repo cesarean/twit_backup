@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 14:25:47 +0000 2022",
+		"id": 1532730267353243600,
+		"id_str": "1532730267353243648",
+		"full_text": "@wanningAa 책주 둘이 사이좋은 건 좋은데..좋은데..! 좀만 더 보여줘! 19금이잖아! 했다는거야 뭐야!!&lt;&lt;\n저도 이러면서 봤네요ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wanningAa",
+					"name": "취급주의 전자제품",
+					"id": 1440017034641698800,
+					"id_str": "1440017034641698817",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1532729993016406000,
+		"in_reply_to_status_id_str": "1532729993016406016",
+		"in_reply_to_user_id": 1440017034641698800,
+		"in_reply_to_user_id_str": "1440017034641698817",
+		"in_reply_to_screen_name": "wanningAa",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@wanningAa 책주 둘이 사이좋은 건 좋은데..좋은데..! 좀만 더 보여줘! 19금이잖아! 했다는거야 뭐야!!&lt;&lt;\n저도 이러면서 봤네요ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Fri Jun 03 14:23:42 +0000 2022",
+		"id": 1532729743933440000,
+		"id_str": "1532729743933440003",
+		"full_text": "@wanningAa 저랑 정확히 똑같은 느낌이신ㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wanningAa",
+					"name": "취급주의 전자제품",
+					"id": 1440017034641698800,
+					"id_str": "1440017034641698817",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1532728589749080000,
+		"in_reply_to_status_id_str": "1532728589749080064",
+		"in_reply_to_user_id": 1440017034641698800,
+		"in_reply_to_user_id_str": "1440017034641698817",
+		"in_reply_to_screen_name": "wanningAa",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@wanningAa 저랑 정확히 똑같은 느낌이신ㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Fri Jun 03 14:14:47 +0000 2022",
+		"id": 1532727501394280400,
+		"id_str": "1532727501394280449",
+		"full_text": "장진주 이번 신간 보면서 심택천이 뇌상명 홀리는 부분에서 솔직히 소치야가 난입했으면 좋겠다는 생각했었음ㅋㅋㅋ 자기의 란주한테 남이 눈길주는 거에 빡도는 소치야 보고싶다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "장진주 이번 신간 보면서 심택천이 뇌상명 홀리는 부분에서 솔직히 소치야가 난입했으면 좋겠다는 생각했었음ㅋㅋㅋ 자기의 란주한테 남이 눈길주는 거에 빡도는 소치야 보고싶다..."
+	},
+	{
+		"created_at": "Fri Jun 03 11:10:50 +0000 2022",
+		"id": 1532681208055746600,
+		"id_str": "1532681208055746560",
+		"full_text": "밑도 끝도 없이 보고싶은 핀골페아...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "밑도 끝도 없이 보고싶은 핀골페아..."
+	},
+	{
+		"created_at": "Fri Jun 03 08:56:05 +0000 2022",
+		"id": 1532647298898854000,
+		"id_str": "1532647298898853888",
+		"full_text": "19금 연성을 웹에 올리는거랑 실물로 뽑는 거랑  뭔가 느낌이 다르긴 하더라. 실물로 만들자니 갑자기 겸허해져서 뭔가 선뜻 추진을 못 한 ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "19금 연성을 웹에 올리는거랑 실물로 뽑는 거랑  뭔가 느낌이 다르긴 하더라. 실물로 만들자니 갑자기 겸허해져서 뭔가 선뜻 추진을 못 한 ㅋㅋㅋ"
+	},
+	{
 		"created_at": "Thu Jun 02 15:09:32 +0000 2022",
 		"id": 1532378889359503400,
 		"id_str": "1532378889359503360",
