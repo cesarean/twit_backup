@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 01:26:54 +0000 2022",
+		"id": 1548834559223283700,
+		"id_str": "1548841708644749313",
+		"full_text": "Colour &amp; Flair!\n\nThis Eastern rosella has been taking dramatic exit lessons from the male 365 Collins St. Peregrine falcon. \n\n#WildOz #OzBirds #WildMelbourne #easternrosella #dive https://t.co/7B0V1tj8lz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WildOz",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "OzBirds",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "WildMelbourne",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "easternrosella",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"text": "dive",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1548834523663958000,
+					"id_str": "1548834523663958017",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6Qyw7aAAEBtPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6Qyw7aAAEBtPr.jpg",
+					"url": "https://t.co/7B0V1tj8lz",
+					"display_url": "pic.twitter.com/7B0V1tj8lz",
+					"expanded_url": "https://twitter.com/GPMooreEsq/status/1548834559223283712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1857,
+							"h": 1486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548834523663958000,
+					"id_str": "1548834523663958017",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6Qyw7aAAEBtPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6Qyw7aAAEBtPr.jpg",
+					"url": "https://t.co/7B0V1tj8lz",
+					"display_url": "pic.twitter.com/7B0V1tj8lz",
+					"expanded_url": "https://twitter.com/GPMooreEsq/status/1548834559223283712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1857,
+							"h": 1486,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548834523663990800,
+					"id_str": "1548834523663990785",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6Qyw7agAE8Hbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6Qyw7agAE8Hbu.jpg",
+					"url": "https://t.co/7B0V1tj8lz",
+					"display_url": "pic.twitter.com/7B0V1tj8lz",
+					"expanded_url": "https://twitter.com/GPMooreEsq/status/1548834559223283712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 1637,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548834523663958000,
+					"id_str": "1548834523663958016",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6Qyw7aAAAZjKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6Qyw7aAAAZjKK.jpg",
+					"url": "https://t.co/7B0V1tj8lz",
+					"display_url": "pic.twitter.com/7B0V1tj8lz",
+					"expanded_url": "https://twitter.com/GPMooreEsq/status/1548834559223283712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1548834523663995000,
+					"id_str": "1548834523663994881",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6Qyw7akAE_yet.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6Qyw7akAE_yet.jpg",
+					"url": "https://t.co/7B0V1tj8lz",
+					"display_url": "pic.twitter.com/7B0V1tj8lz",
+					"expanded_url": "https://twitter.com/GPMooreEsq/status/1548834559223283712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1102449222,
+			"id_str": "1102449222",
+			"name": "GPMooreEsq",
+			"screen_name": "GPMooreEsq",
+			"location": "Wundering!",
+			"description": "Just an eejit with a camera. All images my own unless stated.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1601,
+			"friends_count": 1357,
+			"listed_count": 36,
+			"created_at": "Sat Jan 19 01:15:27 +0000 2013",
+			"favourites_count": 24475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510016656692576256/1SE3oHQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510016656692576256/1SE3oHQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1102449222/1648165714",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Colour &amp; Flair!\n\nThis Eastern rosella has been taking dramatic exit lessons from the male 365 Collins St. Peregrine falcon. \n\n#WildOz #OzBirds #WildMelbourne #easternrosella #dive https://t.co/7B0V1tj8lz"
+	},
+	{
 		"created_at": "Sun Jul 17 12:37:43 +0000 2022",
 		"id": 1548648137144692700,
 		"id_str": "1548648137144692737",
