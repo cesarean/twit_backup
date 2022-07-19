@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 12:55:09 +0000 2022",
+		"id": 1549372204328300500,
+		"id_str": "1549377303041302528",
+		"full_text": "Adelaide rosellas. Fighting. Old photos. This got really intense. https://t.co/oJZRhTaI1c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549371623383638000,
+					"id_str": "1549371623383638016",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB5SFTaIAAnADl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB5SFTaIAAnADl.jpg",
+					"url": "https://t.co/oJZRhTaI1c",
+					"display_url": "pic.twitter.com/oJZRhTaI1c",
+					"expanded_url": "https://twitter.com/SandyHorne61/status/1549372204328300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549371623383638000,
+					"id_str": "1549371623383638016",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB5SFTaIAAnADl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB5SFTaIAAnADl.jpg",
+					"url": "https://t.co/oJZRhTaI1c",
+					"display_url": "pic.twitter.com/oJZRhTaI1c",
+					"expanded_url": "https://twitter.com/SandyHorne61/status/1549372204328300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549371623295582200,
+					"id_str": "1549371623295582210",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB5SE-agAIvOs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB5SE-agAIvOs-.jpg",
+					"url": "https://t.co/oJZRhTaI1c",
+					"display_url": "pic.twitter.com/oJZRhTaI1c",
+					"expanded_url": "https://twitter.com/SandyHorne61/status/1549372204328300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549371623295565800,
+					"id_str": "1549371623295565827",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB5SE-aQAMvqsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB5SE-aQAMvqsA.jpg",
+					"url": "https://t.co/oJZRhTaI1c",
+					"display_url": "pic.twitter.com/oJZRhTaI1c",
+					"expanded_url": "https://twitter.com/SandyHorne61/status/1549372204328300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549371623291355100,
+					"id_str": "1549371623291355136",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FYB5SE9aAAAk0t_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYB5SE9aAAAk0t_.jpg",
+					"url": "https://t.co/oJZRhTaI1c",
+					"display_url": "pic.twitter.com/oJZRhTaI1c",
+					"expanded_url": "https://twitter.com/SandyHorne61/status/1549372204328300544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 818624980309004300,
+			"id_str": "818624980309004288",
+			"name": "Sandy Horne",
+			"screen_name": "SandyHorne61",
+			"location": "Adelaide, South Australia",
+			"description": "Birder. Amateur photographer. Mostly birds but other things at times. Feed cleansing one photo at a time. Project Officer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6732,
+			"friends_count": 2308,
+			"listed_count": 41,
+			"created_at": "Tue Jan 10 01:06:19 +0000 2017",
+			"favourites_count": 96607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509088840228966405/oXQspFgS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509088840228966405/oXQspFgS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/818624980309004288/1618727945",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adelaide rosellas. Fighting. Old photos. This got really intense. https://t.co/oJZRhTaI1c"
+	},
+	{
 		"created_at": "Mon Jul 18 01:26:54 +0000 2022",
 		"id": 1548834559223283700,
 		"id_str": "1548841708644749313",
