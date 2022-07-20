@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 07:04:40 +0000 2022",
+		"id": 1549643028356567000,
+		"id_str": "1549651487613079552",
+		"full_text": "Many thanks to the art collector for purchasing my Galah on the opening night at the Cossack Art Awards 💕 🙏🏼 #birdart #birdartist #birdtwitter #galah https://t.co/DqxYSvAkoi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "birdart",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "birdartist",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"text": "birdtwitter",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "galah",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549643020592906200,
+					"id_str": "1549643020592906240",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFwHesagAAfWtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFwHesagAAfWtf.jpg",
+					"url": "https://t.co/DqxYSvAkoi",
+					"display_url": "pic.twitter.com/DqxYSvAkoi",
+					"expanded_url": "https://twitter.com/MichelleDuj_/status/1549643028356567042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 922,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1574,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549643020592906200,
+					"id_str": "1549643020592906240",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFwHesagAAfWtf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFwHesagAAfWtf.jpg",
+					"url": "https://t.co/DqxYSvAkoi",
+					"display_url": "pic.twitter.com/DqxYSvAkoi",
+					"expanded_url": "https://twitter.com/MichelleDuj_/status/1549643028356567042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 922,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1574,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492218550,
+			"id_str": "492218550",
+			"name": "thebirdartistrunner",
+			"screen_name": "MichelleDuj_",
+			"location": "South West Australia ",
+			"description": "Runner & Bird Artist 🕊 Run coach @braziliangunner   🏃🏻‍♀️ 9x marathons, 4x Ultras, 21x 1/2 maras",
+			"url": "https://t.co/LJOVNYhOjp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LJOVNYhOjp",
+							"expanded_url": "http://michelledujmovic.com",
+							"display_url": "michelledujmovic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9059,
+			"friends_count": 4522,
+			"listed_count": 152,
+			"created_at": "Tue Feb 14 13:35:22 +0000 2012",
+			"favourites_count": 121335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3F494F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3093341436/2fcdbeb3a4a6c9800126d51278ef8824_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3093341436/2fcdbeb3a4a6c9800126d51278ef8824_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492218550/1652096165",
+			"profile_link_color": "76A4B3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Many thanks to the art collector for purchasing my Galah on the opening night at the Cossack Art Awards 💕 🙏🏼 #birdart #birdartist #birdtwitter #galah https://t.co/DqxYSvAkoi"
+	},
+	{
 		"created_at": "Tue Jul 19 12:55:09 +0000 2022",
 		"id": 1549372204328300500,
 		"id_str": "1549377303041302528",
