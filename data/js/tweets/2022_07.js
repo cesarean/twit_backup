@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 22:55:15 +0000 2022",
+		"id": 1549670083957469200,
+		"id_str": "1549890708370124802",
+		"full_text": "Picasso in action during our fieldwork. @julia_penndorf individually marked birds @RBGSydney with temporary paint to assess social interactions. Picasso has colours on back and tail feathers. Report your sightings using Big City Birds app 😉\n\nSome birds are bolder than others! https://t.co/X1xGKfFCVj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "julia_penndorf",
+					"name": "Julia Penndorf",
+					"id": 963845778845392900,
+					"id_str": "963845778845392897",
+					"indices": [
+						40,
+						55
+					]
+				},
+				{
+					"screen_name": "RBGSydney",
+					"name": "The Royal Botanic Garden Sydney",
+					"id": 96283324,
+					"id_str": "96283324",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549670077724631000,
+					"id_str": "1549670077724631040",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGIuaXUIAARqmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGIuaXUIAARqmc.jpg",
+					"url": "https://t.co/X1xGKfFCVj",
+					"display_url": "pic.twitter.com/X1xGKfFCVj",
+					"expanded_url": "https://twitter.com/BigCityBirds1/status/1549670083957469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1046,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549670077724631000,
+					"id_str": "1549670077724631040",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FYGIuaXUIAARqmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYGIuaXUIAARqmc.jpg",
+					"url": "https://t.co/X1xGKfFCVj",
+					"display_url": "pic.twitter.com/X1xGKfFCVj",
+					"expanded_url": "https://twitter.com/BigCityBirds1/status/1549670083957469184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1046,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 1762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1282888570374467600,
+			"id_str": "1282888570374467585",
+			"name": "@BigCityBirds",
+			"screen_name": "BigCityBirds1",
+			"location": "Australia",
+			"description": "Researching birds adapting to change. Report the behaviour of cockies, ibis, turkeys, & little & long-billed corellas. By @wingtags @LucyMAplin @DieterHochuli",
+			"url": "https://t.co/Q29dcoMbs2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q29dcoMbs2",
+							"expanded_url": "https://www.spotteron.com/bigcitybirds/info",
+							"display_url": "spotteron.com/bigcitybirds/i…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1410,
+			"friends_count": 364,
+			"listed_count": 22,
+			"created_at": "Tue Jul 14 04:05:18 +0000 2020",
+			"favourites_count": 1248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282944321864347648/T5OYM9Z0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282944321864347648/T5OYM9Z0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1282888570374467585/1594714489",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Picasso in action during our fieldwork. @julia_penndorf individually marked birds @RBGSydney with temporary paint to assess social interactions. Picasso has colours on back and tail feathers. Report your sightings using Big City Birds app 😉\n\nSome birds are bolder than others! https://t.co/X1xGKfFCVj"
+	},
+	{
 		"created_at": "Wed Jul 20 07:04:40 +0000 2022",
 		"id": 1549643028356567000,
 		"id_str": "1549651487613079552",
@@ -135,7 +331,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "thebirdartistrunner",
 			"screen_name": "MichelleDuj_",
 			"location": "South West Australia ",
-			"description": "Runner & Bird Artist 🕊 Run coach @braziliangunner   🏃🏻‍♀️ 9x marathons, 4x Ultras, 21x 1/2 maras",
+			"description": "Runner & Bird Artist 🕊 Run coach @braziliangunner   🏃🏻♀️ 9x marathons, 4x Ultras, 21x 1/2 maras",
 			"url": "https://t.co/LJOVNYhOjp",
 			"entities": {
 				"url": {
