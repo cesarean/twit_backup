@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 12:46:37 +0000 2022",
+		"id": 1550458156353917000,
+		"id_str": "1550462316738519041",
+		"full_text": "#BirdTwitter Sulphur-crested cockatoo (Cacatua sulphurea) at Rosebud #BoonWurrungCountry, Mornington Peninsula, 85km south of Melbourne, Australia #ownpic https://t.co/kf0Zq5IVQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BirdTwitter",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "BoonWurrungCountry",
+					"indices": [
+						69,
+						88
+					]
+				},
+				{
+					"text": "ownpic",
+					"indices": [
+						147,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550456928584605700,
+					"id_str": "1550456928584605696",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FYRUXKPUIAAiKFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYRUXKPUIAAiKFZ.jpg",
+					"url": "https://t.co/kf0Zq5IVQ5",
+					"display_url": "pic.twitter.com/kf0Zq5IVQ5",
+					"expanded_url": "https://twitter.com/ParrotOfTheDay/status/1550458156353916928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550456928584605700,
+					"id_str": "1550456928584605696",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FYRUXKPUIAAiKFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYRUXKPUIAAiKFZ.jpg",
+					"url": "https://t.co/kf0Zq5IVQ5",
+					"display_url": "pic.twitter.com/kf0Zq5IVQ5",
+					"expanded_url": "https://twitter.com/ParrotOfTheDay/status/1550458156353916928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3168247662,
+			"id_str": "3168247662",
+			"name": "Parrot Of The Day 🦜 #ParrotsAtoZ",
+			"screen_name": "ParrotOfTheDay",
+			"location": "#BoonWurrungCountry, Australia",
+			"description": "Seven years posting ethical photos and profiles of wild parrots from around the world, plus parrot conservation, ecology and politics. Occasionally #NotAParrot.",
+			"url": "https://t.co/ftiD0zvs4L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ftiD0zvs4L",
+							"expanded_url": "https://www.ko-fi.com/parrotoftheday",
+							"display_url": "ko-fi.com/parrotoftheday",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31415,
+			"friends_count": 9265,
+			"listed_count": 427,
+			"created_at": "Thu Apr 23 05:47:05 +0000 2015",
+			"favourites_count": 121267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409273979072696321/LkWXIcYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409273979072696321/LkWXIcYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3168247662/1648428698",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BirdTwitter Sulphur-crested cockatoo (Cacatua sulphurea) at Rosebud #BoonWurrungCountry, Mornington Peninsula, 85km south of Melbourne, Australia #ownpic https://t.co/kf0Zq5IVQ5"
+	},
+	{
+		"created_at": "Thu Jul 21 23:15:11 +0000 2022",
+		"id": 1550258112849780700,
+		"id_str": "1550258112849780736",
+		"full_text": "@duck_of_fire 제가..이렇게 기가 막힌 얘기를...? ㅋㅋㅋㅋ 다시 봐도 너무 좋군요 비잔틴 au ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "신성혼웨딩플래너",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1550132711930482700,
+		"in_reply_to_status_id_str": "1550132711930482689",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 6865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 제가..이렇게 기가 막힌 얘기를...? ㅋㅋㅋㅋ 다시 봐도 너무 좋군요 비잔틴 au ㅋㅋ"
+	},
+	{
+		"created_at": "Thu Jul 21 23:14:17 +0000 2022",
+		"id": 1550256890298265600,
+		"id_str": "1550257888387424256",
+		"full_text": "This is a Crimson Rosella (Platycercus elegans)\n\n #birds #nature #birdwatching #NaturePhotography #Photography @DivineDropbear https://t.co/GBB3Sj2YXD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "birds",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "nature",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "birdwatching",
+					"indices": [
+						65,
+						78
+					]
+				},
+				{
+					"text": "NaturePhotography",
+					"indices": [
+						79,
+						97
+					]
+				},
+				{
+					"text": "Photography",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DivineDropbear",
+					"name": "Tranquility Found",
+					"id": 974067190386147300,
+					"id_str": "974067190386147329",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550256019866992600,
+					"id_str": "1550256019866992640",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FYOdou8VQAAKIIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYOdou8VQAAKIIT.jpg",
+					"url": "https://t.co/GBB3Sj2YXD",
+					"display_url": "pic.twitter.com/GBB3Sj2YXD",
+					"expanded_url": "https://twitter.com/fred_od_photo/status/1550256890298265600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550256019866992600,
+					"id_str": "1550256019866992640",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FYOdou8VQAAKIIT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYOdou8VQAAKIIT.jpg",
+					"url": "https://t.co/GBB3Sj2YXD",
+					"display_url": "pic.twitter.com/GBB3Sj2YXD",
+					"expanded_url": "https://twitter.com/fred_od_photo/status/1550256890298265600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 490232734,
+			"id_str": "490232734",
+			"name": "Fred O'Donnell",
+			"screen_name": "fred_od_photo",
+			"location": "Australia",
+			"description": "Nature photographer - all images I tweet are mine (except for RTs). Please respect my copyright.",
+			"url": "https://t.co/fhE5KBNwrc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fhE5KBNwrc",
+							"expanded_url": "http://fredodonnellphotography.wordpress.com",
+							"display_url": "fredodonnellphotography.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6170,
+			"friends_count": 2845,
+			"listed_count": 239,
+			"created_at": "Sun Feb 12 10:43:36 +0000 2012",
+			"favourites_count": 43836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806999100516286464/P3Z2db9V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806999100516286464/P3Z2db9V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/490232734/1627095960",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a Crimson Rosella (Platycercus elegans)\n\n #birds #nature #birdwatching #NaturePhotography #Photography @DivineDropbear https://t.co/GBB3Sj2YXD"
+	},
+	{
 		"created_at": "Wed Jul 20 22:55:15 +0000 2022",
 		"id": 1549670083957469200,
 		"id_str": "1549890708370124802",
