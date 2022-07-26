@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 26 07:07:55 +0000 2022",
+		"id": 1551692524104093700,
+		"id_str": "1551826632964313088",
+		"full_text": "Good morning. @ParrotOfTheDay https://t.co/LYjZqbf8oS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ParrotOfTheDay",
+					"name": "Parrot Of The Day 🦜 #ParrotsAtoZ",
+					"id": 3168247662,
+					"id_str": "3168247662",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551692507217817600,
+					"id_str": "1551692507217817600",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FYi4HTVacAAAGlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYi4HTVacAAAGlL.jpg",
+					"url": "https://t.co/LYjZqbf8oS",
+					"display_url": "pic.twitter.com/LYjZqbf8oS",
+					"expanded_url": "https://twitter.com/prleeds/status/1551692524104093696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551692507217817600,
+					"id_str": "1551692507217817600",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FYi4HTVacAAAGlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYi4HTVacAAAGlL.jpg",
+					"url": "https://t.co/LYjZqbf8oS",
+					"display_url": "pic.twitter.com/LYjZqbf8oS",
+					"expanded_url": "https://twitter.com/prleeds/status/1551692524104093696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1551692507226194000,
+					"id_str": "1551692507226193920",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FYi4HTXaQAAdx9n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYi4HTXaQAAdx9n.jpg",
+					"url": "https://t.co/LYjZqbf8oS",
+					"display_url": "pic.twitter.com/LYjZqbf8oS",
+					"expanded_url": "https://twitter.com/prleeds/status/1551692524104093696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1551692507238776800,
+					"id_str": "1551692507238776834",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FYi4HTaaQAIcIFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYi4HTaaQAIcIFf.jpg",
+					"url": "https://t.co/LYjZqbf8oS",
+					"display_url": "pic.twitter.com/LYjZqbf8oS",
+					"expanded_url": "https://twitter.com/prleeds/status/1551692524104093696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1551692507230400500,
+					"id_str": "1551692507230400512",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FYi4HTYacAAzAi5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYi4HTYacAAzAi5.jpg",
+					"url": "https://t.co/LYjZqbf8oS",
+					"display_url": "pic.twitter.com/LYjZqbf8oS",
+					"expanded_url": "https://twitter.com/prleeds/status/1551692524104093696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 222760645,
+			"id_str": "222760645",
+			"name": "Phillip Leeds",
+			"screen_name": "prleeds",
+			"location": "Blue Mountains",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 655,
+			"friends_count": 416,
+			"listed_count": 6,
+			"created_at": "Sat Dec 04 11:02:33 +0000 2010",
+			"favourites_count": 29169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262871128952848384/FnKIF-oU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262871128952848384/FnKIF-oU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/222760645/1589926900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00cff45c756bfcc5",
+			"url": "https://api.twitter.com/1.1/geo/id/00cff45c756bfcc5.json",
+			"place_type": "neighborhood",
+			"name": "Springwood",
+			"full_name": "Springwood, Sydney",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.54273108,
+							-33.72875001
+						],
+						[
+							150.60683196,
+							-33.72875001
+						],
+						[
+							150.60683196,
+							-33.65542503
+						],
+						[
+							150.54273108,
+							-33.65542503
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good morning. @ParrotOfTheDay https://t.co/LYjZqbf8oS"
+	},
+	{
 		"created_at": "Sun Jul 24 23:16:10 +0000 2022",
 		"id": 1551345526183825400,
 		"id_str": "1551345526183825408",
