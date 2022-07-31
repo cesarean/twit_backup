@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 30 23:43:14 +0000 2022",
+		"id": 1553525396523458600,
+		"id_str": "1553526662347665408",
+		"full_text": "@geoffrey_payne @ParrotOfTheDay King Parrot, Sawmill Settlement Vic https://t.co/nsWunpROCx",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geoffrey_payne",
+					"name": "Geoff Payne",
+					"id": 983508625,
+					"id_str": "983508625",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ParrotOfTheDay",
+					"name": "Parrot Of The Day 🦜 #ParrotsAtoZ",
+					"id": 3168247662,
+					"id_str": "3168247662",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553525390525706200,
+					"id_str": "1553525390525706240",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FY87HJvVsAA9HAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY87HJvVsAA9HAN.jpg",
+					"url": "https://t.co/nsWunpROCx",
+					"display_url": "pic.twitter.com/nsWunpROCx",
+					"expanded_url": "https://twitter.com/MarkPlackett1/status/1553525396523458561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553525390525706200,
+					"id_str": "1553525390525706240",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FY87HJvVsAA9HAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY87HJvVsAA9HAN.jpg",
+					"url": "https://t.co/nsWunpROCx",
+					"display_url": "pic.twitter.com/nsWunpROCx",
+					"expanded_url": "https://twitter.com/MarkPlackett1/status/1553525396523458561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1553517451408593000,
+		"in_reply_to_status_id_str": "1553517451408592896",
+		"in_reply_to_user_id": 983508625,
+		"in_reply_to_user_id_str": "983508625",
+		"in_reply_to_screen_name": "geoffrey_payne",
+		"user": {
+			"id": 1579596458,
+			"id_str": "1579596458",
+			"name": "🌱💧Mark Plackett ♻",
+			"screen_name": "MarkPlackett1",
+			"location": "",
+			"description": "Microbiologist, Comp. Eng recently Builder with active interest in the environment.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4831,
+			"friends_count": 4604,
+			"listed_count": 1469,
+			"created_at": "Tue Jul 09 06:22:15 +0000 2013",
+			"favourites_count": 3719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 651720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000145293528/2e1ca65f88bf272a2c3cbd223ffb91bc_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000145293528/2e1ca65f88bf272a2c3cbd223ffb91bc_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1579596458/1439251027",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@geoffrey_payne @ParrotOfTheDay King Parrot, Sawmill Settlement Vic https://t.co/nsWunpROCx"
+	},
+	{
 		"created_at": "Fri Jul 29 13:07:06 +0000 2022",
 		"id": 1553004187348217900,
 		"id_str": "1553004187348217856",
