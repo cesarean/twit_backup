@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 09:59:58 +0000 2022",
+		"id": 1555113229432434700,
+		"id_str": "1555131420829356032",
+		"full_text": "🥜 ☀️ 🔱 🌼 🍽 https://t.co/KakoPjpUV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555113220599271400,
+					"id_str": "1555113220599271424",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTfPBtVUAAmjq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTfPBtVUAAmjq2.jpg",
+					"url": "https://t.co/KakoPjpUV3",
+					"display_url": "pic.twitter.com/KakoPjpUV3",
+					"expanded_url": "https://twitter.com/stacejarman/status/1555113229432434689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1593,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555113220599271400,
+					"id_str": "1555113220599271424",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTfPBtVUAAmjq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTfPBtVUAAmjq2.jpg",
+					"url": "https://t.co/KakoPjpUV3",
+					"display_url": "pic.twitter.com/KakoPjpUV3",
+					"expanded_url": "https://twitter.com/stacejarman/status/1555113229432434689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1593,
+							"h": 1274,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4797924571,
+			"id_str": "4797924571",
+			"name": "Stace Jarman",
+			"screen_name": "stacejarman",
+			"location": "",
+			"description": "Make me laugh or think and we'll get along just fine.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366,
+			"friends_count": 506,
+			"listed_count": 2,
+			"created_at": "Fri Jan 22 11:21:34 +0000 2016",
+			"favourites_count": 20495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690501222764154880/7Mbfhxu1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690501222764154880/7Mbfhxu1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4797924571/1455935681",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🥜 ☀️ 🔱 🌼 🍽 https://t.co/KakoPjpUV3"
+	},
+	{
 		"created_at": "Wed Aug 03 15:12:30 +0000 2022",
 		"id": 1554847684300656600,
 		"id_str": "1554847684300656640",
