@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 12:08:04 +0000 2022",
+		"id": 1555594647241904000,
+		"id_str": "1556250820605124609",
+		"full_text": "아 미친\n탑건 1986 엔딩크레딧 HD•••\n진짜 그 시절 내가 사랑하던 남자들 여기 다 있음••• https://t.co/PX2dTHR3Yj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555594585271079000,
+					"id_str": "1555594585271078912",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555594585271078912/pu/img/5zEIinOXxdceHy2y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555594585271078912/pu/img/5zEIinOXxdceHy2y.jpg",
+					"url": "https://t.co/PX2dTHR3Yj",
+					"display_url": "pic.twitter.com/PX2dTHR3Yj",
+					"expanded_url": "https://twitter.com/B0Bbb0/status/1555594647241904128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555594585271079000,
+					"id_str": "1555594585271078912",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555594585271078912/pu/img/5zEIinOXxdceHy2y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555594585271078912/pu/img/5zEIinOXxdceHy2y.jpg",
+					"url": "https://t.co/PX2dTHR3Yj",
+					"display_url": "pic.twitter.com/PX2dTHR3Yj",
+					"expanded_url": "https://twitter.com/B0Bbb0/status/1555594647241904128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58018,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555594585271078912/pu/vid/1280x720/4YrDVY_tYqDqtAjw.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555594585271078912/pu/vid/480x270/VxVEpRniKinzpVxy.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555594585271078912/pu/vid/640x360/aIYAc5QmtkEgHlcz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555594585271078912/pu/pl/irLsFR4gw9ab9Zbr.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1492382219838578700,
+			"id_str": "1492382219838578689",
+			"name": "B!",
+			"screen_name": "B0Bbb0",
+			"location": "짱건 ⁸⁶'²² ⁺ 본체 ",
+			"description": "📂 #TopGun",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 54,
+			"listed_count": 3,
+			"created_at": "Sat Feb 12 06:17:12 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1544208235829559296/T9JcLZa5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1544208235829559296/T9JcLZa5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1492382219838578689/1657002371",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 미친\n탑건 1986 엔딩크레딧 HD•••\n진짜 그 시절 내가 사랑하던 남자들 여기 다 있음••• https://t.co/PX2dTHR3Yj"
+	},
+	{
 		"created_at": "Fri Aug 05 12:25:54 +0000 2022",
 		"id": 1555530535740485600,
 		"id_str": "1555530535740485632",
