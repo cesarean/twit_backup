@@ -1,6 +1,838 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 22 14:18:15 +0000 2022",
+		"id": 1561719404286525400,
+		"id_str": "1561719404286525440",
+		"full_text": "@duck_of_fire 한 번 ㅈㅈ에 달하고도 둘 다 헐떡이면서 엎치락 뒤치락 할 듯요. 목을 조를듯이 위에서 누르다가도 곧 뒤집혀서 깔리길 반복..방이 엉망진창이 되도록 뒹군 뒤 다 헝클어진 머리에 화려한 장식을 위태롭게 매달고 황제의 곤룡포를 맨몸에 걸치고 앉아 웃는 듯 우는 듯 얼굴을 일그러뜨리는 페아노르..",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561717300385894400,
+		"in_reply_to_status_id_str": "1561717300385894400",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 한 번 ㅈㅈ에 달하고도 둘 다 헐떡이면서 엎치락 뒤치락 할 듯요. 목을 조를듯이 위에서 누르다가도 곧 뒤집혀서 깔리길 반복..방이 엉망진창이 되도록 뒹군 뒤 다 헝클어진 머리에 화려한 장식을 위태롭게 매달고 황제의 곤룡포를 맨몸에 걸치고 앉아 웃는 듯 우는 듯 얼굴을 일그러뜨리는 페아노르.."
+	},
+	{
+		"created_at": "Mon Aug 22 14:03:43 +0000 2022",
+		"id": 1561715744697565200,
+		"id_str": "1561715744697565184",
+		"full_text": "@duck_of_fire 진짜 한쪽은 칼 빼들고 한쪽은 냉궁 보낼듯이 심하게 싸우다가도 갑자기 누가 먼저랄 것도 없이 달려들어 쥐어뜯듯 옷 벗기고...싸움 때문에 이미 한껏 흥분해있던 터라 서로의 손이 스치는대로 금방 열이 오르고..물어뜯듯이 입 맞추며 너른 방 여기저기를 다 이용해서 한 판, 아니 여러 판 뜨는😊",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561714016048726000,
+		"in_reply_to_status_id_str": "1561714016048726016",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 진짜 한쪽은 칼 빼들고 한쪽은 냉궁 보낼듯이 심하게 싸우다가도 갑자기 누가 먼저랄 것도 없이 달려들어 쥐어뜯듯 옷 벗기고...싸움 때문에 이미 한껏 흥분해있던 터라 서로의 손이 스치는대로 금방 열이 오르고..물어뜯듯이 입 맞추며 너른 방 여기저기를 다 이용해서 한 판, 아니 여러 판 뜨는😊"
+	},
+	{
+		"created_at": "Mon Aug 22 13:47:16 +0000 2022",
+		"id": 1561711604575588400,
+		"id_str": "1561711604575588353",
+		"full_text": "@duck_of_fire 휴 행복이 온전히 이어지지 않고 찰나에만 즐길 수 있다는 게 이 배경의 매력인 것 같아요ㅠㅠㅠ그러다 한 번씩 둘다 긴장감이 극에 달하면 일부러 터뜨려버리듯 싸우는 것처럼 애타는 것처럼 ㅅㅅ하고...",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561707471642628000,
+		"in_reply_to_status_id_str": "1561707471642628096",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 휴 행복이 온전히 이어지지 않고 찰나에만 즐길 수 있다는 게 이 배경의 매력인 것 같아요ㅠㅠㅠ그러다 한 번씩 둘다 긴장감이 극에 달하면 일부러 터뜨려버리듯 싸우는 것처럼 애타는 것처럼 ㅅㅅ하고..."
+	},
+	{
+		"created_at": "Mon Aug 22 13:23:07 +0000 2022",
+		"id": 1561705528077664300,
+		"id_str": "1561705528077664257",
+		"full_text": "@duck_of_fire 항상 무기력감과 울화를 오가며 사는 페아노르...힘들어서 자기도 모르게 이대로 안락함에 젖어 살까하는 생각이 들다 애들 얼굴이 떠오르면 파르르 몸서리치길 반복하고..",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561703378639396900,
+		"in_reply_to_status_id_str": "1561703378639396865",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 항상 무기력감과 울화를 오가며 사는 페아노르...힘들어서 자기도 모르게 이대로 안락함에 젖어 살까하는 생각이 들다 애들 얼굴이 떠오르면 파르르 몸서리치길 반복하고.."
+	},
+	{
+		"created_at": "Mon Aug 22 12:49:42 +0000 2022",
+		"id": 1561697115893424000,
+		"id_str": "1561697115893424128",
+		"full_text": "@duck_of_fire 그리고 원래대로처럼 화려한 황궁 생활을 능숙히 잘 해나가다가도 문득 자신이 육체의 안락함에 젖어 지난날을 잊었다는 생각에 화나는 페아노르일까요..",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561694707776123000,
+		"in_reply_to_status_id_str": "1561694707776122880",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 그리고 원래대로처럼 화려한 황궁 생활을 능숙히 잘 해나가다가도 문득 자신이 육체의 안락함에 젖어 지난날을 잊었다는 생각에 화나는 페아노르일까요.."
+	},
+	{
+		"created_at": "Mon Aug 22 12:38:15 +0000 2022",
+		"id": 1561694237762003000,
+		"id_str": "1561694237762002945",
+		"full_text": "@duck_of_fire 휴 듣기만 해도 평화로운 황궁의 나날이군요ㅠㅠ어느새 진짜 총비같은 생활이 익숙해져버린 페아노르와 행복에 가득찬 핀골핀이라니ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561691220631400400,
+		"in_reply_to_status_id_str": "1561691220631400449",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 휴 듣기만 해도 평화로운 황궁의 나날이군요ㅠㅠ어느새 진짜 총비같은 생활이 익숙해져버린 페아노르와 행복에 가득찬 핀골핀이라니ㅠ"
+	},
+	{
+		"created_at": "Mon Aug 22 12:05:04 +0000 2022",
+		"id": 1561685884063215600,
+		"id_str": "1561685884063215616",
+		"full_text": "@duck_of_fire 말씀을 듣고보니 아무일없는 궁의 평화로운 하루도 좋을 것 같아요 끄덕끄덕\n동양풍이 너무 좋은 저🥰🥰🥰",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561685195673464800,
+		"in_reply_to_status_id_str": "1561685195673464832",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 말씀을 듣고보니 아무일없는 궁의 평화로운 하루도 좋을 것 같아요 끄덕끄덕\n동양풍이 너무 좋은 저🥰🥰🥰"
+	},
+	{
+		"created_at": "Mon Aug 22 11:55:20 +0000 2022",
+		"id": 1561683435114025000,
+		"id_str": "1561683435114024960",
+		"full_text": "@duck_of_fire 역시 궁궐생활은 사건사고가 있어야 재밌죠! 그러나 누군가와 암투를 벌이기엔 총애가 넘사벽인ㅋㅋㅋ사실 계속 뒷편을 잇고 싶긴한데 방향성이 없는😂",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "여기가 포르메노스냐?",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1561676375266070500,
+		"in_reply_to_status_id_str": "1561676375266070528",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 역시 궁궐생활은 사건사고가 있어야 재밌죠! 그러나 누군가와 암투를 벌이기엔 총애가 넘사벽인ㅋㅋㅋ사실 계속 뒷편을 잇고 싶긴한데 방향성이 없는😂"
+	},
+	{
 		"created_at": "Fri Aug 19 15:06:07 +0000 2022",
 		"id": 1560644283970924500,
 		"id_str": "1560644283970924549",
