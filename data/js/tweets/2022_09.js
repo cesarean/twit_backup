@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 07:11:49 +0000 2022",
+		"id": 1570723828812378000,
+		"id_str": "1571034170872434692",
+		"full_text": "오직 나약한 남자들만이 강한 여자를 못 견디죠 https://t.co/icNH6FNlIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570723813402505200,
+					"id_str": "1570723813402505217",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxU_HoacAEKhEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxU_HoacAEKhEs.jpg",
+					"url": "https://t.co/icNH6FNlIq",
+					"display_url": "pic.twitter.com/icNH6FNlIq",
+					"expanded_url": "https://twitter.com/F_ckingSpecial/status/1570723828812378113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 970,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570723813402505200,
+					"id_str": "1570723813402505217",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxU_HoacAEKhEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxU_HoacAEKhEs.jpg",
+					"url": "https://t.co/icNH6FNlIq",
+					"display_url": "pic.twitter.com/icNH6FNlIq",
+					"expanded_url": "https://twitter.com/F_ckingSpecial/status/1570723828812378113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 970,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570723818943160300,
+					"id_str": "1570723818943160320",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxU_cRaIAAvd1X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxU_cRaIAAvd1X.jpg",
+					"url": "https://t.co/icNH6FNlIq",
+					"display_url": "pic.twitter.com/icNH6FNlIq",
+					"expanded_url": "https://twitter.com/F_ckingSpecial/status/1570723828812378113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 970,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1570723825016516600,
+					"id_str": "1570723825016516608",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FcxU_y5aMAAL_lf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcxU_y5aMAAL_lf.jpg",
+					"url": "https://t.co/icNH6FNlIq",
+					"display_url": "pic.twitter.com/icNH6FNlIq",
+					"expanded_url": "https://twitter.com/F_ckingSpecial/status/1570723828812378113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 970,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 474505266,
+			"id_str": "474505266",
+			"name": "현정",
+			"screen_name": "F_ckingSpecial",
+			"location": "",
+			"description": "고양고양합니다. \n가끔 고약하고 적당히 다정하고 종종 귀엽고 자주 미쳐요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5391,
+			"friends_count": 125,
+			"listed_count": 59,
+			"created_at": "Thu Jan 26 02:07:19 +0000 2012",
+			"favourites_count": 15623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803339698793955329/14DQElrU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803339698793955329/14DQElrU_normal.jpg",
+			"profile_link_color": "C97587",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "EA4F6F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41218,
+		"favorite_count": 31469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오직 나약한 남자들만이 강한 여자를 못 견디죠 https://t.co/icNH6FNlIq"
+	},
+	{
 		"created_at": "Mon Sep 12 15:35:39 +0000 2022",
 		"id": 1569349023957680000,
 		"id_str": "1569349023957680129",
