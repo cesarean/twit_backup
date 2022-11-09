@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 13:04:59 +0000 2022",
+		"id": 1590063057660969000,
+		"id_str": "1590329607076876289",
+		"full_text": "jiang xi https://t.co/4vECRrNK1Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590062800424018000,
+					"id_str": "1590062800424017932",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FhEJsUXWIAw6Mik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhEJsUXWIAw6Mik.jpg",
+					"url": "https://t.co/4vECRrNK1Y",
+					"display_url": "pic.twitter.com/4vECRrNK1Y",
+					"expanded_url": "https://twitter.com/kkcoocool/status/1590063057660968960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590062800424018000,
+					"id_str": "1590062800424017932",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FhEJsUXWIAw6Mik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhEJsUXWIAw6Mik.jpg",
+					"url": "https://t.co/4vECRrNK1Y",
+					"display_url": "pic.twitter.com/4vECRrNK1Y",
+					"expanded_url": "https://twitter.com/kkcoocool/status/1590063057660968960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 921417026454851600,
+			"id_str": "921417026454851585",
+			"name": "☆ ruthie ☆",
+			"screen_name": "kkcoocool",
+			"location": "superhell",
+			"description": "☆ Coolest kid south of the 401, keeping it PG since 2002 ☆",
+			"url": "https://t.co/4bA0SSxk9z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4bA0SSxk9z",
+							"expanded_url": "http://instagram.com/kkcoocool/",
+							"display_url": "instagram.com/kkcoocool/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25597,
+			"friends_count": 69,
+			"listed_count": 178,
+			"created_at": "Fri Oct 20 16:45:12 +0000 2017",
+			"favourites_count": 4044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1586024504429613062/l-lyASWR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1586024504429613062/l-lyASWR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/921417026454851585/1657303554",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 3045,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "jiang xi https://t.co/4vECRrNK1Y"
+	},
+	{
 		"created_at": "Mon Nov 07 11:42:17 +0000 2022",
 		"id": 1589584016327704600,
 		"id_str": "1589584016327704577",
