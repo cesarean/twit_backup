@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 18 13:25:09 +0000 2022",
+		"id": 1604467806090600400,
+		"id_str": "1604467806090600448",
+		"full_text": "마음은 1번인데 페아노르 성격에 2나 3이겠지..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1604466637914067000,
+		"in_reply_to_status_id_str": "1604466637914066944",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "마음은 1번인데 페아노르 성격에 2나 3이겠지.."
+	},
+	{
+		"created_at": "Sun Dec 18 13:20:30 +0000 2022",
+		"id": 1604466637914067000,
+		"id_str": "1604466637914066944",
+		"full_text": "이번 연성하면서도 생각해봤지만 동양풍 핀골페아의 끝을 상상해보면...\n1. 계속 그렇게 살다 결국 순응해서 궁중생활하는 페아노르\n2. 결국 탈주에 성공해서 아들들 만나 사단을 내든 자취를 감춰버리든 일 내는 페아노르\n3. 모든 시도가 물거품이 되어 궁 안에서 말라죽어버리는 페아노르",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이번 연성하면서도 생각해봤지만 동양풍 핀골페아의 끝을 상상해보면...\n1. 계속 그렇게 살다 결국 순응해서 궁중생활하는 페아노르\n2. 결국 탈주에 성공해서 아들들 만나 사단을 내든 자취를 감춰버리든 일 내는 페아노르\n3. 모든 시도가 물거품이 되어 궁 안에서 말라죽어버리는 페아노르"
+	},
+	{
+		"created_at": "Sat Dec 17 23:38:14 +0000 2022",
+		"id": 1604006016353734700,
+		"id_str": "1604259708705333248",
+		"full_text": "Q. 全世界人気キャラクター投票 #NARUTOP99 とは？\n\nhttps://t.co/KpGO3QIWXs https://t.co/wrSNJmIrhD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NARUTOP99",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpGO3QIWXs",
+					"expanded_url": "https://narutop99.naruto-official.com",
+					"display_url": "narutop99.naruto-official.com",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1604006009944801300,
+					"id_str": "1604006009944801281",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FkKS97haAAE28Ox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkKS97haAAE28Ox.jpg",
+					"url": "https://t.co/wrSNJmIrhD",
+					"display_url": "pic.twitter.com/wrSNJmIrhD",
+					"expanded_url": "https://twitter.com/NARUTO_kousiki/status/1604006016353734658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1604006009944801300,
+					"id_str": "1604006009944801281",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FkKS97haAAE28Ox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FkKS97haAAE28Ox.jpg",
+					"url": "https://t.co/wrSNJmIrhD",
+					"display_url": "pic.twitter.com/wrSNJmIrhD",
+					"expanded_url": "https://twitter.com/NARUTO_kousiki/status/1604006016353734658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2888333150,
+			"id_str": "2888333150",
+			"name": "NARUTO・BORUTO【原作公式】",
+			"screen_name": "NARUTO_kousiki",
+			"location": "",
+			"description": "『NARUTO-ナルト-』『BORUTO-ボルト- -NARUTO NEXT GENERATIONS-』の原作公式アカウントです。編集部員が最新情報をお届けします！",
+			"url": "https://t.co/I9FI70pehl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9FI70pehl",
+							"expanded_url": "https://naruto-official.com/",
+							"display_url": "naruto-official.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451517,
+			"friends_count": 109,
+			"listed_count": 1105,
+			"created_at": "Mon Nov 03 09:10:31 +0000 2014",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1604023584334426113/6V7OyYKn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1604023584334426113/6V7OyYKn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2888333150/1671264000",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2025,
+		"favorite_count": 6009,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Q. 全世界人気キャラクター投票 #NARUTOP99 とは？\n\nhttps://t.co/KpGO3QIWXs https://t.co/wrSNJmIrhD"
+	},
+	{
+		"created_at": "Sat Dec 17 17:35:12 +0000 2022",
+		"id": 1604168348505251800,
+		"id_str": "1604168348505251840",
+		"full_text": "@duck_of_fire 휴 이러다가 완전한 성인이 되고 처음으로 러트 터졌을 때의 핀골핀도 보고싶네요. 감금된 상태에 지속적으로 오메가랑 살을 섞어서 좀 늦게 와버린..자기 오메가에게 상태를 전해줄 방도도 없어서 갇힌 방 안에서 몸부림만 치겠죠ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "신성혼웨딩플래너",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1604166768955519000,
+		"in_reply_to_status_id_str": "1604166768955518977",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(병안본)위칭 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 27,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 휴 이러다가 완전한 성인이 되고 처음으로 러트 터졌을 때의 핀골핀도 보고싶네요. 감금된 상태에 지속적으로 오메가랑 살을 섞어서 좀 늦게 와버린..자기 오메가에게 상태를 전해줄 방도도 없어서 갇힌 방 안에서 몸부림만 치겠죠ㅠ"
+	},
+	{
 		"created_at": "Sat Dec 17 17:14:33 +0000 2022",
 		"id": 1604163148365279200,
 		"id_str": "1604163148365279235",
