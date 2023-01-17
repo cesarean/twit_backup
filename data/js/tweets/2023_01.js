@@ -1,6 +1,583 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 14:58:19 +0000 2023",
+		"id": 1615362889493414000,
+		"id_str": "1615362889493413890",
+		"full_text": "@duck_of_fire 남자들을 미치게 할만하네요() 철이가 길들일 때의 정대만을 상상하며 입술짓씹는 송태섭 보고싶네요. 먼저 만난 건 나였을텐데 하며()",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "재수감 복역중",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1615362315381280800,
+		"in_reply_to_status_id_str": "1615362315381280769",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 26,
+			"friends_count": 66,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 남자들을 미치게 할만하네요() 철이가 길들일 때의 정대만을 상상하며 입술짓씹는 송태섭 보고싶네요. 먼저 만난 건 나였을텐데 하며()"
+	},
+	{
+		"created_at": "Tue Jan 17 14:54:46 +0000 2023",
+		"id": 1615361995947274200,
+		"id_str": "1615361995947274245",
+		"full_text": "@duck_of_fire 낮에는 성녀 밤에는 창녀...대만아 그렇게 됐다",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "재수감 복역중",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1615360398336856000,
+		"in_reply_to_status_id_str": "1615360398336856065",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 26,
+			"friends_count": 66,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 낮에는 성녀 밤에는 창녀...대만아 그렇게 됐다"
+	},
+	{
+		"created_at": "Tue Jan 17 14:47:04 +0000 2023",
+		"id": 1615360060120780800,
+		"id_str": "1615360060120780800",
+		"full_text": "@duck_of_fire 진짜 이 앙큼요망함은 어디서 나오는걸까요 정대만...그저 한 명의 영걸이가 될뿐..",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "duck_of_fire",
+					"name": "재수감 복역중",
+					"id": 1445984103669526500,
+					"id_str": "1445984103669526530",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1615359704779346000,
+		"in_reply_to_status_id_str": "1615359704779345925",
+		"in_reply_to_user_id": 1445984103669526500,
+		"in_reply_to_user_id_str": "1445984103669526530",
+		"in_reply_to_screen_name": "duck_of_fire",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 26,
+			"friends_count": 66,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@duck_of_fire 진짜 이 앙큼요망함은 어디서 나오는걸까요 정대만...그저 한 명의 영걸이가 될뿐.."
+	},
+	{
+		"created_at": "Tue Jan 17 14:38:14 +0000 2023",
+		"id": 1615357835013132300,
+		"id_str": "1615357835013132288",
+		"full_text": "아니 나 왜 싯님의 태섭대만을 이제야 봤지? 이런 금과 옥같은 연성을ㅠㅠㅠ 하 경험없는 송태섭과 경험있는 정대만이라니ㅠ 대만아아아아악\n송태섭이 대만이의 과거에 신경쓰는 것도 너무 귀엽고ㅜㅜ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 26,
+			"friends_count": 66,
+			"listed_count": 0,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 7531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아니 나 왜 싯님의 태섭대만을 이제야 봤지? 이런 금과 옥같은 연성을ㅠㅠㅠ 하 경험없는 송태섭과 경험있는 정대만이라니ㅠ 대만아아아아악\n송태섭이 대만이의 과거에 신경쓰는 것도 너무 귀엽고ㅜㅜ"
+	},
+	{
+		"created_at": "Tue Jan 17 12:55:58 +0000 2023",
+		"id": 1284664667508314000,
+		"id_str": "1615332097153191936",
+		"full_text": "三種の神器 https://t.co/uN5gbFHN0u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1284664230105346000,
+					"id_str": "1284664230105346055",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EdQLT5MUcAcmCsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdQLT5MUcAcmCsF.jpg",
+					"url": "https://t.co/uN5gbFHN0u",
+					"display_url": "pic.twitter.com/uN5gbFHN0u",
+					"expanded_url": "https://twitter.com/mizuho_a_10/status/1284664667508314112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284664230105346000,
+					"id_str": "1284664230105346055",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EdQLT5MUcAcmCsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdQLT5MUcAcmCsF.jpg",
+					"url": "https://t.co/uN5gbFHN0u",
+					"display_url": "pic.twitter.com/uN5gbFHN0u",
+					"expanded_url": "https://twitter.com/mizuho_a_10/status/1284664667508314112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164727885,
+			"id_str": "164727885",
+			"name": "瑞穂",
+			"screen_name": "mizuho_a_10",
+			"location": "",
+			"description": "興味の幅は凄く狭いが惹かれるととことん追求するのが生き甲斐。詳しく⇒【https://t.co/yzwFwHfkI3】",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yzwFwHfkI3",
+							"expanded_url": "http://twpf.jp/mizuho_a_10",
+							"display_url": "twpf.jp/mizuho_a_10",
+							"indices": [
+								35,
+								58
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60871,
+			"friends_count": 17,
+			"listed_count": 322,
+			"created_at": "Fri Jul 09 16:07:42 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207154097658327041/fRGe5LBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207154097658327041/fRGe5LBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164727885/1576644834",
+			"profile_link_color": "663366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2012,
+		"favorite_count": 8474,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "三種の神器 https://t.co/uN5gbFHN0u"
+	},
+	{
 		"created_at": "Mon Jan 16 14:36:24 +0000 2023",
 		"id": 1614993275869593600,
 		"id_str": "1614994985698611200",
