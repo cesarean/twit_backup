@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Tue Jan 31 23:10:27 +0000 2023",
+		"id": 1620452917131223000,
+		"id_str": "1620560168470847490",
+		"full_text": "아무도 그려주지 않아서 내가 그렷어..\n아이도루st 옷 입은 데만... \n\n#태섭대만 \n# 북산고_축제🎉 # 3반카페☕ # 불꽃남자_프리허그 🔥 https://t.co/Vvs3K3QBAj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태섭대만",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1620451183801536500,
+					"id_str": "1620451183801536513",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Fnz_xCJaEAEMurQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fnz_xCJaEAEMurQ.jpg",
+					"url": "https://t.co/Vvs3K3QBAj",
+					"display_url": "pic.twitter.com/Vvs3K3QBAj",
+					"expanded_url": "https://twitter.com/eehiyoriee/status/1620452917131223041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1620451183801536500,
+					"id_str": "1620451183801536513",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Fnz_xCJaEAEMurQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fnz_xCJaEAEMurQ.jpg",
+					"url": "https://t.co/Vvs3K3QBAj",
+					"display_url": "pic.twitter.com/Vvs3K3QBAj",
+					"expanded_url": "https://twitter.com/eehiyoriee/status/1620452917131223041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1011,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1452797500012654600,
+			"id_str": "1452797500012654592",
+			"name": "BOSS🤔",
+			"screen_name": "eehiyoriee",
+			"location": "",
+			"description": "\"알았어. 패스 보낼게요.\" / 무덤에서 일어난 할미.. 그치만 슬램덩크 더퍼스트가 / 송태섭최애 / 루하나 태섭대만 우성명헌 조아요.. 알아서 피해가십셔.. 사랑함다..",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2660,
+			"friends_count": 182,
+			"listed_count": 22,
+			"created_at": "Tue Oct 26 00:41:51 +0000 2021",
+			"favourites_count": 2172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1612656813622841344/wypDNaVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1612656813622841344/wypDNaVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1452797500012654592/1673798203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 564,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아무도 그려주지 않아서 내가 그렷어..\n아이도루st 옷 입은 데만... \n\n#태섭대만 \n# 북산고_축제🎉 # 3반카페☕ # 불꽃남자_프리허그 🔥 https://t.co/Vvs3K3QBAj"
+	},
+	{
 		"created_at": "Tue Jan 31 14:57:36 +0000 2023",
 		"id": 1620436139017633800,
 		"id_str": "1620436139017633792",
@@ -1046,7 +1216,7 @@ Grailbird.data.tweets_2023_01 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "",
-			"description": "체인소맨 사카데이 슬램덩크 DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "체인소맨 사카데이 슬램덩크 DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/QHJXgWObG1",
 			"entities": {
 				"url": {
