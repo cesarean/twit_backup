@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 01 23:15:26 +0000 2023",
+		"id": 1620699674587046000,
+		"id_str": "1620923811079258112",
+		"full_text": "북산은 맨날 이새끼저새끼개새끼 하면서도 한명 욕먹으면 다같이 찾아가서 다굴함\n\n산왕은 우린 가족이다! 해놓고 밥 따로먹음\n\n능남 무한윤대협교\n\n해남 밥 따로먹다가 이정환이 분위기 왜이래 하면 그 다음날부터 다같이 도시락싸옴",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 868486642142597100,
+			"id_str": "868486642142597120",
+			"name": "송떤남자때문에일상생활이안됨",
+			"screen_name": "CTS_Duck",
+			"location": "",
+			"description": "최토성 字 송떤 / Only 🇰🇷(Eng: Google Translator) / 성인이지만 성스럽진 않음 / 농놀 ㄱ?\n// 페잉 겸 리퀘박스 :: https://t.co/0ccFQPTOfk…",
+			"url": "https://t.co/PFhX6z8O1E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PFhX6z8O1E",
+							"expanded_url": "https://open.kakao.com/o/s8ygGmMb",
+							"display_url": "open.kakao.com/o/s8ygGmMb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0ccFQPTOfk",
+							"expanded_url": "http://peing.net/ko/cts_duck?ev",
+							"display_url": "peing.net/ko/cts_duck?ev",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2069,
+			"friends_count": 241,
+			"listed_count": 22,
+			"created_at": "Sat May 27 15:18:45 +0000 2017",
+			"favourites_count": 4132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1614074538370957312/uf2_3fLA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1614074538370957312/uf2_3fLA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868486642142597120/1603763401",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 880,
+		"favorite_count": 766,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "북산은 맨날 이새끼저새끼개새끼 하면서도 한명 욕먹으면 다같이 찾아가서 다굴함\n\n산왕은 우린 가족이다! 해놓고 밥 따로먹음\n\n능남 무한윤대협교\n\n해남 밥 따로먹다가 이정환이 분위기 왜이래 하면 그 다음날부터 다같이 도시락싸옴"
+	},
+	{
 		"created_at": "Wed Feb 01 11:20:44 +0000 2023",
 		"id": 1620728815713681400,
 		"id_str": "1620743949488111616",
@@ -353,7 +459,7 @@ Grailbird.data.tweets_2023_02 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "",
-			"description": "체인소맨 사카데이 슬램덩크 DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "체인소맨 사카데이 슬램덩크 DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/QHJXgWObG1",
 			"entities": {
 				"url": {
