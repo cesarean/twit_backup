@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Tue Feb 28 23:30:34 +0000 2023",
+		"id": 1630606943579705300,
+		"id_str": "1630712092230823937",
+		"full_text": "제가 흥미를 잃어서 얼레벌레 끝냈네요,.. 감사합니다 https://t.co/jATP6xvNUC https://t.co/PubDJ7ppL3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jATP6xvNUC",
+					"expanded_url": "https://dqd835.postype.com/post/14101067",
+					"display_url": "dqd835.postype.com/post/14101067",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1630606905772249000,
+					"id_str": "1630606905772249094",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FqEUV2rakAYMViT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FqEUV2rakAYMViT.png",
+					"url": "https://t.co/PubDJ7ppL3",
+					"display_url": "pic.twitter.com/PubDJ7ppL3",
+					"expanded_url": "https://twitter.com/DQD835/status/1630606943579705355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 703,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630606905772249000,
+					"id_str": "1630606905772249094",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FqEUV2rakAYMViT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FqEUV2rakAYMViT.png",
+					"url": "https://t.co/PubDJ7ppL3",
+					"display_url": "pic.twitter.com/PubDJ7ppL3",
+					"expanded_url": "https://twitter.com/DQD835/status/1630606943579705355/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 703,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1628765261288587300,
+		"in_reply_to_status_id_str": "1628765261288587266",
+		"in_reply_to_user_id": 1614971820960252000,
+		"in_reply_to_user_id_str": "1614971820960251904",
+		"in_reply_to_screen_name": "DQD835",
+		"user": {
+			"id": 1614971820960252000,
+			"id_str": "1614971820960251904",
+			"name": "dqd",
+			"screen_name": "DQD835",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/SysWVdZYbG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SysWVdZYbG",
+							"expanded_url": "https://peing.net/ko/dqd835",
+							"display_url": "peing.net/ko/dqd835",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11507,
+			"friends_count": 3,
+			"listed_count": 119,
+			"created_at": "Mon Jan 16 13:04:32 +0000 2023",
+			"favourites_count": 683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1616042039338217472/3dxYD5hE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616042039338217472/3dxYD5hE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1614971820960251904/1674292329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3026,
+		"favorite_count": 3422,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 흥미를 잃어서 얼레벌레 끝냈네요,.. 감사합니다 https://t.co/jATP6xvNUC https://t.co/PubDJ7ppL3"
+	},
+	{
 		"created_at": "Tue Feb 28 10:29:01 +0000 2023",
 		"id": 1630005792589111300,
 		"id_str": "1630515407873523712",
