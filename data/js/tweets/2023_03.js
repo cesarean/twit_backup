@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 15:38:54 +0000 2023",
+		"id": 1628365356648771600,
+		"id_str": "1635666822367440897",
+		"full_text": "대만이 쪄죽는 탱댐 (2p약후방주의.. https://t.co/XztCFA6PA8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628365345131200500,
+					"id_str": "1628365345131200513",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpkdp2kaAAEThHf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpkdp2kaAAEThHf.jpg",
+					"url": "https://t.co/XztCFA6PA8",
+					"display_url": "pic.twitter.com/XztCFA6PA8",
+					"expanded_url": "https://twitter.com/yoob_a_novel/status/1628365356648771584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628365345131200500,
+					"id_str": "1628365345131200513",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/Fpkdp2kaAAEThHf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fpkdp2kaAAEThHf.jpg",
+					"url": "https://t.co/XztCFA6PA8",
+					"display_url": "pic.twitter.com/XztCFA6PA8",
+					"expanded_url": "https://twitter.com/yoob_a_novel/status/1628365356648771584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1628365217813131300,
+					"id_str": "1628365217813131264",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/FpkdicRacAATcjI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FpkdicRacAATcjI.jpg",
+					"url": "https://t.co/XztCFA6PA8",
+					"display_url": "pic.twitter.com/XztCFA6PA8",
+					"expanded_url": "https://twitter.com/yoob_a_novel/status/1628365356648771584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1507,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1147,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 869146279523135500,
+			"id_str": "869146279523135488",
+			"name": "불꽃유바",
+			"screen_name": "yoob_a_novel",
+			"location": "",
+			"description": "정대만뭔데.. 탱댐위주 / 그외 호열백호 산왕애들.. 등등 여튼 다 쳐먹는중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19235,
+			"friends_count": 109,
+			"listed_count": 117,
+			"created_at": "Mon May 29 10:59:55 +0000 2017",
+			"favourites_count": 7628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1628817030450405376/7V3MtnDG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1628817030450405376/7V3MtnDG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1422,
+		"favorite_count": 2734,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "대만이 쪄죽는 탱댐 (2p약후방주의.. https://t.co/XztCFA6PA8"
+	},
+	{
+		"created_at": "Tue Mar 14 15:29:55 +0000 2023",
+		"id": 1635582786684981200,
+		"id_str": "1635664560542846976",
+		"full_text": "(동오대만) ▲위에서 이어지는 해포 AU,\n성인물인데 막 야하진 않고 낙서 러프퀄, 100원 결제있습니당..\n☞ https://t.co/Z23Y4NYi0A https://t.co/JIGSwRuz9N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z23Y4NYi0A",
+					"expanded_url": "https://posty.pe/rz369b",
+					"display_url": "posty.pe/rz369b",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1635582454697431000,
+					"id_str": "1635582454697431040",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FrLBk60aEAAaY-x.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrLBk60aEAAaY-x.png",
+					"url": "https://t.co/JIGSwRuz9N",
+					"display_url": "pic.twitter.com/JIGSwRuz9N",
+					"expanded_url": "https://twitter.com/tenka9090/status/1635582786684981248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635582454697431000,
+					"id_str": "1635582454697431040",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FrLBk60aEAAaY-x.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrLBk60aEAAaY-x.png",
+					"url": "https://t.co/JIGSwRuz9N",
+					"display_url": "pic.twitter.com/JIGSwRuz9N",
+					"expanded_url": "https://twitter.com/tenka9090/status/1635582786684981248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 471,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1633676703959752700,
+		"in_reply_to_status_id_str": "1633676703959752704",
+		"in_reply_to_user_id": 2834510077,
+		"in_reply_to_user_id_str": "2834510077",
+		"in_reply_to_screen_name": "tenka9090",
+		"user": {
+			"id": 2834510077,
+			"id_str": "2834510077",
+			"name": "어차피CHAPI🏀",
+			"screen_name": "tenka9090",
+			"location": "",
+			"description": "2차계정: 올라운더 리버시블 / 프사&헤더: 공룡님(@veloci30) / \n웹툰계정: @CHAPI9090",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18353,
+			"friends_count": 119,
+			"listed_count": 151,
+			"created_at": "Sun Sep 28 00:01:28 +0000 2014",
+			"favourites_count": 6176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1630155176375123968/KLfyYouw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1630155176375123968/KLfyYouw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2834510077/1677494665",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 338,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(동오대만) ▲위에서 이어지는 해포 AU,\n성인물인데 막 야하진 않고 낙서 러프퀄, 100원 결제있습니당..\n☞ https://t.co/Z23Y4NYi0A https://t.co/JIGSwRuz9N"
+	},
+	{
+		"created_at": "Tue Mar 14 15:28:29 +0000 2023",
+		"id": 1635479394495119400,
+		"id_str": "1635664202575798272",
+		"full_text": "https://t.co/GOesrp3AlS\n\n태대 뭔가 성공하는 만화\n\n/ 성인게시글이며 유료발행 분량이 있습니다 https://t.co/j0MuNpRv80",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOesrp3AlS",
+					"expanded_url": "https://posty.pe/qk62a2",
+					"display_url": "posty.pe/qk62a2",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1635479385833865200,
+					"id_str": "1635479385833865216",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrJj1hYaAAAycbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrJj1hYaAAAycbT.jpg",
+					"url": "https://t.co/j0MuNpRv80",
+					"display_url": "pic.twitter.com/j0MuNpRv80",
+					"expanded_url": "https://twitter.com/dolmengeeda/status/1635479394495119360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 1422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1635479385833865200,
+					"id_str": "1635479385833865216",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrJj1hYaAAAycbT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrJj1hYaAAAycbT.jpg",
+					"url": "https://t.co/j0MuNpRv80",
+					"display_url": "pic.twitter.com/j0MuNpRv80",
+					"expanded_url": "https://twitter.com/dolmengeeda/status/1635479394495119360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 1422,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635479385796141000,
+					"id_str": "1635479385796141057",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrJj1hPaYAE_Krr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrJj1hPaYAE_Krr.jpg",
+					"url": "https://t.co/j0MuNpRv80",
+					"display_url": "pic.twitter.com/j0MuNpRv80",
+					"expanded_url": "https://twitter.com/dolmengeeda/status/1635479394495119360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 778,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1328,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1635479385804525600,
+					"id_str": "1635479385804525571",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FrJj1hRaUAMpFXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FrJj1hRaUAMpFXc.jpg",
+					"url": "https://t.co/j0MuNpRv80",
+					"display_url": "pic.twitter.com/j0MuNpRv80",
+					"expanded_url": "https://twitter.com/dolmengeeda/status/1635479394495119360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 778,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 441,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1328,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387172339939303400,
+			"id_str": "1387172339939303425",
+			"name": "~돌저",
+			"screen_name": "dolmengeeda",
+			"location": "지금은 농놀중이지만",
+			"description": "Do not repost/지조없는어른/땅에떨어진것도3초안에먹으면괜찮다고함!!!/페잉 https://t.co/8LEsUzWcVg",
+			"url": "https://t.co/wAHVWAFoY6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wAHVWAFoY6",
+							"expanded_url": "https://dolmengee.postype.com/",
+							"display_url": "dolmengee.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8LEsUzWcVg",
+							"expanded_url": "https://peing.net/ko/dolmengeeda",
+							"display_url": "peing.net/ko/dolmengeeda",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2847,
+			"friends_count": 47,
+			"listed_count": 30,
+			"created_at": "Tue Apr 27 22:30:45 +0000 2021",
+			"favourites_count": 334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1631990177068642305/YfbROa3o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1631990177068642305/YfbROa3o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387172339939303425/1676692247",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 606,
+		"favorite_count": 1197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/GOesrp3AlS\n\n태대 뭔가 성공하는 만화\n\n/ 성인게시글이며 유료발행 분량이 있습니다 https://t.co/j0MuNpRv80"
+	},
+	{
 		"created_at": "Mon Mar 13 12:28:28 +0000 2023",
 		"id": 1635208293605068800,
 		"id_str": "1635256509914583045",
@@ -476,7 +1112,7 @@ Grailbird.data.tweets_2023_03 =
 			"id_str": "1548181882516705280",
 			"name": "😈ㅇㅁ😈",
 			"screen_name": "amang514",
-			"location": "스킨쉽+수위관련 질문은 답변 못드립니다😶‍🌫️",
+			"location": "스킨쉽+수위관련 질문은 답변 못드립니다😶🌫️",
 			"description": "성인 / 그림계 / 태섭대만 / 🥦https://t.co/TXbuO48Bsb",
 			"url": "https://t.co/ym2TQm11mr",
 			"entities": {
