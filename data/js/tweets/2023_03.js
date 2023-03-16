@@ -1,6 +1,689 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Thu Mar 16 15:01:56 +0000 2023",
+		"id": 1636380272030806000,
+		"id_str": "1636382296562610181",
+		"full_text": "우성명헌 이상한 직장 https://t.co/Hvrxag9PTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1636380104392859600,
+					"id_str": "1636380104392859648",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FrWXCPfaYAAzN2y.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrWXCPfaYAAzN2y.png",
+					"url": "https://t.co/Hvrxag9PTN",
+					"display_url": "pic.twitter.com/Hvrxag9PTN",
+					"expanded_url": "https://twitter.com/samoyook/status/1636380272030806018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 765,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636380104392859600,
+					"id_str": "1636380104392859648",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FrWXCPfaYAAzN2y.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrWXCPfaYAAzN2y.png",
+					"url": "https://t.co/Hvrxag9PTN",
+					"display_url": "pic.twitter.com/Hvrxag9PTN",
+					"expanded_url": "https://twitter.com/samoyook/status/1636380272030806018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 765,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1306,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1636380146436567000,
+					"id_str": "1636380146436567042",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FrWXEsHacAI3i5h.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrWXEsHacAI3i5h.png",
+					"url": "https://t.co/Hvrxag9PTN",
+					"display_url": "pic.twitter.com/Hvrxag9PTN",
+					"expanded_url": "https://twitter.com/samoyook/status/1636380272030806018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1428,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1636380185183518700,
+					"id_str": "1636380185183518721",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/FrWXG8daAAEBeDP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrWXG8daAAEBeDP.png",
+					"url": "https://t.co/Hvrxag9PTN",
+					"display_url": "pic.twitter.com/Hvrxag9PTN",
+					"expanded_url": "https://twitter.com/samoyook/status/1636380272030806018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 944,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1542862596113846300,
+			"id_str": "1542862596113846272",
+			"name": "삼오육",
+			"screen_name": "samoyook",
+			"location": "",
+			"description": "장르팔비추",
+			"url": "https://t.co/8PVZ627zag",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8PVZ627zag",
+							"expanded_url": "http://pushoong.com/3272652448",
+							"display_url": "pushoong.com/3272652448",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29681,
+			"friends_count": 9,
+			"listed_count": 156,
+			"created_at": "Fri Jul 01 13:28:10 +0000 2022",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1622746031208419328/k4B_bD5V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1622746031208419328/k4B_bD5V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1542862596113846272/1678837503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2566,
+		"favorite_count": 3979,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우성명헌 이상한 직장 https://t.co/Hvrxag9PTN"
+	},
+	{
+		"created_at": "Thu Mar 16 14:59:20 +0000 2023",
+		"id": 1636367611670962200,
+		"id_str": "1636381642439925768",
+		"full_text": "동댐뿅 조별과제\n너무 웃긴 썰타래ㅜㅜㅜㅋㅜㅜ https://t.co/s7DGCAwYG1 https://t.co/Xc5rEU7Leh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s7DGCAwYG1",
+					"expanded_url": "https://twitter.com/jyolipong14/status/1632558189081415680",
+					"display_url": "twitter.com/jyolipong14/st…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1636367474387222500,
+					"id_str": "1636367474387222533",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FrWLjFDagAUkhw3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrWLjFDagAUkhw3.png",
+					"url": "https://t.co/Xc5rEU7Leh",
+					"display_url": "pic.twitter.com/Xc5rEU7Leh",
+					"expanded_url": "https://twitter.com/sim_t0206s/status/1636367611670962177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 880,
+							"h": 881,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 881,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1636367474387222500,
+					"id_str": "1636367474387222533",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/FrWLjFDagAUkhw3.png",
+					"media_url_https": "https://pbs.twimg.com/media/FrWLjFDagAUkhw3.png",
+					"url": "https://t.co/Xc5rEU7Leh",
+					"display_url": "pic.twitter.com/Xc5rEU7Leh",
+					"expanded_url": "https://twitter.com/sim_t0206s/status/1636367611670962177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 880,
+							"h": 881,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 881,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2748937338,
+			"id_str": "2748937338",
+			"name": "심봤다",
+			"screen_name": "sim_t0206s",
+			"location": "FG",
+			"description": "맛있으면 열심히 먹고 그려용🍚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5452,
+			"friends_count": 75,
+			"listed_count": 41,
+			"created_at": "Wed Aug 20 13:03:20 +0000 2014",
+			"favourites_count": 2465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1622462110235238401/b4kZWZ77_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1622462110235238401/b4kZWZ77_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2748937338/1675660167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1632558189081415700,
+		"quoted_status_id_str": "1632558189081415680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s7DGCAwYG1",
+			"expanded": "https://twitter.com/jyolipong14/status/1632558189081415680",
+			"display": "twitter.com/jyolipong14/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 06 01:46:18 +0000 2023",
+			"id": 1632558189081415700,
+			"id_str": "1632558189081415680",
+			"full_text": "아 대학동기 동댐뿅 셋이서 조별과제하는 거 보고싶다\n\n자료 취합 및 PPT 만들기 담당 : 이명헌\n발표 담당 : 최동오\n팀의 마스코트(?) 담당 : 정대만",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1617854289371881500,
+				"id_str": "1617854289371881473",
+				"name": "뽀또🏀",
+				"screen_name": "jyolipong14",
+				"location": "아키타현립산왕공업고등학교🐧🐧",
+				"description": "뿅.\n성인/ 우성명헌 메인으로 전부 먹어요/\nFUB FREE/        \n헤더 출처 光님 (@Kwang_176)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 210,
+				"friends_count": 70,
+				"listed_count": 4,
+				"created_at": "Tue Jan 24 11:58:22 +0000 2023",
+				"favourites_count": 1718,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1466,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1623996435502104577/IchRfdtl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1623996435502104577/IchRfdtl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1617854289371881473/1676987366",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 354,
+			"favorite_count": 752,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3693,
+		"favorite_count": 3845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동댐뿅 조별과제\n너무 웃긴 썰타래ㅜㅜㅜㅋㅜㅜ https://t.co/s7DGCAwYG1 https://t.co/Xc5rEU7Leh"
+	},
+	{
+		"created_at": "Thu Mar 16 13:41:28 +0000 2023",
+		"id": 1628693069704069000,
+		"id_str": "1636362044877455361",
+		"full_text": "🔥정대만_손(1)\n\n그를 무너뜨리는, https://t.co/64KwpBy60U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1628692869790961700,
+					"id_str": "1628692869790961664",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FppHiTAaEAAbHYj.png",
+					"media_url_https": "https://pbs.twimg.com/media/FppHiTAaEAAbHYj.png",
+					"url": "https://t.co/64KwpBy60U",
+					"display_url": "pic.twitter.com/64KwpBy60U",
+					"expanded_url": "https://twitter.com/duckchin_/status/1628693069704069121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1628692869790961700,
+					"id_str": "1628692869790961664",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FppHiTAaEAAbHYj.png",
+					"media_url_https": "https://pbs.twimg.com/media/FppHiTAaEAAbHYj.png",
+					"url": "https://t.co/64KwpBy60U",
+					"display_url": "pic.twitter.com/64KwpBy60U",
+					"expanded_url": "https://twitter.com/duckchin_/status/1628693069704069121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1617514356727763000,
+			"id_str": "1617514356727762944",
+			"name": "🏀⚡️덕친🔥🏀",
+			"screen_name": "duckchin_",
+			"location": "북산고등학교",
+			"description": "🏀계정 | 성인 | ⚡️🔥최애/외 차애 | 프로인알티스트 | 볼 거 없는 계정 | H:@goldside_00",
+			"url": "https://t.co/l2aVKV31Iw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l2aVKV31Iw",
+							"expanded_url": "https://duckchin.postype.com/",
+							"display_url": "duckchin.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 589,
+			"friends_count": 122,
+			"listed_count": 18,
+			"created_at": "Mon Jan 23 13:27:37 +0000 2023",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1632064999677100033/z61k1fga_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1632064999677100033/z61k1fga_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1617514356727762944/1676369038",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "🔥정대만_손(1)\n\n그를 무너뜨리는, https://t.co/64KwpBy60U"
+	},
+	{
 		"created_at": "Wed Mar 15 14:28:15 +0000 2023",
 		"id": 1635985103351595000,
 		"id_str": "1636011432688123905",
