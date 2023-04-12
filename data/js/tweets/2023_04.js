@@ -1,6 +1,1474 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 11:51:55 +0000 2023",
+		"id": 1645740955591655400,
+		"id_str": "1646118949623582722",
+		"full_text": "보라님 썰이 아른거려서 그린 료칸 간 산왕과 2학년 아기(+우명) https://t.co/l08syTCoHg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645740753401045000,
+					"id_str": "1645740753401044993",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FtbYfubaYAEYt5W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtbYfubaYAEYt5W.jpg",
+					"url": "https://t.co/l08syTCoHg",
+					"display_url": "pic.twitter.com/l08syTCoHg",
+					"expanded_url": "https://twitter.com/sannobii/status/1645740955591655424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1292,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 757,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645740753401045000,
+					"id_str": "1645740753401044993",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FtbYfubaYAEYt5W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtbYfubaYAEYt5W.jpg",
+					"url": "https://t.co/l08syTCoHg",
+					"display_url": "pic.twitter.com/l08syTCoHg",
+					"expanded_url": "https://twitter.com/sannobii/status/1645740955591655424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1292,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 757,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1645740766571171800,
+					"id_str": "1645740766571171841",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FtbYgffakAERk8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtbYgffakAERk8f.jpg",
+					"url": "https://t.co/l08syTCoHg",
+					"display_url": "pic.twitter.com/l08syTCoHg",
+					"expanded_url": "https://twitter.com/sannobii/status/1645740955591655424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1292,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 757,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 429,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1645740774397735000,
+					"id_str": "1645740774397734912",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FtbYg8pacAAF_G7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtbYg8pacAAF_G7.jpg",
+					"url": "https://t.co/l08syTCoHg",
+					"display_url": "pic.twitter.com/l08syTCoHg",
+					"expanded_url": "https://twitter.com/sannobii/status/1645740955591655424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1307,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 766,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1626105462793064400,
+			"id_str": "1626105462793064448",
+			"name": "산노비",
+			"screen_name": "sannobii",
+			"location": "헤더479 by지인님",
+			"description": "매일 이명헌을 sue하는 계정",
+			"url": "https://t.co/IaHSziwDu6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IaHSziwDu6",
+							"expanded_url": "https://sannobii.postype.com",
+							"display_url": "sannobii.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4043,
+			"friends_count": 129,
+			"listed_count": 25,
+			"created_at": "Thu Feb 16 06:25:39 +0000 2023",
+			"favourites_count": 3542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1635291928593039362/j53n898S_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1635291928593039362/j53n898S_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1626105462793064448/1677584721",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8163,
+		"favorite_count": 13785,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보라님 썰이 아른거려서 그린 료칸 간 산왕과 2학년 아기(+우명) https://t.co/l08syTCoHg"
+	},
+	{
+		"created_at": "Wed Apr 12 09:25:18 +0000 2023",
+		"id": 1646070202529104000,
+		"id_str": "1646082052129968129",
+		"full_text": "미국조 https://t.co/upa62pvOdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646070196686459000,
+					"id_str": "1646070196686458880",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FtgEH2TakAAKaji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtgEH2TakAAKaji.jpg",
+					"url": "https://t.co/upa62pvOdU",
+					"display_url": "pic.twitter.com/upa62pvOdU",
+					"expanded_url": "https://twitter.com/dorayakiiii/status/1646070202529103872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1005,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646070196686459000,
+					"id_str": "1646070196686458880",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FtgEH2TakAAKaji.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtgEH2TakAAKaji.jpg",
+					"url": "https://t.co/upa62pvOdU",
+					"display_url": "pic.twitter.com/upa62pvOdU",
+					"expanded_url": "https://twitter.com/dorayakiiii/status/1646070202529103872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1005,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 589,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646070196707401700,
+					"id_str": "1646070196707401729",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FtgEH2YaIAEzTuM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtgEH2YaIAEzTuM.jpg",
+					"url": "https://t.co/upa62pvOdU",
+					"display_url": "pic.twitter.com/upa62pvOdU",
+					"expanded_url": "https://twitter.com/dorayakiiii/status/1646070202529103872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 363,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1093,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646070196690620400,
+					"id_str": "1646070196690620416",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FtgEH2UaEAA5bzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtgEH2UaEAA5bzL.jpg",
+					"url": "https://t.co/upa62pvOdU",
+					"display_url": "pic.twitter.com/upa62pvOdU",
+					"expanded_url": "https://twitter.com/dorayakiiii/status/1646070202529103872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1375,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646070196850004000,
+					"id_str": "1646070196850003969",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/FtgEH26aEAEFdt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtgEH26aEAEFdt6.jpg",
+					"url": "https://t.co/upa62pvOdU",
+					"display_url": "pic.twitter.com/upa62pvOdU",
+					"expanded_url": "https://twitter.com/dorayakiiii/status/1646070202529103872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1657,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1566766789224468500,
+			"id_str": "1566766789224468480",
+			"name": "dorayaki",
+			"screen_name": "dorayakiiii",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13119,
+			"friends_count": 0,
+			"listed_count": 113,
+			"created_at": "Mon Sep 05 12:34:53 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1619608630059483136/WRB7uXUD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1619608630059483136/WRB7uXUD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1566766789224468480/1675653839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7271,
+		"favorite_count": 9620,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국조 https://t.co/upa62pvOdU"
+	},
+	{
+		"created_at": "Wed Apr 12 04:57:43 +0000 2023",
+		"id": 1646014713552306200,
+		"id_str": "1646014713552306176",
+		"full_text": "@DuckInABasket 서태웅이 좀만 더 패악질()을 부렸다면 부동의 최애였을것 같은ㅋㅋㅋ하지만 그는 덤덤쿨미인이었을 뿐이고&lt;",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DuckInABasket",
+					"name": "싯",
+					"id": 1616729238417309700,
+					"id_str": "1616729238417309696",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1646009935032111000,
+		"in_reply_to_status_id_str": "1646009935032111104",
+		"in_reply_to_user_id": 1616729238417309700,
+		"in_reply_to_user_id_str": "1616729238417309696",
+		"in_reply_to_screen_name": "DuckInABasket",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@DuckInABasket 서태웅이 좀만 더 패악질()을 부렸다면 부동의 최애였을것 같은ㅋㅋㅋ하지만 그는 덤덤쿨미인이었을 뿐이고&lt;"
+	},
+	{
+		"created_at": "Wed Apr 12 04:35:34 +0000 2023",
+		"id": 1646009139263586300,
+		"id_str": "1646009139263586305",
+		"full_text": "@DuckInABasket 분명히 어릴때 슬램덩크 첨 봤을 땐 최애가 서태웅이었는데 말이죠 ㅋㅋㅋ정신을 차리니 정대만이...? 얼음미인은 어디가고? 근데 너무나 공주님인 정대만이?&lt;",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DuckInABasket",
+					"name": "싯",
+					"id": 1616729238417309700,
+					"id_str": "1616729238417309696",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1646008456632225800,
+		"in_reply_to_status_id_str": "1646008456632225794",
+		"in_reply_to_user_id": 1616729238417309700,
+		"in_reply_to_user_id_str": "1616729238417309696",
+		"in_reply_to_screen_name": "DuckInABasket",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@DuckInABasket 분명히 어릴때 슬램덩크 첨 봤을 땐 최애가 서태웅이었는데 말이죠 ㅋㅋㅋ정신을 차리니 정대만이...? 얼음미인은 어디가고? 근데 너무나 공주님인 정대만이?&lt;"
+	},
+	{
+		"created_at": "Wed Apr 12 04:28:37 +0000 2023",
+		"id": 1646007389274136600,
+		"id_str": "1646007389274136577",
+		"full_text": "그런 의미에서 정대만은 진짜 운석처럼 내 가슴에 날아와박힌...얼굴 취향은 오히려 서태웅인데 나는..난..하지만 정대만이 먼저...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1646005380290588700,
+		"in_reply_to_status_id_str": "1646005380290588672",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그런 의미에서 정대만은 진짜 운석처럼 내 가슴에 날아와박힌...얼굴 취향은 오히려 서태웅인데 나는..난..하지만 정대만이 먼저..."
+	},
+	{
+		"created_at": "Wed Apr 12 04:20:38 +0000 2023",
+		"id": 1646005380290588700,
+		"id_str": "1646005380290588672",
+		"full_text": "나의 무시무시하게 아름답고 얼음같이 이지적인 미인 취향의 시초는 어디서부터였을까..근데 이제 제멋대로이지만 미워할 수 없는 공주님을 곁들인..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 29,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나의 무시무시하게 아름답고 얼음같이 이지적인 미인 취향의 시초는 어디서부터였을까..근데 이제 제멋대로이지만 미워할 수 없는 공주님을 곁들인.."
+	},
+	{
+		"created_at": "Wed Apr 12 03:44:35 +0000 2023",
+		"id": 1645444496514257000,
+		"id_str": "1645996307209945089",
+		"full_text": "여자친구 얘기하는 해남 농구부 https://t.co/TcY17ggVs7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645442762844823600,
+					"id_str": "1645442762844823552",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FtXJeZGaYAA0G7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtXJeZGaYAA0G7E.jpg",
+					"url": "https://t.co/TcY17ggVs7",
+					"display_url": "pic.twitter.com/TcY17ggVs7",
+					"expanded_url": "https://twitter.com/rz122222/status/1645444496514256896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645442762844823600,
+					"id_str": "1645442762844823552",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FtXJeZGaYAA0G7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtXJeZGaYAA0G7E.jpg",
+					"url": "https://t.co/TcY17ggVs7",
+					"display_url": "pic.twitter.com/TcY17ggVs7",
+					"expanded_url": "https://twitter.com/rz122222/status/1645444496514256896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1279,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1645442786496487400,
+					"id_str": "1645442786496487426",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FtXJfxNaIAIVMDh.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtXJfxNaIAIVMDh.png",
+					"url": "https://t.co/TcY17ggVs7",
+					"display_url": "pic.twitter.com/TcY17ggVs7",
+					"expanded_url": "https://twitter.com/rz122222/status/1645444496514256896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1279,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1645442801520476200,
+					"id_str": "1645442801520476160",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FtXJgpLaAAAjwyF.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtXJgpLaAAAjwyF.png",
+					"url": "https://t.co/TcY17ggVs7",
+					"display_url": "pic.twitter.com/TcY17ggVs7",
+					"expanded_url": "https://twitter.com/rz122222/status/1645444496514256896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 1279,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291760365785636900,
+			"id_str": "1291760365785636864",
+			"name": "mb",
+			"screen_name": "rz122222",
+			"location": " ",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6644,
+			"friends_count": 176,
+			"listed_count": 144,
+			"created_at": "Fri Aug 07 15:37:39 +0000 2020",
+			"favourites_count": 36473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517063490649092096/Xt6zaqg0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517063490649092096/Xt6zaqg0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291760365785636864/1599969933",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3359,
+		"favorite_count": 4267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여자친구 얘기하는 해남 농구부 https://t.co/TcY17ggVs7"
+	},
+	{
+		"created_at": "Tue Apr 11 17:36:12 +0000 2023",
+		"id": 1645798361554096000,
+		"id_str": "1645843202963021825",
+		"full_text": "원작 바꿔 그리기 https://t.co/L3a3L700g0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645798234496045000,
+					"id_str": "1645798234496045056",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/FtcMxkMaEAAQqTV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtcMxkMaEAAQqTV.jpg",
+					"url": "https://t.co/L3a3L700g0",
+					"display_url": "pic.twitter.com/L3a3L700g0",
+					"expanded_url": "https://twitter.com/2000000won/status/1645798361554096133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1533,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645798234496045000,
+					"id_str": "1645798234496045056",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/FtcMxkMaEAAQqTV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtcMxkMaEAAQqTV.jpg",
+					"url": "https://t.co/L3a3L700g0",
+					"display_url": "pic.twitter.com/L3a3L700g0",
+					"expanded_url": "https://twitter.com/2000000won/status/1645798361554096133/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1533,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1458718729324613600,
+			"id_str": "1458718729324613635",
+			"name": "이백만",
+			"screen_name": "2000000won",
+			"location": "",
+			"description": "모든 캐릭터 모든 경우의 수를 좋아하고\n전호장.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3318,
+			"friends_count": 15,
+			"listed_count": 36,
+			"created_at": "Thu Nov 11 08:50:27 +0000 2021",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641399661419462658/ujRJOmsh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641399661419462658/ujRJOmsh_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9445,
+		"favorite_count": 9109,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원작 바꿔 그리기 https://t.co/L3a3L700g0"
+	},
+	{
+		"created_at": "Tue Apr 11 17:35:55 +0000 2023",
+		"id": 1645833285229219800,
+		"id_str": "1645843129675952129",
+		"full_text": "비가...내리다 말다... https://t.co/QYw7CXx4UR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645833253822304300,
+					"id_str": "1645833253822304257",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftcsn9WakAEgJbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftcsn9WakAEgJbM.jpg",
+					"url": "https://t.co/QYw7CXx4UR",
+					"display_url": "pic.twitter.com/QYw7CXx4UR",
+					"expanded_url": "https://twitter.com/sappali2/status/1645833285229219841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645833253822304300,
+					"id_str": "1645833253822304257",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/Ftcsn9WakAEgJbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ftcsn9WakAEgJbM.jpg",
+					"url": "https://t.co/QYw7CXx4UR",
+					"display_url": "pic.twitter.com/QYw7CXx4UR",
+					"expanded_url": "https://twitter.com/sappali2/status/1645833285229219841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1518891236123623400,
+			"id_str": "1518891236123623424",
+			"name": "노곤🏀",
+			"screen_name": "sappali2",
+			"location": "",
+			"description": "🏀FUB free🏀 조용히 현생을 살아가려다 못참고 계정 판 사람..🥹",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22020,
+			"friends_count": 60,
+			"listed_count": 235,
+			"created_at": "Tue Apr 26 09:54:30 +0000 2022",
+			"favourites_count": 3870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1613524237012307984/Q-5sAS5t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1613524237012307984/Q-5sAS5t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1518891236123623424/1679845093",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4284,
+		"favorite_count": 8876,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비가...내리다 말다... https://t.co/QYw7CXx4UR"
+	},
+	{
 		"created_at": "Tue Apr 11 14:53:56 +0000 2023",
 		"id": 1642857430232240000,
 		"id_str": "1645802368720863245",
