@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 11:43:57 +0000 2023",
+		"id": 1647550152130056200,
+		"id_str": "1647566497013989376",
+		"full_text": "태대 (여체)\n\n그냥 마츠다 세이코 머리를 한 중딩 만만이가 보고싶었을 뿐..... https://t.co/lTP2gKAieH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647550010614251500,
+					"id_str": "1647550010614251521",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft1GAWxagAEKqq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft1GAWxagAEKqq2.jpg",
+					"url": "https://t.co/lTP2gKAieH",
+					"display_url": "pic.twitter.com/lTP2gKAieH",
+					"expanded_url": "https://twitter.com/0JISANG_/status/1647550152130056194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647550010614251500,
+					"id_str": "1647550010614251521",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft1GAWxagAEKqq2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft1GAWxagAEKqq2.jpg",
+					"url": "https://t.co/lTP2gKAieH",
+					"display_url": "pic.twitter.com/lTP2gKAieH",
+					"expanded_url": "https://twitter.com/0JISANG_/status/1647550152130056194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647550010631032800,
+					"id_str": "1647550010631032832",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft1GAW1akAAzuZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ft1GAW1akAAzuZP.jpg",
+					"url": "https://t.co/lTP2gKAieH",
+					"display_url": "pic.twitter.com/lTP2gKAieH",
+					"expanded_url": "https://twitter.com/0JISANG_/status/1647550152130056194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1588113523754008600,
+			"id_str": "1588113523754008576",
+			"name": "오지상",
+			"screen_name": "0JISANG_",
+			"location": "",
+			"description": "그리고 싶은 거 그림\nhttps://t.co/szCvFNQ0qw",
+			"url": "https://t.co/FX2kyJR8DB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FX2kyJR8DB",
+							"expanded_url": "http://pushoong.com/4919898436?c=3",
+							"display_url": "pushoong.com/4919898436?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/szCvFNQ0qw",
+							"expanded_url": "http://duddo1122.postype.com",
+							"display_url": "duddo1122.postype.com",
+							"indices": [
+								12,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9512,
+			"friends_count": 21,
+			"listed_count": 34,
+			"created_at": "Thu Nov 03 10:19:15 +0000 2022",
+			"favourites_count": 2545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1646417274763620353/F8Wvf0C9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1646417274763620353/F8Wvf0C9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1588113523754008576/1670321896",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1885,
+		"favorite_count": 3721,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태대 (여체)\n\n그냥 마츠다 세이코 머리를 한 중딩 만만이가 보고싶었을 뿐..... https://t.co/lTP2gKAieH"
+	},
+	{
 		"created_at": "Sat Apr 15 15:44:41 +0000 2023",
 		"id": 1647248810760888300,
 		"id_str": "1647264691004260353",
