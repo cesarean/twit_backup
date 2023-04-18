@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 13:28:12 +0000 2023",
+		"id": 1645459075126411300,
+		"id_str": "1648317507416244226",
+		"full_text": "미야기네 졸업식 https://t.co/Qg6akRK9Gi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645458946046697500,
+					"id_str": "1645458946046697475",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FtXYMYOaIAMBVCZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtXYMYOaIAMBVCZ.png",
+					"url": "https://t.co/Qg6akRK9Gi",
+					"display_url": "pic.twitter.com/Qg6akRK9Gi",
+					"expanded_url": "https://twitter.com/Mekkeman/status/1645459075126411265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1443,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645458946046697500,
+					"id_str": "1645458946046697475",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FtXYMYOaIAMBVCZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtXYMYOaIAMBVCZ.png",
+					"url": "https://t.co/Qg6akRK9Gi",
+					"display_url": "pic.twitter.com/Qg6akRK9Gi",
+					"expanded_url": "https://twitter.com/Mekkeman/status/1645459075126411265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1443,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1005847184795816000,
+			"id_str": "1005847184795815936",
+			"name": "메께",
+			"screen_name": "Mekkeman",
+			"location": "i: 개적님 / 연재문의X",
+			"description": "🏀🥦🔥🐑🐯 저는 키작공미식가 알티아티스트예요",
+			"url": "https://t.co/llJqJrCpxr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/llJqJrCpxr",
+							"expanded_url": "http://pushoong.com/2730032086?c=3",
+							"display_url": "pushoong.com/2730032086?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6020,
+			"friends_count": 65,
+			"listed_count": 71,
+			"created_at": "Sun Jun 10 16:20:31 +0000 2018",
+			"favourites_count": 430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1617917971422400513/tBHQ23rV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1617917971422400513/tBHQ23rV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1005847184795815936/1674476816",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2043,
+		"favorite_count": 4796,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미야기네 졸업식 https://t.co/Qg6akRK9Gi"
+	},
+	{
 		"created_at": "Mon Apr 17 16:17:10 +0000 2023",
 		"id": 1647523330239647700,
 		"id_str": "1647997639697518596",
@@ -1323,7 +1498,7 @@ Grailbird.data.tweets_2023_04 =
 		"created_at": "Mon Apr 17 02:06:49 +0000 2023",
 		"id": 1647667680290427000,
 		"id_str": "1647783642670989313",
-		"full_text": "ﾘｮﾐ🔞最中とろとろになるﾐ。※R18🙇‍♂️\nhttps://t.co/CrjGmxPBye https://t.co/LlIezq3E4e",
+		"full_text": "ﾘｮﾐ🔞最中とろとろになるﾐ。※R18🙇♂️\nhttps://t.co/CrjGmxPBye https://t.co/LlIezq3E4e",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1489,7 +1664,7 @@ Grailbird.data.tweets_2023_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "ﾘｮﾐ🔞最中とろとろになるﾐ。※R18🙇‍♂️\nhttps://t.co/CrjGmxPBye https://t.co/LlIezq3E4e"
+		"text": "ﾘｮﾐ🔞最中とろとろになるﾐ。※R18🙇♂️\nhttps://t.co/CrjGmxPBye https://t.co/LlIezq3E4e"
 	},
 	{
 		"created_at": "Sun Apr 16 11:43:57 +0000 2023",
