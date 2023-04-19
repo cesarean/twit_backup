@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 19 01:07:38 +0000 2023",
+		"id": 1647485435042754600,
+		"id_str": "1648493525670191104",
+		"full_text": "流三/탱댐 　① https://t.co/GpWnbGZxfd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1647485401182130200,
+					"id_str": "1647485401182130182",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft0LPl4aUAYJ9WT.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ft0LPl4aUAYJ9WT.png",
+					"url": "https://t.co/GpWnbGZxfd",
+					"display_url": "pic.twitter.com/GpWnbGZxfd",
+					"expanded_url": "https://twitter.com/mkumo9/status/1647485435042754561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1647485401182130200,
+					"id_str": "1647485401182130182",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft0LPl4aUAYJ9WT.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ft0LPl4aUAYJ9WT.png",
+					"url": "https://t.co/GpWnbGZxfd",
+					"display_url": "pic.twitter.com/GpWnbGZxfd",
+					"expanded_url": "https://twitter.com/mkumo9/status/1647485435042754561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1647485406496292900,
+					"id_str": "1647485406496292866",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft0LP5raAAI3E-p.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ft0LP5raAAI3E-p.png",
+					"url": "https://t.co/GpWnbGZxfd",
+					"display_url": "pic.twitter.com/GpWnbGZxfd",
+					"expanded_url": "https://twitter.com/mkumo9/status/1647485435042754561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1647485412607430700,
+					"id_str": "1647485412607430656",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft0LQQcakAAQ9TU.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ft0LQQcakAAQ9TU.png",
+					"url": "https://t.co/GpWnbGZxfd",
+					"display_url": "pic.twitter.com/GpWnbGZxfd",
+					"expanded_url": "https://twitter.com/mkumo9/status/1647485435042754561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1647485419083411500,
+					"id_str": "1647485419083411456",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/Ft0LQokaMAApIdX.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ft0LQokaMAApIdX.png",
+					"url": "https://t.co/GpWnbGZxfd",
+					"display_url": "pic.twitter.com/GpWnbGZxfd",
+					"expanded_url": "https://twitter.com/mkumo9/status/1647485435042754561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1530862057641259000,
+			"id_str": "1530862057641259008",
+			"name": "muku",
+			"screen_name": "mkumo9",
+			"location": "なんもかんも嘘。",
+			"description": "流三탱댐🏀/20↑/🔞18歳↓はフォロー×/2023.03〜",
+			"url": "https://t.co/AbyJPSaRcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AbyJPSaRcB",
+							"expanded_url": "https://wavebox.me/wave/f10l81n924g7y0w4/",
+							"display_url": "wavebox.me/wave/f10l81n92…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15290,
+			"friends_count": 57,
+			"listed_count": 98,
+			"created_at": "Sun May 29 10:42:20 +0000 2022",
+			"favourites_count": 1219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1643644010630901760/kHFQ-0T__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1643644010630901760/kHFQ-0T__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1031,
+		"favorite_count": 5754,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "流三/탱댐 　① https://t.co/GpWnbGZxfd"
+	},
+	{
 		"created_at": "Tue Apr 18 13:28:12 +0000 2023",
 		"id": 1645459075126411300,
 		"id_str": "1648317507416244226",
