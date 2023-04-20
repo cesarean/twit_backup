@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Thu Apr 20 15:26:09 +0000 2023",
+		"id": 1649047563805528000,
+		"id_str": "1649071965486080000",
+		"full_text": "채치수의 문단속 https://t.co/k8vTD1F9Q7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649047483065208800,
+					"id_str": "1649047483065208833",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FuKX8uXakAEePTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuKX8uXakAEePTq.jpg",
+					"url": "https://t.co/k8vTD1F9Q7",
+					"display_url": "pic.twitter.com/k8vTD1F9Q7",
+					"expanded_url": "https://twitter.com/__iamddong/status/1649047563805528066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649047483065208800,
+					"id_str": "1649047483065208833",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FuKX8uXakAEePTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuKX8uXakAEePTq.jpg",
+					"url": "https://t.co/k8vTD1F9Q7",
+					"display_url": "pic.twitter.com/k8vTD1F9Q7",
+					"expanded_url": "https://twitter.com/__iamddong/status/1649047563805528066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1649047483065208800,
+					"id_str": "1649047483065208836",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FuKX8uXakAQnwdQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuKX8uXakAQnwdQ.jpg",
+					"url": "https://t.co/k8vTD1F9Q7",
+					"display_url": "pic.twitter.com/k8vTD1F9Q7",
+					"expanded_url": "https://twitter.com/__iamddong/status/1649047563805528066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1423519580530438100,
+			"id_str": "1423519580530438144",
+			"name": "원짱",
+			"screen_name": "__iamddong",
+			"location": "비팔알림x/⬇️리퀘및질문➡️",
+			"description": "제 캐해가 틀리다면\n그것도 운명이겠죠",
+			"url": "https://t.co/NiYXhBjLiw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NiYXhBjLiw",
+							"expanded_url": "https://spinspin.net/__iamddong",
+							"display_url": "spinspin.net/__iamddong",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5757,
+			"friends_count": 79,
+			"listed_count": 71,
+			"created_at": "Fri Aug 06 05:42:17 +0000 2021",
+			"favourites_count": 3748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1614271226771562497/0-77Z0rX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1614271226771562497/0-77Z0rX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1423519580530438144/1676382136",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3161,
+		"favorite_count": 4053,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "채치수의 문단속 https://t.co/k8vTD1F9Q7"
+	},
+	{
 		"created_at": "Wed Apr 19 01:07:38 +0000 2023",
 		"id": 1647485435042754600,
 		"id_str": "1648493525670191104",
