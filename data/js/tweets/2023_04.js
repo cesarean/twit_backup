@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 22 15:38:58 +0000 2023",
+		"id": 1649799967173910500,
+		"id_str": "1649799967173910528",
+		"full_text": "어찌할 수 없는 자기 처지에 대한 스트레스와 몸에 배인 궁중 생활이 점점 익숙해져 가는데에 대한 분노로 후대에 남을 만한 작들 계속 완성하고 다 망쳐버리기...이 중 간신히 살아남은 것들은 절대 밖으로 나가지않고 핀골핀의 개인 서재에 모두 장식되겠지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1649799914602508300,
+		"in_reply_to_status_id_str": "1649799914602508289",
+		"in_reply_to_user_id": 2327283314,
+		"in_reply_to_user_id_str": "2327283314",
+		"in_reply_to_screen_name": "celebaduial",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어찌할 수 없는 자기 처지에 대한 스트레스와 몸에 배인 궁중 생활이 점점 익숙해져 가는데에 대한 분노로 후대에 남을 만한 작들 계속 완성하고 다 망쳐버리기...이 중 간신히 살아남은 것들은 절대 밖으로 나가지않고 핀골핀의 개인 서재에 모두 장식되겠지."
+	},
+	{
+		"created_at": "Sat Apr 22 15:38:46 +0000 2023",
+		"id": 1649799914602508300,
+		"id_str": "1649799914602508289",
+		"full_text": "황귀비 페아노르 구중궁궐에 갇혀서 온갖 예술작품 만들고 부수는 걸로 시간보내면 좋겠다. 진귀한 꽃으로 꽃꽂이하고 다 연못에 던져버린다거나 벽을 전부 채우는 대형 그림 그리고 먹물 뿌려버리기, 몇달씩 공들인 자수 병풍 만들고 가위로 찢어버리기 등..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "황귀비 페아노르 구중궁궐에 갇혀서 온갖 예술작품 만들고 부수는 걸로 시간보내면 좋겠다. 진귀한 꽃으로 꽃꽂이하고 다 연못에 던져버린다거나 벽을 전부 채우는 대형 그림 그리고 먹물 뿌려버리기, 몇달씩 공들인 자수 병풍 만들고 가위로 찢어버리기 등.."
+	},
+	{
+		"created_at": "Sat Apr 22 12:46:29 +0000 2023",
+		"id": 1649729587969130500,
+		"id_str": "1649756559604600835",
+		"full_text": "센도 아키라 https://t.co/PWXsgijJ5A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649729582092939300,
+					"id_str": "1649729582092939264",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/FuUEUHQacAAHdj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuUEUHQacAAHdj6.jpg",
+					"url": "https://t.co/PWXsgijJ5A",
+					"display_url": "pic.twitter.com/PWXsgijJ5A",
+					"expanded_url": "https://twitter.com/tumblr200710/status/1649729587969130504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649729582092939300,
+					"id_str": "1649729582092939264",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/FuUEUHQacAAHdj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuUEUHQacAAHdj6.jpg",
+					"url": "https://t.co/PWXsgijJ5A",
+					"display_url": "pic.twitter.com/PWXsgijJ5A",
+					"expanded_url": "https://twitter.com/tumblr200710/status/1649729587969130504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281593458558304300,
+			"id_str": "1281593458558304256",
+			"name": "길듕",
+			"screen_name": "tumblr200710",
+			"location": "D-30",
+			"description": "야구계 ::: @chrome_220817",
+			"url": "https://t.co/gVMP6vIKWp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gVMP6vIKWp",
+							"expanded_url": "http://pushoong.com/7899907762?c=3",
+							"display_url": "pushoong.com/7899907762?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24610,
+			"friends_count": 72,
+			"listed_count": 120,
+			"created_at": "Fri Jul 10 14:17:55 +0000 2020",
+			"favourites_count": 30350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641838722147844096/UsIEtjao_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641838722147844096/UsIEtjao_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281593458558304256/1678713297",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3110,
+		"favorite_count": 5605,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "센도 아키라 https://t.co/PWXsgijJ5A"
+	},
+	{
 		"created_at": "Fri Apr 21 16:06:26 +0000 2023",
 		"id": 1649444490753753000,
 		"id_str": "1649444490753753088",
