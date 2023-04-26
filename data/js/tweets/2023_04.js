@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 26 10:38:35 +0000 2023",
+		"id": 1651120639149998000,
+		"id_str": "1651173924259115013",
+		"full_text": "아무리생각해도\n님잠꼬대미치신듯 https://t.co/yXL3F47fIR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1651120626210586600,
+					"id_str": "1651120626210586624",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Fun1diaaQAAvr_4.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fun1diaaQAAvr_4.png",
+					"url": "https://t.co/yXL3F47fIR",
+					"display_url": "pic.twitter.com/yXL3F47fIR",
+					"expanded_url": "https://twitter.com/OoOoo0o0ooO_/status/1651120639149998080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651120626210586600,
+					"id_str": "1651120626210586624",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/Fun1diaaQAAvr_4.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fun1diaaQAAvr_4.png",
+					"url": "https://t.co/yXL3F47fIR",
+					"display_url": "pic.twitter.com/yXL3F47fIR",
+					"expanded_url": "https://twitter.com/OoOoo0o0ooO_/status/1651120639149998080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1616809955671314400,
+			"id_str": "1616809955671314432",
+			"name": "ㅇ",
+			"screen_name": "OoOoo0o0ooO_",
+			"location": "애림 2차계정",
+			"description": "https://t.co/y5i9QX8EKZ 편하게언팔과블언블 말많이합니다 / 인형관련 문의 답변 안 합니다. 추후 샘플 완성되면 제대로 문의 받을게요 ☺️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/y5i9QX8EKZ",
+							"expanded_url": "http://peing.net/ko/ooooo0o0ooo_",
+							"display_url": "peing.net/ko/ooooo0o0ooo_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8352,
+			"friends_count": 22,
+			"listed_count": 60,
+			"created_at": "Sat Jan 21 14:48:36 +0000 2023",
+			"favourites_count": 385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1650127354696732673/H7ThQwfD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1650127354696732673/H7ThQwfD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1616809955671314432/1678556785",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1120,
+		"favorite_count": 2203,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아무리생각해도\n님잠꼬대미치신듯 https://t.co/yXL3F47fIR"
+	},
+	{
+		"created_at": "Wed Apr 26 10:36:36 +0000 2023",
+		"id": 1651061800010674200,
+		"id_str": "1651173425187282945",
+		"full_text": "태대 \n\n익명에서 말씀해주신 2세 입니다! https://t.co/qHrLnjSBWa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1651061435143946200,
+					"id_str": "1651061435143946242",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fum_oKgaAAIStTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fum_oKgaAAIStTL.jpg",
+					"url": "https://t.co/qHrLnjSBWa",
+					"display_url": "pic.twitter.com/qHrLnjSBWa",
+					"expanded_url": "https://twitter.com/_AN1K1_/status/1651061800010674176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651061435143946200,
+					"id_str": "1651061435143946242",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Fum_oKgaAAIStTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fum_oKgaAAIStTL.jpg",
+					"url": "https://t.co/qHrLnjSBWa",
+					"display_url": "pic.twitter.com/qHrLnjSBWa",
+					"expanded_url": "https://twitter.com/_AN1K1_/status/1651061800010674176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1650834157663322000,
+			"id_str": "1650834157663322112",
+			"name": "아니키",
+			"screen_name": "_AN1K1_",
+			"location": "H.쮼님",
+			"description": "안녕!                                                                                                                                https://t.co/iFSK8L03oA",
+			"url": "https://t.co/Rnn9SX8QUl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rnn9SX8QUl",
+							"expanded_url": "http://pushoong.com/6115439852?c=3",
+							"display_url": "pushoong.com/6115439852?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iFSK8L03oA",
+							"expanded_url": "http://duddo1122.postype.com",
+							"display_url": "duddo1122.postype.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4113,
+			"friends_count": 22,
+			"listed_count": 7,
+			"created_at": "Tue Apr 25 12:08:41 +0000 2023",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1650855214604521477/sisAtUmN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1650855214604521477/sisAtUmN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1650834157663322112/1682445919",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 1413,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태대 \n\n익명에서 말씀해주신 2세 입니다! https://t.co/qHrLnjSBWa"
+	},
+	{
 		"created_at": "Tue Apr 25 16:54:52 +0000 2023",
 		"id": 1650846272419672000,
 		"id_str": "1650906233019469824",
@@ -619,7 +976,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "디엠확인늦어요많이",
-			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/aK1QJFnSMG",
 			"entities": {
 				"url": {
