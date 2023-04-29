@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 29 13:31:46 +0000 2023",
+		"id": 1652248487910838300,
+		"id_str": "1652304669878910977",
+		"full_text": "태섭대만/태대 벤치에 앉아있던 상탈 느바송 기사 사진 보고 극대노해서 시차 생각 안하고 전화 갈기는 대만이 보고 싶엇음 … 태스비 암슬리브 하고 경기하는거 보고 싶음 흑흑 https://t.co/P6HqUnvo5i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1652248483662037000,
+					"id_str": "1652248483662036993",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu33Pe1agAErhoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu33Pe1agAErhoD.jpg",
+					"url": "https://t.co/P6HqUnvo5i",
+					"display_url": "pic.twitter.com/P6HqUnvo5i",
+					"expanded_url": "https://twitter.com/seungchil_sldk/status/1652248487910838272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 860,
+							"h": 1650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1652248483662037000,
+					"id_str": "1652248483662036993",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/Fu33Pe1agAErhoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fu33Pe1agAErhoD.jpg",
+					"url": "https://t.co/P6HqUnvo5i",
+					"display_url": "pic.twitter.com/P6HqUnvo5i",
+					"expanded_url": "https://twitter.com/seungchil_sldk/status/1652248487910838272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 354,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 860,
+							"h": 1650,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 625,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1455557689904275500,
+			"id_str": "1455557689904275461",
+			"name": "승칠",
+			"screen_name": "seungchil_sldk",
+			"location": "농구코트",
+			"description": "태대 탱댐 프사: 각님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 66,
+			"listed_count": 23,
+			"created_at": "Tue Nov 02 15:29:52 +0000 2021",
+			"favourites_count": 2964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1620413765878693889/wIk4XCIb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1620413765878693889/wIk4XCIb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1455557689904275461/1675153509",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 475,
+		"favorite_count": 1269,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태섭대만/태대 벤치에 앉아있던 상탈 느바송 기사 사진 보고 극대노해서 시차 생각 안하고 전화 갈기는 대만이 보고 싶엇음 … 태스비 암슬리브 하고 경기하는거 보고 싶음 흑흑 https://t.co/P6HqUnvo5i"
+	},
+	{
 		"created_at": "Fri Apr 28 14:45:48 +0000 2023",
 		"id": 1651960811328516000,
 		"id_str": "1651960915749933057",
@@ -142,7 +304,7 @@ Grailbird.data.tweets_2023_04 =
 			"name": "디페(토)B17b/ SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "디엠확인늦어요많이",
-			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/aK1QJFnSMG",
 			"entities": {
 				"url": {
