@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 08 12:29:23 +0000 2023",
+		"id": 1655493822292590600,
+		"id_str": "1655550461481713670",
+		"full_text": "X못방 동댐뿅 (논cp) ① https://t.co/KycNqVOeuX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1655493112637296600,
+					"id_str": "1655493112637296640",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvl-NvraEAAOHIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fvl-NvraEAAOHIu.jpg",
+					"url": "https://t.co/KycNqVOeuX",
+					"display_url": "pic.twitter.com/KycNqVOeuX",
+					"expanded_url": "https://twitter.com/basket_shit/status/1655493822292590593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 415,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1967,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1655493112637296600,
+					"id_str": "1655493112637296640",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvl-NvraEAAOHIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fvl-NvraEAAOHIu.jpg",
+					"url": "https://t.co/KycNqVOeuX",
+					"display_url": "pic.twitter.com/KycNqVOeuX",
+					"expanded_url": "https://twitter.com/basket_shit/status/1655493822292590593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 415,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1967,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1655493112750567400,
+					"id_str": "1655493112750567424",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvl-NwGacAAN1ig.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fvl-NwGacAAN1ig.png",
+					"url": "https://t.co/KycNqVOeuX",
+					"display_url": "pic.twitter.com/KycNqVOeuX",
+					"expanded_url": "https://twitter.com/basket_shit/status/1655493822292590593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1989,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1655493112859627500,
+					"id_str": "1655493112859627520",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvl-NwgakAA1RvD.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fvl-NwgakAA1RvD.png",
+					"url": "https://t.co/KycNqVOeuX",
+					"display_url": "pic.twitter.com/KycNqVOeuX",
+					"expanded_url": "https://twitter.com/basket_shit/status/1655493822292590593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 724,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1990,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1655493112964452400,
+					"id_str": "1655493112964452352",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/Fvl-Nw5aEAAnvzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fvl-Nw5aEAAnvzn.jpg",
+					"url": "https://t.co/KycNqVOeuX",
+					"display_url": "pic.twitter.com/KycNqVOeuX",
+					"expanded_url": "https://twitter.com/basket_shit/status/1655493822292590593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1979,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 412,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1583659473503416300,
+			"id_str": "1583659473503416320",
+			"name": "농구공살인마",
+			"screen_name": "basket_shit",
+			"location": "협력x 프박x ",
+			"description": "데만른 벡호왼 동뎀뿅(ncp) https://t.co/l0a5vMTJgH",
+			"url": "https://t.co/KJZpqEB2nH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KJZpqEB2nH",
+							"expanded_url": "https://pushoong.com/ask/9889430173",
+							"display_url": "pushoong.com/ask/9889430173",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/l0a5vMTJgH",
+							"expanded_url": "http://nohotcourt.postype.com",
+							"display_url": "nohotcourt.postype.com",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8418,
+			"friends_count": 8,
+			"listed_count": 60,
+			"created_at": "Sat Oct 22 03:20:25 +0000 2022",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1647608975301681157/8Mbkg5cm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1647608975301681157/8Mbkg5cm_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4965,
+		"favorite_count": 7474,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "X못방 동댐뿅 (논cp) ① https://t.co/KycNqVOeuX"
+	},
+	{
 		"created_at": "Sun May 07 15:15:02 +0000 2023",
 		"id": 1655229324717604900,
 		"id_str": "1655229760728076288",
@@ -557,7 +849,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "디엠확인늦어요많이",
-			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/aK1QJFnSMG",
 			"entities": {
 				"url": {
