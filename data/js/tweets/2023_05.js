@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 10 12:58:36 +0000 2023",
+		"id": 1656272638606733300,
+		"id_str": "1656282590322753536",
+		"full_text": "여기서 이은 싸우고 화해하고 xx하는 태대... 🔗https://t.co/kwx5o89er9\n염병천병 화해하는 꾸금인데요 별건없지만 https://t.co/TD8ZyN9r0S https://t.co/gimzaDw4Ud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kwx5o89er9",
+					"expanded_url": "https://posty.pe/bwnsm3",
+					"display_url": "posty.pe/bwnsm3",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/TD8ZyN9r0S",
+					"expanded_url": "https://twitter.com/Bangoul00/status/1655933190199185412",
+					"display_url": "twitter.com/Bangoul00/stat…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1656272592075108400,
+					"id_str": "1656272592075108353",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FvxDJa3aMAEUnk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvxDJa3aMAEUnk_.jpg",
+					"url": "https://t.co/gimzaDw4Ud",
+					"display_url": "pic.twitter.com/gimzaDw4Ud",
+					"expanded_url": "https://twitter.com/Bangoul00/status/1656272638606733312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 190,
+							"h": 317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 190,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 190,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1656272592075108400,
+					"id_str": "1656272592075108353",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FvxDJa3aMAEUnk_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FvxDJa3aMAEUnk_.jpg",
+					"url": "https://t.co/gimzaDw4Ud",
+					"display_url": "pic.twitter.com/gimzaDw4Ud",
+					"expanded_url": "https://twitter.com/Bangoul00/status/1656272638606733312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 190,
+							"h": 317,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 190,
+							"h": 317,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 190,
+							"h": 317,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 184386503,
+			"id_str": "184386503",
+			"name": "방울",
+			"screen_name": "Bangoul00",
+			"location": "이동왕국",
+			"description": "소소한 잡담과 섭컬쳐 2차 덕질 트위터｜장르계x｜연성백업은 포타에｜잡덕+겜덕｜FUB free 저도 프리｜연재 제의 안받습니다",
+			"url": "https://t.co/6CzTIouQ2U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CzTIouQ2U",
+							"expanded_url": "https://bangoul00.postype.com/",
+							"display_url": "bangoul00.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64266,
+			"friends_count": 24,
+			"listed_count": 299,
+			"created_at": "Sun Aug 29 12:23:13 +0000 2010",
+			"favourites_count": 1446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF677D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409173428276396032/HEXf_FVK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409173428276396032/HEXf_FVK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/184386503/1679562781",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEFED",
+			"profile_text_color": "ED8EB1",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1655933190199185400,
+		"quoted_status_id_str": "1655933190199185412",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TD8ZyN9r0S",
+			"expanded": "https://twitter.com/Bangoul00/status/1655933190199185412",
+			"display": "twitter.com/Bangoul00/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 09 13:50:12 +0000 2023",
+			"id": 1655933190199185400,
+			"id_str": "1655933190199185412",
+			"full_text": "태대 그렸던거 짧게 더 이어보고\n이걸 포타보내야돼 말아야돼 잠깐 고민했지만 이정돈 ㅇㅋ이지 않을까 https://t.co/7PMAlI0GbJ https://t.co/F9FkZHYIPt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7PMAlI0GbJ",
+						"expanded_url": "https://twitter.com/Bangoul00/status/1655127157348397063",
+						"display_url": "twitter.com/Bangoul00/stat…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1655932830206292000,
+						"id_str": "1655932830206291969",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/FvsOIrRacAE5zT7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FvsOIrRacAE5zT7.jpg",
+						"url": "https://t.co/F9FkZHYIPt",
+						"display_url": "pic.twitter.com/F9FkZHYIPt",
+						"expanded_url": "https://twitter.com/Bangoul00/status/1655933190199185412/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 898,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 898,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1655932830206292000,
+						"id_str": "1655932830206291969",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/FvsOIrRacAE5zT7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FvsOIrRacAE5zT7.jpg",
+						"url": "https://t.co/F9FkZHYIPt",
+						"display_url": "pic.twitter.com/F9FkZHYIPt",
+						"expanded_url": "https://twitter.com/Bangoul00/status/1655933190199185412/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 898,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 898,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1655932830147551200,
+						"id_str": "1655932830147551241",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/FvsOIrDaIAkRzDm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FvsOIrDaIAkRzDm.jpg",
+						"url": "https://t.co/F9FkZHYIPt",
+						"display_url": "pic.twitter.com/F9FkZHYIPt",
+						"expanded_url": "https://twitter.com/Bangoul00/status/1655933190199185412/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 816,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1655932830214668300,
+						"id_str": "1655932830214668289",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/FvsOIrTaQAE47Lx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FvsOIrTaQAE47Lx.jpg",
+						"url": "https://t.co/F9FkZHYIPt",
+						"display_url": "pic.twitter.com/F9FkZHYIPt",
+						"expanded_url": "https://twitter.com/Bangoul00/status/1655933190199185412/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 1142,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 357,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1142,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 184386503,
+				"id_str": "184386503",
+				"name": "방울",
+				"screen_name": "Bangoul00",
+				"location": "이동왕국",
+				"description": "소소한 잡담과 섭컬쳐 2차 덕질 트위터｜장르계x｜연성백업은 포타에｜잡덕+겜덕｜FUB free 저도 프리｜연재 제의 안받습니다",
+				"url": "https://t.co/6CzTIouQ2U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6CzTIouQ2U",
+								"expanded_url": "https://bangoul00.postype.com/",
+								"display_url": "bangoul00.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64266,
+				"friends_count": 24,
+				"listed_count": 299,
+				"created_at": "Sun Aug 29 12:23:13 +0000 2010",
+				"favourites_count": 1446,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 70412,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BF677D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409173428276396032/HEXf_FVK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409173428276396032/HEXf_FVK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184386503/1679562781",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFEFED",
+				"profile_text_color": "ED8EB1",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1655127157348397000,
+			"quoted_status_id_str": "1655127157348397063",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7PMAlI0GbJ",
+				"expanded": "https://twitter.com/Bangoul00/status/1655127157348397063",
+				"display": "twitter.com/Bangoul00/stat…"
+			},
+			"retweet_count": 1306,
+			"favorite_count": 3247,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 581,
+		"favorite_count": 1130,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여기서 이은 싸우고 화해하고 xx하는 태대... 🔗https://t.co/kwx5o89er9\n염병천병 화해하는 꾸금인데요 별건없지만 https://t.co/TD8ZyN9r0S https://t.co/gimzaDw4Ud"
+	},
+	{
 		"created_at": "Tue May 09 11:45:39 +0000 2023",
 		"id": 1652282653717180400,
 		"id_str": "1655901842264715264",
