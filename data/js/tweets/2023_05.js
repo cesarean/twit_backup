@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 15 00:09:28 +0000 2023",
+		"id": 1657770252548329500,
+		"id_str": "1657900969756336128",
+		"full_text": "카나가와 인천느낌이라길래 로컬라이징..(저도 간지 오래되서 ㄱ 안남..) https://t.co/nH4KG119ok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1657770240271585300,
+					"id_str": "1657770240271585282",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FwGVQBKaEAIyc4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwGVQBKaEAIyc4k.jpg",
+					"url": "https://t.co/nH4KG119ok",
+					"display_url": "pic.twitter.com/nH4KG119ok",
+					"expanded_url": "https://twitter.com/bingleway/status/1657770252548329473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1657770240271585300,
+					"id_str": "1657770240271585282",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FwGVQBKaEAIyc4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwGVQBKaEAIyc4k.jpg",
+					"url": "https://t.co/nH4KG119ok",
+					"display_url": "pic.twitter.com/nH4KG119ok",
+					"expanded_url": "https://twitter.com/bingleway/status/1657770252548329473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1657770242976911400,
+					"id_str": "1657770242976911361",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FwGVQLPaEAENv8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwGVQLPaEAENv8w.jpg",
+					"url": "https://t.co/nH4KG119ok",
+					"display_url": "pic.twitter.com/nH4KG119ok",
+					"expanded_url": "https://twitter.com/bingleway/status/1657770252548329473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1657770245925519400,
+					"id_str": "1657770245925519360",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FwGVQWOaQAASy8g.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwGVQWOaQAASy8g.png",
+					"url": "https://t.co/nH4KG119ok",
+					"display_url": "pic.twitter.com/nH4KG119ok",
+					"expanded_url": "https://twitter.com/bingleway/status/1657770252548329473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1657770249872343000,
+					"id_str": "1657770249872343040",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FwGVQk7aAAANLyA.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwGVQk7aAAANLyA.png",
+					"url": "https://t.co/nH4KG119ok",
+					"display_url": "pic.twitter.com/nH4KG119ok",
+					"expanded_url": "https://twitter.com/bingleway/status/1657770252548329473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524917401707749400,
+			"id_str": "1524917401707749376",
+			"name": "빙글🪄",
+			"screen_name": "bingleway",
+			"location": "",
+			"description": "장르계x\ncontact📨: papapaname@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9921,
+			"friends_count": 8,
+			"listed_count": 59,
+			"created_at": "Fri May 13 01:00:20 +0000 2022",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1633432554199224320/dBy49ecV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1633432554199224320/dBy49ecV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524917401707749376/1683616496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 441,
+		"favorite_count": 727,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카나가와 인천느낌이라길래 로컬라이징..(저도 간지 오래되서 ㄱ 안남..) https://t.co/nH4KG119ok"
+	},
+	{
 		"created_at": "Sun May 14 14:47:46 +0000 2023",
 		"id": 1657747323399831600,
 		"id_str": "1657759612874129419",
@@ -142,7 +412,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "디엠확인늦어요많이",
-			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/aK1QJFnSMG",
 			"entities": {
 				"url": {
