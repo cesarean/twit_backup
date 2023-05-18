@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Thu May 18 00:02:21 +0000 2023",
+		"id": 1658919179125407700,
+		"id_str": "1658986342796398593",
+		"full_text": "에이스 키우기 https://t.co/n4CIAMl6SZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1658919172330643500,
+					"id_str": "1658919172330643456",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FwWqMqnaYAATsJe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwWqMqnaYAATsJe.png",
+					"url": "https://t.co/n4CIAMl6SZ",
+					"display_url": "pic.twitter.com/n4CIAMl6SZ",
+					"expanded_url": "https://twitter.com/tenka9090/status/1658919179125407745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1658919172330643500,
+					"id_str": "1658919172330643456",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FwWqMqnaYAATsJe.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwWqMqnaYAATsJe.png",
+					"url": "https://t.co/n4CIAMl6SZ",
+					"display_url": "pic.twitter.com/n4CIAMl6SZ",
+					"expanded_url": "https://twitter.com/tenka9090/status/1658919179125407745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1658919172305481700,
+					"id_str": "1658919172305481729",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FwWqMqhacAEXQMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwWqMqhacAEXQMC.jpg",
+					"url": "https://t.co/n4CIAMl6SZ",
+					"display_url": "pic.twitter.com/n4CIAMl6SZ",
+					"expanded_url": "https://twitter.com/tenka9090/status/1658919179125407745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1228,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2834510077,
+			"id_str": "2834510077",
+			"name": "하지만JIMAN🏀",
+			"screen_name": "tenka9090",
+			"location": "",
+			"description": "2차계정: 올라운더 리버시블 / 동오랑 대만이가 들어있으면 냅다 좋아함 / 프사&헤더: 공룡님(veloci30)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20254,
+			"friends_count": 184,
+			"listed_count": 165,
+			"created_at": "Sun Sep 28 00:01:28 +0000 2014",
+			"favourites_count": 7675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1630155176375123968/KLfyYouw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1630155176375123968/KLfyYouw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2834510077/1677494665",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3526,
+		"favorite_count": 5224,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에이스 키우기 https://t.co/n4CIAMl6SZ"
+	},
+	{
 		"created_at": "Wed May 17 15:35:15 +0000 2023",
 		"id": 1658457630703235000,
 		"id_str": "1658858729700458496",
