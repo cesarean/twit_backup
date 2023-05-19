@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 19 06:15:38 +0000 2023",
+		"id": 1659422144735096800,
+		"id_str": "1659442670002118656",
+		"full_text": "https://t.co/zTQMxZIzak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1659422121934880800,
+					"id_str": "1659422121934880768",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FwdzoL5agAAx3Mr.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwdzoL5agAAx3Mr.png",
+					"url": "https://t.co/zTQMxZIzak",
+					"display_url": "pic.twitter.com/zTQMxZIzak",
+					"expanded_url": "https://twitter.com/adeli_gotohome/status/1659422144735096832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1659422121934880800,
+					"id_str": "1659422121934880768",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FwdzoL5agAAx3Mr.png",
+					"media_url_https": "https://pbs.twimg.com/media/FwdzoL5agAAx3Mr.png",
+					"url": "https://t.co/zTQMxZIzak",
+					"display_url": "pic.twitter.com/zTQMxZIzak",
+					"expanded_url": "https://twitter.com/adeli_gotohome/status/1659422144735096832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378032528,
+			"id_str": "378032528",
+			"name": "퇴근하고싶다",
+			"screen_name": "adeli_gotohome",
+			"location": "",
+			"description": "퇴근하고 싶은 직장인 아대리가 헛소리랑 아델리 올리는 계정....\nFUB FREE/트위터 재업로드 가능/헤더프사 사용가능(출처표기Plz,But 제 오너캐라는 점 유념 부탁드려요)/재가공 및 자작발언 삼가해주세요/DM빼고 알람 다 꺼둠",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22772,
+			"friends_count": 7,
+			"listed_count": 62,
+			"created_at": "Thu Sep 22 14:42:44 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584478264428724226/aQaPHPmj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584478264428724226/aQaPHPmj_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1208,
+		"favorite_count": 866,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/zTQMxZIzak"
+	},
+	{
 		"created_at": "Thu May 18 00:02:21 +0000 2023",
 		"id": 1658919179125407700,
 		"id_str": "1658986342796398593",
