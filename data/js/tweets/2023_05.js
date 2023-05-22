@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Mon May 22 14:34:32 +0000 2023",
+		"id": 1660573808007458800,
+		"id_str": "1660655385655627789",
+		"full_text": "5月22日ミッチーお誕生日おめー🎉🎂 https://t.co/sd0vfYLbqk https://t.co/IZYqdYwfXs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sd0vfYLbqk",
+					"expanded_url": "https://twitter.com/mizuho_a_10/status/1658425602188406784",
+					"display_url": "twitter.com/mizuho_a_10/st…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1660573522878681000,
+					"id_str": "1660573522878681088",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FwuK0iqaUAArmMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwuK0iqaUAArmMF.jpg",
+					"url": "https://t.co/IZYqdYwfXs",
+					"display_url": "pic.twitter.com/IZYqdYwfXs",
+					"expanded_url": "https://twitter.com/mizuho_a_10/status/1660573808007458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1197,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1660573522878681000,
+					"id_str": "1660573522878681088",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FwuK0iqaUAArmMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FwuK0iqaUAArmMF.jpg",
+					"url": "https://t.co/IZYqdYwfXs",
+					"display_url": "pic.twitter.com/IZYqdYwfXs",
+					"expanded_url": "https://twitter.com/mizuho_a_10/status/1660573808007458816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1197,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 397,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164727885,
+			"id_str": "164727885",
+			"name": "瑞穂",
+			"screen_name": "mizuho_a_10",
+			"location": "",
+			"description": "興味の幅は凄く狭いが惹かれるととことん追求するのが生き甲斐。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78721,
+			"friends_count": 17,
+			"listed_count": 442,
+			"created_at": "Fri Jul 09 16:07:42 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207154097658327041/fRGe5LBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207154097658327041/fRGe5LBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164727885/1576644834",
+			"profile_link_color": "663366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1658425602188406800,
+		"quoted_status_id_str": "1658425602188406784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sd0vfYLbqk",
+			"expanded": "https://twitter.com/mizuho_a_10/status/1658425602188406784",
+			"display": "twitter.com/mizuho_a_10/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 16 10:54:10 +0000 2023",
+			"id": 1658425602188406800,
+			"id_str": "1658425602188406784",
+			"full_text": "グレた息子がケガをして髪も短くなって帰ってきました（バスケ部襲撃事件後）。 https://t.co/AZzz4NnSb8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1658424639406899200,
+						"id_str": "1658424639406899200",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FwPobD6agAAerzP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FwPobD6agAAerzP.jpg",
+						"url": "https://t.co/AZzz4NnSb8",
+						"display_url": "pic.twitter.com/AZzz4NnSb8",
+						"expanded_url": "https://twitter.com/mizuho_a_10/status/1658425602188406784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 624,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1064,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 353,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1658424639406899200,
+						"id_str": "1658424639406899200",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FwPobD6agAAerzP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FwPobD6agAAerzP.jpg",
+						"url": "https://t.co/AZzz4NnSb8",
+						"display_url": "pic.twitter.com/AZzz4NnSb8",
+						"expanded_url": "https://twitter.com/mizuho_a_10/status/1658425602188406784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 624,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1064,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 353,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 164727885,
+				"id_str": "164727885",
+				"name": "瑞穂",
+				"screen_name": "mizuho_a_10",
+				"location": "",
+				"description": "興味の幅は凄く狭いが惹かれるととことん追求するのが生き甲斐。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78721,
+				"friends_count": 17,
+				"listed_count": 442,
+				"created_at": "Fri Jul 09 16:07:42 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1207154097658327041/fRGe5LBV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207154097658327041/fRGe5LBV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164727885/1576644834",
+				"profile_link_color": "663366",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4241,
+			"favorite_count": 33064,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2518,
+		"favorite_count": 16763,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "5月22日ミッチーお誕生日おめー🎉🎂 https://t.co/sd0vfYLbqk https://t.co/IZYqdYwfXs"
+	},
+	{
 		"created_at": "Sun May 21 15:09:29 +0000 2023",
 		"id": 1660301793027580000,
 		"id_str": "1660301793027579904",
@@ -1514,8 +1854,8 @@ Grailbird.data.tweets_2023_05 =
 			"id_str": "1548181882516705280",
 			"name": "😈아망😈",
 			"screen_name": "amang514",
-			"location": "스킨쉽+수위관련 질문 답장못드려요😶‍🌫️",
-			"description": "오직🥦🔥+좌우상대고정 / ☠️Do not repost / 성인 / 🤷‍♂️https://t.co/TXbuO48Bsb / 프사:내삐님",
+			"location": "스킨쉽+수위관련 질문 답장못드려요😶🌫️",
+			"description": "오직🥦🔥+좌우상대고정 / ☠️Do not repost / 성인 / 🤷♂️https://t.co/TXbuO48Bsb / 프사:내삐님",
 			"url": "https://t.co/ym2TQm11mr",
 			"entities": {
 				"url": {
