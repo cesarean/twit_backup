@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 24 23:44:28 +0000 2023",
+		"id": 1661427399232483300,
+		"id_str": "1661518558613078016",
+		"full_text": "태섭대만\n눈치백단 아라와 함께 등교하기 ^ㅡ^.. https://t.co/cIotvBYRgz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1661427242407456800,
+					"id_str": "1661427242407456769",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Fw6TRjvacAEGLIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fw6TRjvacAEGLIp.jpg",
+					"url": "https://t.co/cIotvBYRgz",
+					"display_url": "pic.twitter.com/cIotvBYRgz",
+					"expanded_url": "https://twitter.com/amang514/status/1661427399232483328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1661427242407456800,
+					"id_str": "1661427242407456769",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Fw6TRjvacAEGLIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fw6TRjvacAEGLIp.jpg",
+					"url": "https://t.co/cIotvBYRgz",
+					"display_url": "pic.twitter.com/cIotvBYRgz",
+					"expanded_url": "https://twitter.com/amang514/status/1661427399232483328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1548181882516705300,
+			"id_str": "1548181882516705280",
+			"name": "😈아망😈",
+			"screen_name": "amang514",
+			"location": "스킨쉽+수위관련 질문 답장못드려요😶‍🌫️",
+			"description": "오직🥦🔥+좌우상대고정 / ☠️Do not repost / 성인 / 🤷‍♂️https://t.co/TXbuO48Bsb / 프사:내삐님",
+			"url": "https://t.co/ym2TQm11mr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ym2TQm11mr",
+							"expanded_url": "https://posty.pe/s029387",
+							"display_url": "posty.pe/s029387",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TXbuO48Bsb",
+							"expanded_url": "http://peing.net/ko/amang514",
+							"display_url": "peing.net/ko/amang514",
+							"indices": [
+								41,
+								64
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6640,
+			"friends_count": 85,
+			"listed_count": 48,
+			"created_at": "Sat Jul 16 05:45:07 +0000 2022",
+			"favourites_count": 4079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1659950501042200576/g1gNRScI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1659950501042200576/g1gNRScI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1548181882516705280/1683908509",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 938,
+		"favorite_count": 2463,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태섭대만\n눈치백단 아라와 함께 등교하기 ^ㅡ^.. https://t.co/cIotvBYRgz"
+	},
+	{
 		"created_at": "Tue May 23 23:31:04 +0000 2023",
 		"id": 1660857990344237000,
 		"id_str": "1661152798711619584",
