@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Fri May 26 14:29:07 +0000 2023",
+		"id": 1662101754123812900,
+		"id_str": "1662103574715813888",
+		"full_text": "🇺🇸 https://t.co/yJgbW3nNcA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1662101586641035300,
+					"id_str": "1662101586641035264",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/FxD4ljxaIAAIEdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxD4ljxaIAAIEdE.jpg",
+					"url": "https://t.co/yJgbW3nNcA",
+					"display_url": "pic.twitter.com/yJgbW3nNcA",
+					"expanded_url": "https://twitter.com/2000000won/status/1662101754123812870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 1761,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1662101586641035300,
+					"id_str": "1662101586641035264",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/FxD4ljxaIAAIEdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxD4ljxaIAAIEdE.jpg",
+					"url": "https://t.co/yJgbW3nNcA",
+					"display_url": "pic.twitter.com/yJgbW3nNcA",
+					"expanded_url": "https://twitter.com/2000000won/status/1662101754123812870/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1320,
+							"h": 1761,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1458718729324613600,
+			"id_str": "1458718729324613635",
+			"name": "이백만",
+			"screen_name": "2000000won",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4551,
+			"friends_count": 23,
+			"listed_count": 37,
+			"created_at": "Thu Nov 11 08:50:27 +0000 2021",
+			"favourites_count": 1757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1641399661419462658/ujRJOmsh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641399661419462658/ujRJOmsh_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3074,
+		"favorite_count": 3985,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "🇺🇸 https://t.co/yJgbW3nNcA"
+	},
+	{
 		"created_at": "Wed May 24 23:44:28 +0000 2023",
 		"id": 1661427399232483300,
 		"id_str": "1661518558613078016",
@@ -105,8 +266,8 @@ Grailbird.data.tweets_2023_05 =
 			"id_str": "1548181882516705280",
 			"name": "😈아망😈",
 			"screen_name": "amang514",
-			"location": "스킨쉽+수위관련 질문 답장못드려요😶‍🌫️",
-			"description": "오직🥦🔥+좌우상대고정 / ☠️Do not repost / 성인 / 🤷‍♂️https://t.co/TXbuO48Bsb / 프사:내삐님",
+			"location": "스킨쉽+수위관련 질문 답장못드려요😶🌫️",
+			"description": "오직🥦🔥+좌우상대고정 / ☠️Do not repost / 성인 / 🤷♂️https://t.co/TXbuO48Bsb / 프사:내삐님",
 			"url": "https://t.co/ym2TQm11mr",
 			"entities": {
 				"url": {
