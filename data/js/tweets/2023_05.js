@@ -1,6 +1,1012 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sun May 28 16:34:18 +0000 2023",
+		"id": 1662859287650238500,
+		"id_str": "1662859853260541952",
+		"full_text": "탱댐 합쳐서올림.. 원래껀 지울게용\n\nhttps://t.co/lPvMzDg50x https://t.co/EOYOyf2BO0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lPvMzDg50x",
+					"expanded_url": "https://posty.pe/kn9et9",
+					"display_url": "posty.pe/kn9et9",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1662859282789044200,
+					"id_str": "1662859282789044230",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FxOptR4aEAYMtSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxOptR4aEAYMtSo.jpg",
+					"url": "https://t.co/EOYOyf2BO0",
+					"display_url": "pic.twitter.com/EOYOyf2BO0",
+					"expanded_url": "https://twitter.com/chainssaee/status/1662859287650238464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1662859282789044200,
+					"id_str": "1662859282789044230",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/FxOptR4aEAYMtSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxOptR4aEAYMtSo.jpg",
+					"url": "https://t.co/EOYOyf2BO0",
+					"display_url": "pic.twitter.com/EOYOyf2BO0",
+					"expanded_url": "https://twitter.com/chainssaee/status/1662859287650238464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 532,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1503899974223884300,
+			"id_str": "1503899974223884289",
+			"name": "SAE☃︎",
+			"screen_name": "chainssaee",
+			"location": "디엠확인늦어요많이",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"url": "https://t.co/aK1QJFnSMG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aK1QJFnSMG",
+							"expanded_url": "http://pushoong.com/7751639846?c=3",
+							"display_url": "pushoong.com/7751639846?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112578,
+			"friends_count": 0,
+			"listed_count": 527,
+			"created_at": "Wed Mar 16 01:04:43 +0000 2022",
+			"favourites_count": 287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1659548376088838145/tBLNd33x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1659548376088838145/tBLNd33x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1503899974223884289/1667576675",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 235,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱댐 합쳐서올림.. 원래껀 지울게용\n\nhttps://t.co/lPvMzDg50x https://t.co/EOYOyf2BO0"
+	},
+	{
+		"created_at": "Sun May 28 16:14:56 +0000 2023",
+		"id": 1662854979718377500,
+		"id_str": "1662854979718377473",
+		"full_text": "@c__706 뭔가 알쏭달쏭한 엔딩이어도 좋을 것 같네요. 먼 곳으로 시집간 히메는 그 성이 함락될 때 그대로 불타죽었다거나 혹은 낙성되던 틈을 타 정략결혼을 싫어했던 히메가 스스로 도망쳤다거나 혹은 아시가루 하나가 비단옷을 뒤집어쓴 귀부인을 업고 빠져나가는 걸 누가 봤다거나...",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662853465817878500,
+		"in_reply_to_status_id_str": "1662853465817878528",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 뭔가 알쏭달쏭한 엔딩이어도 좋을 것 같네요. 먼 곳으로 시집간 히메는 그 성이 함락될 때 그대로 불타죽었다거나 혹은 낙성되던 틈을 타 정략결혼을 싫어했던 히메가 스스로 도망쳤다거나 혹은 아시가루 하나가 비단옷을 뒤집어쓴 귀부인을 업고 빠져나가는 걸 누가 봤다거나..."
+	},
+	{
+		"created_at": "Sun May 28 16:05:52 +0000 2023",
+		"id": 1662852698398662700,
+		"id_str": "1662852698398662656",
+		"full_text": "@c__706 결혼할 때는 하더라도 테츠오를 어떻게든 하인으로라도 데려가고 싶은 히메사마와 여기서 헤어져야 함을 느끼는 테츠오일까요. 이 공주님은 원래 자기가 있던 세계로 돌아가는 게 맞으니까, 우치카케를 길게 끌며 산 꼭대기 천수각으로 돌아가는 게...",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662851345618198500,
+		"in_reply_to_status_id_str": "1662851345618198529",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 결혼할 때는 하더라도 테츠오를 어떻게든 하인으로라도 데려가고 싶은 히메사마와 여기서 헤어져야 함을 느끼는 테츠오일까요. 이 공주님은 원래 자기가 있던 세계로 돌아가는 게 맞으니까, 우치카케를 길게 끌며 산 꼭대기 천수각으로 돌아가는 게..."
+	},
+	{
+		"created_at": "Sun May 28 15:58:25 +0000 2023",
+		"id": 1662850825344159700,
+		"id_str": "1662850825344159745",
+		"full_text": "@c__706 요양 때문에 높은 성에서 내려와 마을 근처 절에서 지내던 공주님이라거나요ㅎㅎㅎ절의 삯일을 해주던 테츠오가 공주님 심부름까지 해주는 것도 자연스런 수순이겠죠. \n역시 전국시대라 하면 정략결혼의 시련이ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662848048878461000,
+		"in_reply_to_status_id_str": "1662848048878460929",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 요양 때문에 높은 성에서 내려와 마을 근처 절에서 지내던 공주님이라거나요ㅎㅎㅎ절의 삯일을 해주던 테츠오가 공주님 심부름까지 해주는 것도 자연스런 수순이겠죠. \n역시 전국시대라 하면 정략결혼의 시련이ㅋㅋ"
+	},
+	{
+		"created_at": "Sun May 28 15:44:47 +0000 2023",
+		"id": 1662847394726412300,
+		"id_str": "1662847394726412293",
+		"full_text": "@c__706 오히려 한 다리를 묘하게 끌며 불편해하는 모습이 더 보호본능을 자극하는 줄도 모르고🤪\n매번 공주님의 외출을 눈감아주며 몰래 뒤따르는 노리오와 테츠오의 가드를 뚫고 저 공주님을 어떻게 해서 한 몫 크게 땡기고픈 류도 생각나고 그러네요 ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662845809665400800,
+		"in_reply_to_status_id_str": "1662845809665400832",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 오히려 한 다리를 묘하게 끌며 불편해하는 모습이 더 보호본능을 자극하는 줄도 모르고🤪\n매번 공주님의 외출을 눈감아주며 몰래 뒤따르는 노리오와 테츠오의 가드를 뚫고 저 공주님을 어떻게 해서 한 몫 크게 땡기고픈 류도 생각나고 그러네요 ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun May 28 15:34:49 +0000 2023",
+		"id": 1662844884095729700,
+		"id_str": "1662844884095729664",
+		"full_text": "@c__706 한 쪽 다리를 다치게 되어 실의에 빠져 자살하러 나온 공주를 구한건가요~테츠오 입장에서는 사실 다리 하나 다쳐도 여전히 귀한 공주님인데 뭐가 문제지 싶고..하지만 그 공주님이 이후 자길 만나러 자주 성을 내려오는 건 좋고..",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662843663536488400,
+		"in_reply_to_status_id_str": "1662843663536488455",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 한 쪽 다리를 다치게 되어 실의에 빠져 자살하러 나온 공주를 구한건가요~테츠오 입장에서는 사실 다리 하나 다쳐도 여전히 귀한 공주님인데 뭐가 문제지 싶고..하지만 그 공주님이 이후 자길 만나러 자주 성을 내려오는 건 좋고.."
+	},
+	{
+		"created_at": "Sun May 28 15:28:59 +0000 2023",
+		"id": 1662843416492003300,
+		"id_str": "1662843416492003329",
+		"full_text": "@c__706 제가 또 전국시대도 좋아하는 거 어떻게 아시고🥰🥰🥰 테츠오 완전 말단 무사여도 좋은데 아예 농민 계급이라 원래라면 히메사마를 쳐다보지도 못할 위치여도 좋을 것 같아요 히히",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662842871756787700,
+		"in_reply_to_status_id_str": "1662842871756787717",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 제가 또 전국시대도 좋아하는 거 어떻게 아시고🥰🥰🥰 테츠오 완전 말단 무사여도 좋은데 아예 농민 계급이라 원래라면 히메사마를 쳐다보지도 못할 위치여도 좋을 것 같아요 히히"
+	},
+	{
+		"created_at": "Sun May 28 15:24:10 +0000 2023",
+		"id": 1662842204556234800,
+		"id_str": "1662842204556234752",
+		"full_text": "@c__706 히메사마 손이 섬섬옥수에요😭😭 안겨있으면서도 어디를 응시하는지 모를 눈빛이 많은 걸 상상하게 하네요😊",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c__706",
+					"name": "노비",
+					"id": 1445906640927031300,
+					"id_str": "1445906640927031299",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1662828672880107500,
+		"in_reply_to_status_id_str": "1662828672880107521",
+		"in_reply_to_user_id": 1445906640927031300,
+		"in_reply_to_user_id_str": "1445906640927031299",
+		"in_reply_to_screen_name": "c__706",
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@c__706 히메사마 손이 섬섬옥수에요😭😭 안겨있으면서도 어디를 응시하는지 모를 눈빛이 많은 걸 상상하게 하네요😊"
+	},
+	{
+		"created_at": "Sun May 28 10:19:49 +0000 2023",
+		"id": 1662765611330703400,
+		"id_str": "1662765611330703361",
+		"full_text": "태섭대만태웅으로 정대만 향한 자기 마음 숨기고 지켜보기만 하려했던 태섭인데 서태웅이 먼저 돌진하는 거 목격하고 생각바뀌면 좋겠다. 후배놈이 정대만 락커에 밀어붙이고 입 맞추는 모습을 우연히 봤다거나...정대만 주먹 날리는 것까지 보면서 내가 키스해도 저럴까 생각하며...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2327283314,
+			"id_str": "2327283314",
+			"name": "앵무",
+			"screen_name": "celebaduial",
+			"location": "",
+			"description": "(톨킨)★핀골페아★핀골피니안x페아노리안/(얼하·호의행)묵연만녕·페이윈/(슬램덩크)태섭대만 https://t.co/jKrr84pgrb ⬆️성인⬆️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jKrr84pgrb",
+							"expanded_url": "https://psittacus.postype.com",
+							"display_url": "psittacus.postype.com",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 28,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Tue Feb 04 15:20:49 +0000 2014",
+			"favourites_count": 8526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500447576025305088/kC2bV5ay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2327283314/1402311429",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "태섭대만태웅으로 정대만 향한 자기 마음 숨기고 지켜보기만 하려했던 태섭인데 서태웅이 먼저 돌진하는 거 목격하고 생각바뀌면 좋겠다. 후배놈이 정대만 락커에 밀어붙이고 입 맞추는 모습을 우연히 봤다거나...정대만 주먹 날리는 것까지 보면서 내가 키스해도 저럴까 생각하며..."
+	},
+	{
 		"created_at": "Sat May 27 08:05:47 +0000 2023",
 		"id": 1662341392667144200,
 		"id_str": "1662369494331965441",
@@ -178,7 +1184,7 @@ Grailbird.data.tweets_2023_05 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "디엠확인늦어요많이",
-			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/aK1QJFnSMG",
 			"entities": {
 				"url": {
