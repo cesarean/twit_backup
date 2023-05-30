@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 30 14:27:05 +0000 2023",
+		"id": 1663548821446742000,
+		"id_str": "1663552614586544129",
+		"full_text": "해포AU\n그리핀도르의 바보트리오 https://t.co/JnghtjjXxi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1663548508635537400,
+					"id_str": "1663548508635537409",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FxYcjgPaIAEb7PU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxYcjgPaIAEb7PU.jpg",
+					"url": "https://t.co/JnghtjjXxi",
+					"display_url": "pic.twitter.com/JnghtjjXxi",
+					"expanded_url": "https://twitter.com/sennn24/status/1663548821446742016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663548508635537400,
+					"id_str": "1663548508635537409",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FxYcjgPaIAEb7PU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxYcjgPaIAEb7PU.jpg",
+					"url": "https://t.co/JnghtjjXxi",
+					"display_url": "pic.twitter.com/JnghtjjXxi",
+					"expanded_url": "https://twitter.com/sennn24/status/1663548821446742016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1662790805181042700,
+		"in_reply_to_status_id_str": "1662790805181042688",
+		"in_reply_to_user_id": 2737836121,
+		"in_reply_to_user_id_str": "2737836121",
+		"in_reply_to_screen_name": "sennn24",
+		"user": {
+			"id": 2737836121,
+			"id_str": "2737836121",
+			"name": "🏀하는 국신/쿡",
+			"screen_name": "sennn24",
+			"location": "",
+			"description": "자캐위주 잡덕/오비츠24/좌우고정 단일커플; 마비노기(톨비쉬와 비이입드림),모리일표(갓오하),에브아메(3차🚫엘소드),사이가로(원펀맨)/게임많이함/리트윗짱많음/알람x",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1097,
+			"friends_count": 264,
+			"listed_count": 11,
+			"created_at": "Sat Aug 16 18:22:21 +0000 2014",
+			"favourites_count": 34517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1608837908630470664/SJ3ju7Tp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1608837908630470664/SJ3ju7Tp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2737836121/1639656436",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 188,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해포AU\n그리핀도르의 바보트리오 https://t.co/JnghtjjXxi"
+	},
+	{
 		"created_at": "Mon May 29 15:38:49 +0000 2023",
 		"id": 1663208279714193400,
 		"id_str": "1663208279714193408",
@@ -489,7 +651,7 @@ Grailbird.data.tweets_2023_05 =
 		"user": {
 			"id": 1467206511013544000,
 			"id_str": "1467206511013543936",
-			"name": "T14🙇‍♀️74",
+			"name": "T14🙇♀️74",
 			"screen_name": "DeuQ716AEiNZ51q",
 			"location": "",
 			"description": "장기 전속출연 똥꼬쇼 매일밤 11시 30분 출연 뭔가 보여드리겠습니다",
