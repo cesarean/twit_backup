@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Tue Jun 06 14:06:07 +0000 2023",
+		"id": 1666079286091214800,
+		"id_str": "1666084056168280067",
+		"full_text": "탱댐/ 꿈 https://t.co/XzoGt5Dq7b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666079160912216000,
+					"id_str": "1666079160912216064",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx8aK2nagAAiT_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx8aK2nagAAiT_c.jpg",
+					"url": "https://t.co/XzoGt5Dq7b",
+					"display_url": "pic.twitter.com/XzoGt5Dq7b",
+					"expanded_url": "https://twitter.com/chainssaee/status/1666079286091214848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666079160912216000,
+					"id_str": "1666079160912216064",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx8aK2nagAAiT_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx8aK2nagAAiT_c.jpg",
+					"url": "https://t.co/XzoGt5Dq7b",
+					"display_url": "pic.twitter.com/XzoGt5Dq7b",
+					"expanded_url": "https://twitter.com/chainssaee/status/1666079286091214848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666079182357663700,
+					"id_str": "1666079182357663746",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx8aMGgaEAIKkFE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx8aMGgaEAIKkFE.jpg",
+					"url": "https://t.co/XzoGt5Dq7b",
+					"display_url": "pic.twitter.com/XzoGt5Dq7b",
+					"expanded_url": "https://twitter.com/chainssaee/status/1666079286091214848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666079200267337700,
+					"id_str": "1666079200267337729",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx8aNJOaAAEs--B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx8aNJOaAAEs--B.jpg",
+					"url": "https://t.co/XzoGt5Dq7b",
+					"display_url": "pic.twitter.com/XzoGt5Dq7b",
+					"expanded_url": "https://twitter.com/chainssaee/status/1666079286091214848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 811,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2039,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1503899974223884300,
+			"id_str": "1503899974223884289",
+			"name": "SAE☃︎",
+			"screen_name": "chainssaee",
+			"location": "디엠확인늦어요많이",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"url": "https://t.co/aK1QJFnSMG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aK1QJFnSMG",
+							"expanded_url": "http://pushoong.com/7751639846?c=3",
+							"display_url": "pushoong.com/7751639846?c=3",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112437,
+			"friends_count": 0,
+			"listed_count": 531,
+			"created_at": "Wed Mar 16 01:04:43 +0000 2022",
+			"favourites_count": 286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1659548376088838145/tBLNd33x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1659548376088838145/tBLNd33x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1503899974223884289/1667576675",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1763,
+		"favorite_count": 3901,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱댐/ 꿈 https://t.co/XzoGt5Dq7b"
+	},
+	{
 		"created_at": "Mon Jun 05 12:50:31 +0000 2023",
 		"id": 1665692999802577000,
 		"id_str": "1665702640209244161",
