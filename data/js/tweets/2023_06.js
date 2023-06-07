@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 00:11:26 +0000 2023",
+		"id": 1666215565395112000,
+		"id_str": "1666236388885549056",
+		"full_text": "센루 대협태웅\n짝사랑중인 서태웅과 유죄인간 윤대협.. https://t.co/WvrgqGgdXU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666215299002282000,
+					"id_str": "1666215299002281986",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-V_IhaMAIuyrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-V_IhaMAIuyrg.jpg",
+					"url": "https://t.co/WvrgqGgdXU",
+					"display_url": "pic.twitter.com/WvrgqGgdXU",
+					"expanded_url": "https://twitter.com/nongkkeopul/status/1666215565395111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666215299002282000,
+					"id_str": "1666215299002281986",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-V_IhaMAIuyrg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-V_IhaMAIuyrg.jpg",
+					"url": "https://t.co/WvrgqGgdXU",
+					"display_url": "pic.twitter.com/WvrgqGgdXU",
+					"expanded_url": "https://twitter.com/nongkkeopul/status/1666215565395111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1419,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666215326152011800,
+					"id_str": "1666215326152011777",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-WAtqaMAEknxL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-WAtqaMAEknxL.jpg",
+					"url": "https://t.co/WvrgqGgdXU",
+					"display_url": "pic.twitter.com/WvrgqGgdXU",
+					"expanded_url": "https://twitter.com/nongkkeopul/status/1666215565395111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1419,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666215352035061800,
+					"id_str": "1666215352035061765",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-WCOFaMAUl6G3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-WCOFaMAUl6G3.jpg",
+					"url": "https://t.co/WvrgqGgdXU",
+					"display_url": "pic.twitter.com/WvrgqGgdXU",
+					"expanded_url": "https://twitter.com/nongkkeopul/status/1666215565395111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666215378375315500,
+					"id_str": "1666215378375315456",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fx-WDwNakAA3J9i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fx-WDwNakAA3J9i.jpg",
+					"url": "https://t.co/WvrgqGgdXU",
+					"display_url": "pic.twitter.com/WvrgqGgdXU",
+					"expanded_url": "https://twitter.com/nongkkeopul/status/1666215565395111936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1626894101949091800,
+			"id_str": "1626894101949091842",
+			"name": "농꺼풀",
+			"screen_name": "nongkkeopul",
+			"location": "",
+			"description": "구독해용 / 주식 센루 대협태웅 /\n리퀘 및 질문 ▶ https://t.co/O8m0taqFEQ",
+			"url": "https://t.co/zjvmHHQkAf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjvmHHQkAf",
+							"expanded_url": "https://nongkkeopul.postype.com/",
+							"display_url": "nongkkeopul.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/O8m0taqFEQ",
+							"expanded_url": "https://spinspin.net/nongkkeopul",
+							"display_url": "spinspin.net/nongkkeopul",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2852,
+			"friends_count": 39,
+			"listed_count": 20,
+			"created_at": "Sat Feb 18 10:39:24 +0000 2023",
+			"favourites_count": 2501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1651663775089688577/cNq20QHD_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1651663775089688577/cNq20QHD_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1626894101949091842/1680715409",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 1570,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "센루 대협태웅\n짝사랑중인 서태웅과 유죄인간 윤대협.. https://t.co/WvrgqGgdXU"
+	},
+	{
 		"created_at": "Tue Jun 06 14:06:07 +0000 2023",
 		"id": 1666079286091214800,
 		"id_str": "1666084056168280067",
@@ -178,7 +471,7 @@ Grailbird.data.tweets_2023_06 =
 			"name": "SAE☃︎",
 			"screen_name": "chainssaee",
 			"location": "디엠확인늦어요많이",
-			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇‍♀️",
+			"description": "마카롱김치찌개 (현재슬덩버닝중/ 첸소 사카데이 등) DO NOT REPOST /비엘지엘헤테로다있음 /스포있음/ 헤더: 큐티섹시얀쨩 //프박하지않습니다🙇♀️",
 			"url": "https://t.co/aK1QJFnSMG",
 			"entities": {
 				"url": {
