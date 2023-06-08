@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Wed Jun 07 23:37:50 +0000 2023",
+		"id": 1666451853062578200,
+		"id_str": "1666590320593879040",
+		"full_text": "능남 센루 \n서때웅이가 질투했으면, ,, https://t.co/gMfO87x4Sw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1666451759173181400,
+					"id_str": "1666451759173181441",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FyBtC7TXoAEqNor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyBtC7TXoAEqNor.jpg",
+					"url": "https://t.co/gMfO87x4Sw",
+					"display_url": "pic.twitter.com/gMfO87x4Sw",
+					"expanded_url": "https://twitter.com/42_6_Kk/status/1666451853062578178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1666451759173181400,
+					"id_str": "1666451759173181441",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FyBtC7TXoAEqNor.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyBtC7TXoAEqNor.jpg",
+					"url": "https://t.co/gMfO87x4Sw",
+					"display_url": "pic.twitter.com/gMfO87x4Sw",
+					"expanded_url": "https://twitter.com/42_6_Kk/status/1666451853062578178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666451730035294200,
+					"id_str": "1666451730035294213",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FyBtBOwWwAUrBnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyBtBOwWwAUrBnH.jpg",
+					"url": "https://t.co/gMfO87x4Sw",
+					"display_url": "pic.twitter.com/gMfO87x4Sw",
+					"expanded_url": "https://twitter.com/42_6_Kk/status/1666451853062578178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666451730626666500,
+					"id_str": "1666451730626666496",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FyBtBQ9WYAAOmUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyBtBQ9WYAAOmUZ.jpg",
+					"url": "https://t.co/gMfO87x4Sw",
+					"display_url": "pic.twitter.com/gMfO87x4Sw",
+					"expanded_url": "https://twitter.com/42_6_Kk/status/1666451853062578178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1666451730534477800,
+					"id_str": "1666451730534477825",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FyBtBQnXsAEdAPC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyBtBQnXsAEdAPC.jpg",
+					"url": "https://t.co/gMfO87x4Sw",
+					"display_url": "pic.twitter.com/gMfO87x4Sw",
+					"expanded_url": "https://twitter.com/42_6_Kk/status/1666451853062578178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1354096840401064000,
+			"id_str": "1354096840401063936",
+			"name": "깡",
+			"screen_name": "42_6_Kk",
+			"location": "장르팔로비추 서태웅 윤대협 그리고 웅냥즈",
+			"description": "일상계+농놀 ૮( ᴖ ·̫ ᴖ )ა 💜(^_ _^).zZ",
+			"url": "https://t.co/chb37FU0DB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/chb37FU0DB",
+							"expanded_url": "https://peing.net/ko/1e29394571e93f",
+							"display_url": "peing.net/ko/1e29394571e…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3329,
+			"friends_count": 120,
+			"listed_count": 38,
+			"created_at": "Tue Jan 26 16:00:24 +0000 2021",
+			"favourites_count": 2076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1658387733218476033/vb9lM3Lx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1658387733218476033/vb9lM3Lx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354096840401063936/1680919369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 820,
+		"favorite_count": 1737,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "능남 센루 \n서때웅이가 질투했으면, ,, https://t.co/gMfO87x4Sw"
+	},
+	{
 		"created_at": "Wed Jun 07 00:11:26 +0000 2023",
 		"id": 1666215565395112000,
 		"id_str": "1666236388885549056",
