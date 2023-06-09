@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 15:57:11 +0000 2023",
+		"id": 1667194813631041500,
+		"id_str": "1667199170434965504",
+		"full_text": "산왕공고 축제날 https://t.co/Uf9QskvSjd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1667194787919982600,
+					"id_str": "1667194787919982593",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FyMQ05FacAEN7vT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyMQ05FacAEN7vT.jpg",
+					"url": "https://t.co/Uf9QskvSjd",
+					"display_url": "pic.twitter.com/Uf9QskvSjd",
+					"expanded_url": "https://twitter.com/168_59_B/status/1667194813631041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1089,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1667194787919982600,
+					"id_str": "1667194787919982593",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FyMQ05FacAEN7vT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyMQ05FacAEN7vT.jpg",
+					"url": "https://t.co/Uf9QskvSjd",
+					"display_url": "pic.twitter.com/Uf9QskvSjd",
+					"expanded_url": "https://twitter.com/168_59_B/status/1667194813631041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1089,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1667194804781072400,
+					"id_str": "1667194804781072384",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FyMQ135aQAAIznV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyMQ135aQAAIznV.jpg",
+					"url": "https://t.co/Uf9QskvSjd",
+					"display_url": "pic.twitter.com/Uf9QskvSjd",
+					"expanded_url": "https://twitter.com/168_59_B/status/1667194813631041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 488,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1089,
+							"h": 1516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1613177170473652200,
+			"id_str": "1613177170473652224",
+			"name": "태밥",
+			"screen_name": "168_59_B",
+			"location": "",
+			"description": "화이팅~ 오~!\n모든 cp 리버스ok 리버시블 알림x \n💾백업 https://t.co/Uw3z3mu7GK 리퀘/감상📩\nhttps://t.co/HxI9gPFi8o\n모든 그림의 무단 사용 금지. DO NOT REPOST⛔",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uw3z3mu7GK",
+							"expanded_url": "http://168-59-b.postype.com",
+							"display_url": "168-59-b.postype.com",
+							"indices": [
+								35,
+								58
+							]
+						},
+						{
+							"url": "https://t.co/HxI9gPFi8o",
+							"expanded_url": "http://naver.me/xzLMHY4u",
+							"display_url": "naver.me/xzLMHY4u",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 33003,
+			"friends_count": 23,
+			"listed_count": 261,
+			"created_at": "Wed Jan 11 14:13:27 +0000 2023",
+			"favourites_count": 287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1616778986771861505/vg2JFnDA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1616778986771861505/vg2JFnDA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1613177170473652224/1673447944",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1289,
+		"favorite_count": 2477,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "산왕공고 축제날 https://t.co/Uf9QskvSjd"
+	},
+	{
 		"created_at": "Wed Jun 07 23:37:50 +0000 2023",
 		"id": 1666451853062578200,
 		"id_str": "1666590320593879040",
