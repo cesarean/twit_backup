@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_06 = 
 [
 	{
+		"created_at": "Sat Jun 10 15:38:26 +0000 2023",
+		"id": 1667451506294161400,
+		"id_str": "1667556838827790336",
+		"full_text": "2023/06/10 (토) 태섭대만 온리전에서 위탁판매한 신간 &lt;그래서 누가 먹었어?&gt; 를 포스타입에 유료발행했습니다. (성인)\nhttps://t.co/kilsLZUZnA\n\n- 동인지 최종 사양 : R19 | A5, 52페이지 (34400자) | 무선제본\n- 2023/07/23 대운동회에서도 판매 예정입니다. (추후 선입금 진행) https://t.co/fSEE9Ejlf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kilsLZUZnA",
+					"expanded_url": "https://posty.pe/p5ewa4",
+					"display_url": "posty.pe/p5ewa4",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1667451262324076500,
+					"id_str": "1667451262324076544",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FyP6FqsacAAcAEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyP6FqsacAAcAEB.jpg",
+					"url": "https://t.co/fSEE9Ejlf0",
+					"display_url": "pic.twitter.com/fSEE9Ejlf0",
+					"expanded_url": "https://twitter.com/case_xieji/status/1667451506294161409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 933,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1667451262324076500,
+					"id_str": "1667451262324076544",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FyP6FqsacAAcAEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FyP6FqsacAAcAEB.jpg",
+					"url": "https://t.co/fSEE9Ejlf0",
+					"display_url": "pic.twitter.com/fSEE9Ejlf0",
+					"expanded_url": "https://twitter.com/case_xieji/status/1667451506294161409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 933,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1593,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1664619839242272800,
+		"in_reply_to_status_id_str": "1664619839242272769",
+		"in_reply_to_user_id": 1434308900560400400,
+		"in_reply_to_user_id_str": "1434308900560400385",
+		"in_reply_to_screen_name": "case_xieji",
+		"user": {
+			"id": 1434308900560400400,
+			"id_str": "1434308900560400385",
+			"name": "세지 (7월 대운동회)",
+			"screen_name": "case_xieji",
+			"location": "전방십자인대 파열 주의보",
+			"description": "농놀중이지만 장르계는 아닙니다... #대만른 #명헌른 멘션, 디엠에 응답 없는 건 고의가 아닙니다😭😭",
+			"url": "https://t.co/WvYr5Hsmcf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WvYr5Hsmcf",
+							"expanded_url": "https://typea184cm.postype.com",
+							"display_url": "typea184cm.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Sun Sep 05 00:15:03 +0000 2021",
+			"favourites_count": 3250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434312522828423177/57HFtaCG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434312522828423177/57HFtaCG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1434308900560400385/1675902513",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2023/06/10 (토) 태섭대만 온리전에서 위탁판매한 신간 &lt;그래서 누가 먹었어?&gt; 를 포스타입에 유료발행했습니다. (성인)\nhttps://t.co/kilsLZUZnA\n\n- 동인지 최종 사양 : R19 | A5, 52페이지 (34400자) | 무선제본\n- 2023/07/23 대운동회에서도 판매 예정입니다. (추후 선입금 진행) https://t.co/fSEE9Ejlf0"
+	},
+	{
 		"created_at": "Fri Jun 09 15:57:11 +0000 2023",
 		"id": 1667194813631041500,
 		"id_str": "1667199170434965504",
